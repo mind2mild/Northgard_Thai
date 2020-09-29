@@ -183,7 +183,7 @@
 	</g>
 
 	<g id="buttons">
-		<t id="build">สร้าง <font color="#T" opacity="0.5">[:: คีย์ลัด ::]</font> </t>
+		<t id="build">สร้าง <font color="#T" opacity="0.5">[:: hotkey ::]</font> </t>
 		<t id="buy_drakkar">Build a Longship for <img src="/r/Wood"/>::cost::</t>
 		<t id="start_raid">Start Raid</t>
 		<t id="resume_raid">Resume Raid</t>
