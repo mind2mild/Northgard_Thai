@@ -10,22 +10,22 @@
 	<t id="unknown_clan">Unknown</t>
 	<t id="random">Random</t>
 
-	<t id="months">January|February|March|April|May|June|July|August|September|October|November|December</t>
-	<t id="months_short">Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec</t>
+	<t id="months">มกราคม|February|March|April|May|June|July|August|September|October|November|December</t>
+	<t id="months_short">ม.ค.|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec</t>
 
 	<t id="date">::year:: AD - ::month::</t>
 	<t id="dateCampaign">Year ::year:: - ::month::</t>
 
 	<g id="titles">
-		<t id="population">Population</t>
-		<t id="civilians">Civilians</t>
-		<t id="slaves">Thralls</t>
-		<t id="warband">Warband</t>
-		<t id="allies">Allies</t>
-		<t id="buildings">Buildings</t>
-		<t id="standard">Standard</t>
-		<t id="military">Military</t>
-		<t id="advanced">Advanced</t>
+		<t id="population">ประชากร</t>
+		<t id="civilians">พลเรือน</t>
+		<t id="slaves">ทาส</t>
+		<t id="warband">นักรบ</t>
+		<t id="allies">พันธมิตร</t>
+		<t id="buildings">สิ่งปลูกสร้าง</t>
+		<t id="standard">มาตรฐาน</t>
+		<t id="military">ทหาร</t>
+		<t id="advanced">ขั้นสูง</t>
 	</g>
 
 	<g id="great_trade_route_names">
@@ -42,11 +42,11 @@
 
 		<g id="military">
 			<t id="title">การปกครอง</t>
-			<t id="desc">Destroy other players' <font color="#R">Town Halls</font> and become the master of Northgard.</t>
+			<t id="desc">ทำลาย<font color="#R">Town Halls</font>ผู้เล่นอื่น และกลายเป็นเจ้าแห่งนอร์ทการ์ด </t>
 		</g>
 		<g id="lore">
-			<t id="title">Wisdom</t>
-			<t id="desc">Discover ancient knowledge and become the <font color="#R">wisest Clan leader</font> in Northgard.</t>
+			<t id="title">ภูมิปัญญา</t>
+			<t id="desc">ค้นพบความรู้โบราณและกลายเป็น <font color="#R">ผู้นำเผ่าที่ฉลาดที่สุด</font>ในนอร์ทการ์ด</t>
 		</g>
 		<g id="yggdrasil">
 			<t id="title">Yggdrasil</t>
@@ -57,11 +57,11 @@
 			<t id="desc">Take control of the <font color="#R">Gates of Helheim</font> and defend the area against the [Valkyrie]s.</t>
 		</g>
 		<g id="money">
-			<t id="title">Trade</t>
-			<t id="desc">Amass riches to become the <font color="#R"> greatest merchant</font> in Northgard.</t>
+			<t id="title">การค้า</t>
+			<t id="desc">สะสมความร่ำรวยให้กลายเป็น<font color="#R"> พ่อค้าที่ยิ่งใหญ่ที่สุด</font>ในนอร์ทการ์ด</t>
 		</g>
 		<g id="fame">
-			<t id="title">Fame</t>
+			<t id="title">ชื่อเสียง</t>
 			<t id="desc">Gain enough [Territory] and raise your [Fame] to obtain the title of <font color="#R">King</font>.</t>
 		</g>
 		<g id="fameWithoutTerritory">
@@ -77,11 +77,11 @@
 			<t id="desc">Colonize the Anvil of Gods and forge Odin's legendary sword using [Iron].</t>
 		</g>
 		<g id="campaign">
-			<t id="title">Story Mode</t>
+			<t id="title">โหมดเนื้อเรื่อง</t>
 		</g>
 		<g id="killlichking">
-			<t id="title">Kill [LichKing]</t>
-			<t id="desc">Command your alliance and kill [LichKing].</t>
+			<t id="title">ฆ่า [LichKing]</t>
+			<t id="desc">บัญชาการพันธมิตรของคุณและฆ่า [LichKing].</t>
 		</g>
 		<g id="surviveyears">
 			<t id="title">Survival</t>
@@ -1007,14 +1007,14 @@ u						<t id="key1">W</t>
 		<t id="sick">เรากำลังป่วย!</t>
 		<t id="total">ความสุขในปัจจุบัน</t>
 		<t id="current">ความสุขที่คาดหวัง</t>
-		<t id="next">ขณะนี้เรามี <img src="/r/Happy"/><font color="#G">+::v::</font>. ชาวบ้านใหม่หนึ่งคนจะเข้าร่วมกลุ่มของคุณทุกๆ <font color="#R">::time::</font> วัน </t>
+		<t id="next">ขณะนี้เรามี <img src="/r/Happy"/><font color="#G">+::v::</font>ชาวบ้านใหม่หนึ่งคนจะเข้าร่วมกลุ่มของคุณทุกๆ <font color="#R">::time::</font> วัน </t>
 	</g>
 
 	<g id="tip">
 
 		<!-- RESOURCES UI -->
 
-		<t id="happy_progress">Next villager: ::p::%</t>
+		<t id="happy_progress">ชาวบ้านคนถัดไป: ::p::%</t>
 		<t id="cycle">Cycle</t>
 		<t id="select_all">Select All</t>
 
