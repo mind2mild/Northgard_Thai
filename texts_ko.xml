@@ -691,8 +691,8 @@ u						<t id="key1">W</t>
 
 	<g id="abilities">
 		<g id="no_use_reason">
-			<t id="cant_colonize_zone">This area can't be colonized at this time.</t>
-			<t id="no_tower">No allied defense tower in this area.</t>
+			<t id="cant_colonize_zone">พื้นที่นี้ไม่สามารถตั้งอาณานิคมได้ในขณะนี้</t>
+			<t id="no_tower">ไม่มีหอคอยป้องกันพันธมิตรในบริเวณนี้</t>
 			<t id="no_producing_building">Need a [Food], [Wood] or [Money] building.</t>
 			<t id="no_building">There is no building in this area.</t>
 			<t id="not_relic_creator">You can't use this relic, you aren't its creator.</t>
