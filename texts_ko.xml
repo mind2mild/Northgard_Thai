@@ -37,11 +37,11 @@
 
 	<g id="victories">
 
-		<t id="all">All</t>
-		<t id="domination_only">Domination only</t>
+		<t id="all">ทั้งหมด</t>
+		<t id="domination_only">การปกครองเท่านั้น</t>
 
 		<g id="military">
-			<t id="title">Domination</t>
+			<t id="title">การปกครอง</t>
 			<t id="desc">Destroy other players' <font color="#R">Town Halls</font> and become the master of Northgard.</t>
 		</g>
 		<g id="lore">
@@ -183,7 +183,7 @@
 	</g>
 
 	<g id="buttons">
-		<t id="build">BUILD <font color="#T" opacity="0.5">[::hotkey::]</font> </t>
+		<t id="build">สร้าง <font color="#T" opacity="0.5">[:: คีย์ลัด ::]</font> </t>
 		<t id="buy_drakkar">Build a Longship for <img src="/r/Wood"/>::cost::</t>
 		<t id="start_raid">Start Raid</t>
 		<t id="resume_raid">Resume Raid</t>
@@ -249,28 +249,28 @@
 
 	<g id="ui">
 		<g id="menu">
-			<t id="save">Save Game</t>
-			<t id="play">Return to Game</t>
+			<t id="save">บันทึกเกม</t>
+			<t id="play">กลับบสู่เกม</t>
 			<t id="return_map">ออก</t>
 			<t id="options">ตัวเลือก</t>
-			<t id="return_title">Quit to Title</t>
-			<t id="concede">Concede Game</t>
-			<t id="continue_game">Keep Playing</t>
-			<t id="continue_campaign">Continue</t>
-			<t id="retry_campaign">Retry</t>
-			<t id="watch_game">Keep Watching Game</t>
-			<t id="clan_select">Select Clan</t>
-			<t id="back">Back</t>
-			<t id="game_pause">Pause Game</t>
-			<t id="game_unpause">Resume Game</t>
-			<t id="show_victory_conditions">View Victory Conditions</t>
+			<t id="return_title">ออกไปหน้าแรก</t>
+			<t id="concede">ยอมรับเกม</t>
+			<t id="continue_game">เล่นต่อไป</t>
+			<t id="continue_campaign">ดำเนินการต่อ</t>
+			<t id="retry_campaign">ลองอีกครั้ง</t>
+			<t id="watch_game">ดูเกมต่อไป</t>
+			<t id="clan_select">เลือก Clan</t>
+			<t id="back">กลับ</t>
+			<t id="game_pause">หยุดเกม</t>
+			<t id="game_unpause">กลับสู่เกม</t>
+			<t id="show_victory_conditions">ดูเงื่อนไขชัยชนะ</t>
 			<t id="campaign_lore">Replay Story</t>
-			<t id="campaign_load">Load</t>
+			<t id="campaign_load">โหลด</t>
 		</g>
 
 		<g id="profile">
-			<t id="title">Player Profile</t>
-			<t id="overall">Overall Progress</t>
+			<t id="title">โปรไฟล์ผู้เล่น</t>
+			<t id="overall">ความคืบหน้าโดยรวม</t>
 			<g id="rank_titles">
 				<t>Villager</t>
 				<t>Warrior</t>
