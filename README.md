@@ -1,2 +1,0 @@
-# Northgard_Thai
-Northgard_Thai_Translator
