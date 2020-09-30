@@ -190,8 +190,8 @@
 		<t id="stop_raid">หยุดการตรวจค้น</t>
 		<t id="choose_trade_road">สร้างเส้นทางการค้า</t>
 		<t id="change_trade_road">เปลี่ยนเส้นทางการค้า</t>
-		<t id="upgrade_building">Upgrade</t>
-		<t id="reset_building">Reset</t>
+		<t id="upgrade_building">อัพเกรด</t>
+		<t id="reset_building">รีเซ็ต</t>
 		<t id="unlock_great_route">Unlock Great Routes</t>
 		<t id="colonize">Colonize for <img src="/r/::r::"/><font color="::color::">::cost::</font>::extra::</t>
 		<t id="cantColonize">Can't colonize</t>

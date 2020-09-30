@@ -1,12 +1,12 @@
 <cdb>
 	<sheet name="resource">
 		<Food>
-			<name>Food</name>
+			<name>อาหาร</name>
 			<desc>[Food] is necessary to feed your clan. Stock up on food before winter. Avoid starvation at all costs.</desc>
 			<langs.plural>Food</langs.plural>
 		</Food>
 		<Wood>
-			<name>Wood</name>
+			<name>ไม้</name>
 			<desc>[Wood] is used to construct buildings and as Firewood, especially during winter.</desc>
 			<langs.plural>Wood</langs.plural>
 		</Wood>
@@ -18,11 +18,11 @@
 			<name>Building</name>
 		</Building>
 		<Happy>
-			<name>Happiness</name>
+			<name>ความสุข</name>
 			<desc>[Happy] will attract new villagers to your Town Hall. Improve your people's Happiness to accelerate this process.</desc>
 		</Happy>
 		<Population>
-			<name>Population</name>
+			<name>ประชากร</name>
 		</Population>
 		<Warband>
 			<name>Warband</name>
@@ -6747,7 +6747,7 @@
 		</ArmorAtk>
 		<LeggingAtk>
 			<name>Heimdall's Traveler Leggings</name>
-			<desc>Unlock the [OxHeroAoE] passive ability, which allows area of effect attacks. Increase move speed by 20% in neutral or enemy territory. 
+			<desc>Unlock the [OxHeroAoE] passive ability, which allows area of effect attacks. Increase move speed by 20% in neutral or enemy territory.
 </desc>
 		</LeggingAtk>
 	</sheet>
