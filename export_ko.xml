@@ -139,6 +139,7 @@
 		</Merchant>
 		<Sailor>
 			<name>กะลาสี</name>
+			<langs.plural>กะลาสี</langs.plural>
 			<desc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Fame] หรือ [Lore] มาที่เผ่าของคุณ</desc>
 			<props.noFameDesc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Lore] มาที่เผ่าของคุณ</props.noFameDesc>
 		</Sailor>
