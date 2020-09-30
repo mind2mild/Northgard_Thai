@@ -1184,31 +1184,31 @@
 	<sheet name="tech">
 		<Lumber>
 			<name>Sharp Axes</name>
-			<desc>คนตัดไม้จะผลิตไม้มากขึ้น ::percent:: </desc>
+			<desc>คนตัดไม้จะผลิตไม้มากขึ้น ::percent::</desc>
 		</Lumber>
 		<Weaponsmith>
 			<name>Weaponsmith</name>
-			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมดของคุณ ::percent::.</desc>
+			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมดของคุณ ::percent::</desc>
 		</Weaponsmith>
 		<Mining>
 			<name>Mining Efficiency</name>
-			<desc>[Miner]s extract ore from deposits ::percent:: faster.</desc>
+			<desc>[Miner] สกัดแร่เร็วขึ้น ::percent::</desc>
 		</Mining>
 		<Colonize>
 			<name>Colonization</name>
-			<desc>Reduces the amount of [Food] necessary to colonize one area by ::inv_percent::.</desc>
+			<desc>ลดจำนวน [Food] ที่จำเป็นในการตั้งรกรากพื้นที่หนึ่ง ::inv_percent::</desc>
 		</Colonize>
 		<BetterSilo>
 			<name>Eradication</name>
-			<desc>[FoodSilo]s gain a ::percent:: [Food] production bonus. Also reduces [FoodSilo] upgrade cost  by ::percent_value1::.</desc>
+			<desc>[FoodSilo] ได้รับโบนัสการผลิต [Food] ::percent:: และยังลดต้นทุนการอัพเกรด [FoodSilo] ::percent_value1::</desc>
 		</BetterSilo>
 		<Coats>
 			<name>Fur Coats</name>
-			<desc>Your units no longer have reduced power during winter.</desc>
+			<desc>ยูนิตของคุณพลังไม่ลดลงในช่วงฤดูหนาวอีกต่อไป</desc>
 		</Coats>
 		<Defense>
 			<name>Defensive Strategy</name>
-			<desc>Increases your civilians' attack and your Defense Towers' resistance by ::percent::.</desc>
+			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers ของคุณ ::percent::</desc>
 		</Defense>
 		<Drakkars>
 			<name>Shipbuilding</name>
