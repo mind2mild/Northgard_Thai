@@ -628,7 +628,7 @@
 			<desc>Assign your villagers to become [Hunter]s who will track and kill deer.</desc>
 		</HunterLodge>
 		<FoodSilo>
-			<name>Food Silo</name>
+			<name>คลังอาหาร</name>
 			<desc>Improves [Food] produced by specialized workers in this area by ::percent::. Increases your maximum food storage.</desc>
 			<upgrades>
 				<0>
@@ -1188,7 +1188,7 @@
 		</Lumber>
 		<Weaponsmith>
 			<name>Weaponsmith</name>
-			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมดของคุณ ::percent::</desc>
+			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมด ของคุณขึ้น ::percent::</desc>
 		</Weaponsmith>
 		<Mining>
 			<name>Mining Efficiency</name>
@@ -1200,7 +1200,7 @@
 		</Colonize>
 		<BetterSilo>
 			<name>Eradication</name>
-			<desc>[FoodSilo] ได้รับโบนัสการผลิต [Food] ::percent:: และยังลดต้นทุนการอัพเกรด [FoodSilo] ::percent_value1::</desc>
+			<desc>[FoodSilo] ได้รับโบนัสการผลิต [Food] ขึ้น ::percent:: และยังลดต้นทุนการอัพเกรด [FoodSilo] ::percent_value1::</desc>
 		</BetterSilo>
 		<Coats>
 			<name>Fur Coats</name>
@@ -1208,7 +1208,7 @@
 		</Coats>
 		<Defense>
 			<name>Defensive Strategy</name>
-			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers ของคุณ ::percent::</desc>
+			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers ของคุณขึ้น ::percent::</desc>
 		</Defense>
 		<Drakkars>
 			<name>Shipbuilding</name>
