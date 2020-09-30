@@ -1184,11 +1184,11 @@
 	<sheet name="tech">
 		<Lumber>
 			<name>Sharp Axes</name>
-			<desc>Your Woodcutters will produce ::percent:: more Wood.</desc>
+			<desc>คนตัดไม้จะผลิตไม้มากขึ้น ::percent:: </desc>
 		</Lumber>
 		<Weaponsmith>
 			<name>Weaponsmith</name>
-			<desc>Increases all your military units' attack power by ::percent::.</desc>
+			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมดของคุณ ::percent::.</desc>
 		</Weaponsmith>
 		<Mining>
 			<name>Mining Efficiency</name>
