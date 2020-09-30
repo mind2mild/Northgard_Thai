@@ -7,60 +7,60 @@
 		</Food>
 		<Wood>
 			<name>ไม้</name>
-			<desc>[Wood] is used to construct buildings and as Firewood, especially during winter.</desc>
+			<desc>[Wood] ใช้ในการสร้างอาคารและเป็นฟืนโดยเฉพาะในช่วงฤดูหนาว</desc>
 			<langs.plural>Wood</langs.plural>
 		</Wood>
 		<Money>
 			<name>Kröwns</name>
-			<desc>[Money] are used to recruit your Warband and for building upkeep.</desc>
+			<desc>[Money] ใช้เพื่อรับสมัครนักรบของคุณและสำหรับค่าบำรุงรักษาอาคาร</desc>
 		</Money>
 		<Building>
-			<name>Building</name>
+			<name>อาคาร</name>
 		</Building>
 		<Happy>
 			<name>ความสุข</name>
-			<desc>[Happy] will attract new villagers to your Town Hall. Improve your people's Happiness to accelerate this process.</desc>
+			<desc>[Happy] จะดึงดูดชาวบ้านใหม่มาที่ศาลากลางของคุณ เพิ่มความสุขของคุณเพื่อเร่งกระบวนการนี้</desc>
 		</Happy>
 		<Population>
 			<name>ประชากร</name>
 		</Population>
 		<Warband>
-			<name>Warband</name>
+			<name>กลุ่มนักรบ</name>
 		</Warband>
 		<SlavePop>
-			<name>Slave</name>
+			<name>ทาส</name>
 		</SlavePop>
 		<Lore>
-			<name>Lore</name>
-			<desc>[Lore] discovered in Northgard will allow you to improve your clan's Knowledge.</desc>
+			<name>ตำนวน</name>
+			<desc>[Lore] ที่ค้นพบในนอร์ทการ์ดจะช่วยให้คุณสามารถเพิ่มความรู้ของเผ่าได้</desc>
 		</Lore>
 		<Wheat>
-			<name>Wheat</name>
+			<name>ข้าวสาลี</name>
 		</Wheat>
 		<Fame>
 			<name>Fame</name>
 			<desc>Increase your [Fame] and be proclaimed King of Northgard!</desc>
 		</Fame>
 		<Fish>
-			<name>Fish</name>
+			<name>ปลา</name>
 		</Fish>
 		<Meat>
-			<name>Meat</name>
+			<name>เนื้อสด</name>
 		</Meat>
 		<Sailors>
 			<name>Sailors</name>
 		</Sailors>
 		<Territory>
-			<name>Territory</name>
+			<name>อาณาเขต</name>
 		</Territory>
 		<Forge>
-			<name>Forge</name>
+			<name>โรงฅีเหล็ก</name>
 		</Forge>
 		<Healing>
 			<name>Healing</name>
 		</Healing>
 		<SheepFood>
-			<name>Food</name>
+			<name>อาหาร</name>
 		</SheepFood>
 		<Blood>
 			<name>Dragon Essence</name>
@@ -69,24 +69,24 @@
 			<name>Wyrd</name>
 		</Prescience>
 		<Stone>
-			<name>Stone</name>
-			<desc>[Stone] can be spent to upgrade your clan buildings.</desc>
+			<name>หิน</name>
+			<desc>[Stone] สามารถใช้เพื่ออัพเกรดสิ่งปลูกสร้างเผ่าของคุณ</desc>
 		</Stone>
 		<Iron>
-			<name>Iron</name>
-			<desc>[Iron] is used to forge powerful weapons and craft better tools.</desc>
+			<name>เหล็ก</name>
+			<desc>[Iron] ใช้เพื่อสร้างอาวุธที่ทรงพลังและสร้างเครื่องมือที่ดีขึ้น</desc>
 		</Iron>
 		<Prestige>
-			<name>Commercial Influence</name>
+			<name>อิทธิพลทางการค้า</name>
 			<desc>[Prestige] can be earned by exploiting Great Trade Routes via a [Lighthouse].</desc>
 		</Prestige>
 		<RimeSteel>
 			<name>Rimesteel</name>
-			<desc>[RimeSteel] is used to forge the mighty Wurmslayer.</desc>
+			<desc>[RimeSteel] ใช้ในการสร้าง Wurmslayer อันยิ่งใหญ่</desc>
 		</RimeSteel>
 		<Gemstone>
-			<name>Gemstone</name>
-			<desc>[Gemstone] is a valuable resource coveted by overseas merchants.</desc>
+			<name>พลอย</name>
+			<desc>[Gemstone] เป็นทรัพยากรอันมีค่าที่พ่อค้าในต่างแดนต้องการ</desc>
 		</Gemstone>
 		<MilitaryXP>
 			<name>Military Experience</name>
@@ -107,29 +107,29 @@
 	</sheet>
 	<sheet name="unit">
 		<Villager>
-			<name>Villager</name>
+			<name>ชาวบ้าน</name>
 			<desc>Villagers gather [Food] in the wild. Stock up so that your clan doesn't starve during winter.</desc>
 			<flavor>Ready to work!</flavor>
 		</Villager>
 		<Woodcutter>
-			<name>Woodcutter</name>
+			<name>คนตัดไม้</name>
 			<desc>Specialized in harvesting [Wood], Woodcutters are necessary to improve your clan's settlement.</desc>
 		</Woodcutter>
 		<Farmer>
-			<name>Farmer</name>
+			<name>ชาวนา</name>
 			<desc>Experienced in growing crops, Farmers produce [Food] in larger quantities during summer.</desc>
 		</Farmer>
 		<Hunter>
-			<name>Hunter</name>
+			<name>นักล่าสัตว์</name>
 			<desc>Skilled Hunters will track and kill deer to provide [Meat] for your clan.</desc>
 		</Hunter>
 		<Fisherman>
-			<name>Fisherman</name>
+			<name>คนหาปลา</name>
 			<langs.plural>Fishermen</langs.plural>
 			<desc>Fishermen provide fresh [Fish] for your clan. Their production is not affected by winter.</desc>
 		</Fisherman>
 		<Merchant>
-			<name>Merchant</name>
+			<name>พ่อค้า</name>
 			<desc>Maintaining buildings and recruiting a Warband costs [Money]. Merchants generate steady income for your clan.</desc>
 		</Merchant>
 		<Sailor>
@@ -143,7 +143,7 @@
 			<flavor>Basically a Viking nerd.</flavor>
 		</RuneMaster>
 		<InnKeeper>
-			<name>Brewer</name>
+			<name>คนต้มเบียร์</name>
 			<desc>A good Brewer provides a steady supply of ale and improves your clan's [Happy].</desc>
 		</InnKeeper>
 		<Skald>
@@ -152,7 +152,7 @@
 			<flavor>"Skald" literally means "poet." Skaldic poetry is one of the two main forms of Old Norse poetry, the other being Eddic poetry.</flavor>
 		</Skald>
 		<Miner>
-			<name>Miner</name>
+			<name>คนขุดแร่</name>
 			<desc>Miners extract [Stone] and [Iron] from the area until the deposits are depleted.</desc>
 			<flavor>What's yours is mine!</flavor>
 		</Miner>
@@ -170,7 +170,7 @@
 			<desc>Menders heal wounded Vikings within your territory and gather [Lore] when not otherwise busy.</desc>
 		</Mender>
 		<Smith>
-			<name>Smith</name>
+			<name>ช่างตีเหล็ก</name>
 			<desc>Smiths can forge improved tools or weapons, powerful relics and the legendary Sword of Odin.</desc>
 		</Smith>
 		<Scholar>
@@ -178,7 +178,7 @@
 			<desc>Heralds study politics, legends, and epic stories. They also like to alter a lot of it.</desc>
 		</Scholar>
 		<Slave>
-			<name>Thrall</name>
+			<name>ข้ารับใช้</name>
 			<desc>[Slave]s do not count towards your population and do not require housing.&lt;br/&gt;They also consume less [Food] and [Wood] and are less efficient when gathering resources.&lt;br/&gt;You can buy more [Slave]s from your [Port].</desc>
 			<flavor>Tough times...</flavor>
 		</Slave>
