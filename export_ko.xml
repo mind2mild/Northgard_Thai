@@ -200,73 +200,73 @@
 			<name>Warden</name>
 		</Warden>
 		<Warrior>
-			<name>Warrior</name>
-			<desc>Warriors are the most common [Warband] units. They are good fighters with an advantage against Shield Bearers.</desc>
+			<name>นักรบ</name>
+			<desc>นักรบเป็นยูนิตพื้นฐานที่สุดใน [Warband] . พวกเขามีความเชี่ยวชาญในการสู้รบและได้เปรียบกับคู่ต่อสู้ที่ใช้โล่ป้องกัน</desc>
 			<flavor>Fun fact: Viking warriors did not wear horned helmets. This depiction originates from the 1876 rendition of Wagner's Der Ring des Nibelungen.</flavor>
 		</Warrior>
 		<ShieldBearer>
-			<name>Shield Bearer</name>
-			<desc>Shield Bearers are a strong defensive unit that take less damage from projectiles.</desc>
+			<name>พลทหารโล่</name>
+			<desc>พลทหารโล่เป็นหน่วยที่มีพลังป้องกันสูง และรับค่าความเสียหายน้อยลงเมื่อถูกโจมตีจากระยะไกล</desc>
 			<flavor>SHIELD WALL!</flavor>
 		</ShieldBearer>
 		<AxeWielder>
-			<name>Axe Thrower</name>
-			<desc>Axe Throwers are ranged units that are more powerful than the average warrior but a bit more fragile.</desc>
+			<name>นักปาขวาน</name>
+			<desc>นักปาขวานสามารถโจมตีระยะไกลได้ และมีพลังโจมตีที่มากกว่าทหารทั่วไป แต่จะมีค่าพลังชีวิตที่น้อยกว่า</desc>
 		</AxeWielder>
 		<Skirmisher>
-			<name>Skirmisher</name>
-			<desc>Skirmishers are lightweight military units that trade offense and protection for mobility and [CanHide].</desc>
-			<flavor>When you see them, it's probably too late.</flavor>
+			<name>นักต่อสู้</name>
+			<desc>นักต่อสู้เปรียบเสมือนพลทหารเบาที่นำค่าพลังป้องกันแลกกับการการเคลื่อนไหวที่รวดเร็วขึ้น นอกจากนั้นยังสามารถ [CanHide].</desc>
+			<flavor>อย่าปล่อยให้คาดสายตาเราไป เพราะบางทีมันอาจจะสายเกินไปแล้ว</flavor>
 		</Skirmisher>
 		<Dragonmen>
-			<name>Dragonkin</name>
-			<langs.plural>Dragonkin</langs.plural>
-			<desc>Created through ancient sacrificial rites, the [Dragonmen]s will fight ferociously for all eternity.</desc>
+			<name>นักรบมังกร</name>
+			<langs.plural>นักรบมังกร</langs.plural>
+			<desc>การเรียกพวกเขาได้จะต้องผ่านการบูชายัญ [Dragonmen] จะสู้รบกับเราไปตลอดกาล</desc>
 		</Dragonmen>
 		<Mercenary>
-			<name>Mercenary</name>
-			<langs.plural>Mercenaries</langs.plural>
-			<desc>Hired for [Money], Mercenaries are not always reliable, but they'll wreak havoc on any territory they attack.</desc>
+			<name>ทหารรับจ้าง</name>
+			<langs.plural>ทหารรับจ้าง</langs.plural>
+			<desc>จ้างพวกเขาด้วย [Money] ทหารรับจ้างเชื่อถือไม่ได้เสมอไป แต่พวกเขาจะออกปล้น และก่อความวุ่นวายให้กับเหยื่อของพวกเขาแน่นอน</desc>
 			<flavor>Nothing personal.</flavor>
 		</Mercenary>
 		<Militia>
-			<name>Militia</name>
-			<desc>Armored civilians are almost as effective as warriors and rest with their owns.</desc>
+			<name>ทหารชาวบ้าน</name>
+			<desc>ชาวบ้านติดเกราะและอาวุธ พวกเขามีประสิทธิภาพไม่ด้อยไปกว่านักรบทั่วไปเลย</desc>
 		</Militia>
 		<Bodyguard>
-			<name>Bodyguard</name>
-			<desc>A bodyguard is attached to your warchief. The Warchief gains an attack power bonus and damage reduction.</desc>
-			<flavor>You won't die before me, My Liege.</flavor>
+			<name>ผู้ปกป้อง</name>
+			<desc>ผู้ปกป้องจะสู้เคียงบ่าเคียงไหล่แม่ทัพ และแม่ทัพเองจะได้รับโบนัสค่าพลังโจมตีและป้องกันเพิ่มขึ้นอีกด้วย</desc>
+			<flavor>เจ้าต้องข้ามศพข้าไปให้ได้ซะก่อน!</flavor>
 		</Bodyguard>
 		<Tracker>
-			<name>Tracker</name>
-			<desc>Trackers are ranged units that master different shooting styles, but are struggling in melee combat. </desc>
-			<flavor>Definitely not a hunter.</flavor>
+			<name>นักล่า</name>
+			<desc>นักล่ามีความเชี่ยวชาญในการโจมตีระยะไกลเป็นอย่างมาก แต่จะอ่อนแอลงเมื่อต้องต่อสู้ระยะประชิด</desc>
+			<flavor>นักล่าไม่ใช่พรานนะจ้ะ</flavor>
 		</Tracker>
 		<Hero01>
-			<name>Warchief</name>
-			<desc>Warchiefs are experienced units that bring their strength and leadership to bear in combat.</desc>
-			<editor.name>Warchief [Goat]</editor.name>
+			<name>แม่ทัพ</name>
+			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<editor.name>แม่ทัพ [Goat]</editor.name>
 		</Hero01>
 		<Hero02>
-			<name>Warchief</name>
-			<desc>Warchiefs are experienced units that bring their strength and leadership to bear in combat.</desc>
-			<editor.name>Warchief [Raven]</editor.name>
+			<name>แม่ทัพ</name>
+			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<editor.name>แม่ทัพ [Raven]</editor.name>
 		</Hero02>
 		<Hero03>
-			<name>Warchief</name>
-			<desc>Warchiefs are experienced units that bring their strength and leadership to bear in combat.</desc>
-			<editor.name>Warchief [Stag]</editor.name>
+			<name>แม่ทัพ</name>
+			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<editor.name>แม่ทัพ [Stag]</editor.name>
 		</Hero03>
 		<Hero04>
-			<name>Warchief</name>
-			<desc>Warchiefs are experienced units that bring their strength and leadership to bear in combat.</desc>
-			<editor.name>Warchief [Boar]</editor.name>
+			<name>แม่ทัพ</name>
+			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<editor.name>แม่ทัพ [Boar]</editor.name>
 		</Hero04>
 		<Berserker>
 			<name>Berserker</name>
 			<desc>A powerful and reckless warrior, feared by all enemies of the Wolf Clan.</desc>
-			<editor.name>Warchief [Wolf]</editor.name>
+			<editor.name>แม่ทัพ [Wolf]</editor.name>
 		</Berserker>
 		<Maiden>
 			<name>Shield Maiden</name>
