@@ -46,7 +46,7 @@
 		</g>
 		<g id="lore">
 			<t id="title">ภูมิปัญญา</t>
-			<t id="desc">ค้นพบความรู้โบราณและกลายเป็น <font color="#R">ผู้นำเผ่าที่ฉลาดที่สุด</font>ในนอร์ทการ์ด</t>
+			<t id="desc">ค้นพบความรู้โบราณและกลายเป็น<font color="#R">ผู้นำเผ่าที่ฉลาดที่สุด</font>ในนอร์ทการ์ด</t>
 		</g>
 		<g id="yggdrasil">
 			<t id="title">Yggdrasil</t>
@@ -58,14 +58,14 @@
 		</g>
 		<g id="money">
 			<t id="title">การค้า</t>
-			<t id="desc">สะสมความร่ำรวยให้กลายเป็น<font color="#R"> พ่อค้าที่ยิ่งใหญ่ที่สุด</font>ในนอร์ทการ์ด</t>
+			<t id="desc">สะสมความร่ำรวยให้กลายเป็น<font color="#R">พ่อค้าที่ยิ่งใหญ่ที่สุด</font>ในนอร์ทการ์ด</t>
 		</g>
 		<g id="fame">
 			<t id="title">ชื่อเสียง</t>
 			<t id="desc">Gain enough [Territory] and raise your [Fame] to obtain the title of <font color="#R">King</font>.</t>
 		</g>
 		<g id="fameWithoutTerritory">
-			<t id="title">Fame</t>
+			<t id="title">ชื่อเสียง</t>
 			<t id="desc">Raise your [Fame] to obtain the title of <font color="#R">King</font>.</t>
 		</g>
 		<g id="loresword">
@@ -128,7 +128,7 @@
 			<t id="desc">You can achieve any victory: Domination, Fame, Trading or Wisdom.</t>
 		</g>
 		<g id="famealt">
-			<t id="title">Fame</t>
+			<t id="title">ชื่อเสียง</t>
 			<t id="desc">Raise your [Fame] to obtain the title of <font color="#R">King</font>.</t>
 		</g>
 
@@ -137,7 +137,7 @@
 		<t id="areas_controlled">::p:: areas controlled</t>
 		<t id="fame_collected">::p:: Fame gained</t>
 		<t id="lore_collected">::p:: Lore gained</t>
-		<t id="built_hall">Build an Altar of Kings</t>
+		<t id="built_hall">สร้าง Altar of Kings</t>
 		<t id="produced_money">::p:: Kröwns collected</t>
 		<t id="built_lighthouse">Build a [Lighthouse]</t>
 		<t id="total_prestige">::p:: Commercial Influence</t>
@@ -162,8 +162,8 @@
 		<t id="colonize_hel">Take control of Helheim</t>
 		<t id="timer_hel">Controlled for ::p:: months</t>
 		<t id="survive_time">You have survived ::p:: years so far</t>
-		<t id="kill_king">Kill [LichKing]</t>
-		<t id="col_bifrost">Colonize [BifrostLore]</t>
+		<t id="kill_king">ฆ่า [LichKing]</t>
+		<t id="col_bifrost">ตั้งรกราก [BifrostLore]</t>
 		<t id="nb_giant_killed">::p:: Jötnar killed</t>
 		<t id="nb_wyvern_killed">::p:: Wyverns killed</t>
 		<t id="timed_helheim">Control an additional gate each year after 801.</t>
@@ -172,7 +172,7 @@
 
 		<t id="protect_ally"><font color="::color::">::name::</font> must survive.</t>
 		<t id="protect_for_time">::p:: years remaining to protect your ally.</t>
-		<t id="kill_giantboar">Kill the Colossal Boar</t>
+		<t id="kill_giantboar">ฆ่า Colossal Boar</t>
 
 		<t id="you">You</t>
 		<t id="no_fame_vict">Your clan can't achieve this victory</t>
@@ -185,11 +185,11 @@
 	<g id="buttons">
 		<t id="build">สร้าง <font color="#T" opacity="0.5">[:: hotkey ::]</font> </t>
 		<t id="buy_drakkar">Build a Longship for <img src="/r/Wood"/>::cost::</t>
-		<t id="start_raid">Start Raid</t>
-		<t id="resume_raid">Resume Raid</t>
-		<t id="stop_raid">Stop Raid</t>
-		<t id="choose_trade_road">Build Trade Route</t>
-		<t id="change_trade_road">Change Trade Route</t>
+		<t id="start_raid">เริ่มการตรวจค้น</t>
+		<t id="resume_raid">ทำการตรวจค้นต่อ</t>
+		<t id="stop_raid">หยุดการตรวจค้น</t>
+		<t id="choose_trade_road">สร้างเส้นทางการค้า</t>
+		<t id="change_trade_road">เปลี่ยนเส้นทางการค้า</t>
 		<t id="upgrade_building">Upgrade</t>
 		<t id="reset_building">Reset</t>
 		<t id="unlock_great_route">Unlock Great Routes</t>
