@@ -20,11 +20,11 @@
 		<t id="population">ประชากร</t>
 		<t id="civilians">พลเรือน</t>
 		<t id="slaves">ทาส</t>
-		<t id="warband">นักรบ</t>
+		<t id="warband">กลุ่มนักรบ</t>
 		<t id="allies">พันธมิตร</t>
 		<t id="buildings">สิ่งปลูกสร้าง</t>
-		<t id="standard">มาตรฐาน</t>
-		<t id="military">ทหาร</t>
+		<t id="standard">อาคารมาตรฐาน</t>
+		<t id="military">ค่ายทหาร</t>
 		<t id="advanced">ขั้นสูง</t>
 	</g>
 

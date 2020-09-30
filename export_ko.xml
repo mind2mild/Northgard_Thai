@@ -38,8 +38,8 @@
 			<name>ข้าวสาลี</name>
 		</Wheat>
 		<Fame>
-			<name>Fame</name>
-			<desc>Increase your [Fame] and be proclaimed King of Northgard!</desc>
+			<name>ชื่อเสียง</name>
+			<desc>เพิ่ม [Fame] ของคุณและได้รับการประกาศเป็นราชาแห่งนอร์ธการ์ด!</desc>
 		</Fame>
 		<Fish>
 			<name>ปลา</name>
@@ -48,7 +48,7 @@
 			<name>เนื้อสด</name>
 		</Meat>
 		<Sailors>
-			<name>Sailors</name>
+			<name>กะลาสีเรือ</name>
 		</Sailors>
 		<Territory>
 			<name>อาณาเขต</name>
@@ -89,7 +89,7 @@
 			<desc>[Gemstone] เป็นทรัพยากรอันมีค่าที่พ่อค้าในต่างแดนต้องการ</desc>
 		</Gemstone>
 		<MilitaryXP>
-			<name>Military Experience</name>
+			<name>ประสบการณ์ทางทหาร</name>
 			<desc>You earn [MilitaryXP] by killing enemy units or losing your own in battle.</desc>
 		</MilitaryXP>
 		<HuntTrophy>
@@ -109,46 +109,47 @@
 		<Villager>
 			<name>ชาวบ้าน</name>
 			<langs.plural>ชาวบ้าน</langs.plural>
-			<desc>Villagers gather [Food] in the wild. Stock up so that your clan doesn't starve during winter.</desc>
-			<flavor>Ready to work!</flavor>
+			<desc>ชาวบ้านจะรวบรวม [Food] ในป่า, ตุนเพื่อให้เผ่าของคุณไม่อดอยากในช่วงฤดูหนาว</desc>
+			<flavor>พร้อมที่จะทำงาน!</flavor>
 		</Villager>
 		<Woodcutter>
 			<name>คนตัดไม้</name>
 			<langs.plural>คนตัดไม้</langs.plural>
-			<desc>Specialized in harvesting [Wood], Woodcutters are necessary to improve your clan's settlement.</desc>
+			<desc>ผู้เชี่ยวชาญในการเก็บเกี่ยว [Wood], คนตัดไม้จำเป็นต่อการปรับปรุงการตั้งถิ่นฐานของเผ่าคุณ</desc>
 		</Woodcutter>
 		<Farmer>
-			<name>ชาวนา</name>
-			<langs.plural>ชาวนา</langs.plural>
-			<desc>Experienced in growing crops, Farmers produce [Food] in larger quantities during summer.</desc>
+			<name>เกษตรกร</name>
+			<langs.plural>เกษตรกร</langs.plural>
+			<desc>มีประสบการณ์ในการปลูกพืช, เกษตรกรจะผลิต [Food] ในปริมาณที่มากขึ้นในช่วงฤดูร้อน</desc>
 		</Farmer>
 		<Hunter>
 			<name>นักล่าสัตว์</name>
 			<langs.plural>นักล่าสัตว์</langs.plural>
-			<desc>Skilled Hunters will track and kill deer to provide [Meat] for your clan.</desc>
+			<desc>นักล่าที่มีทักษะจะติดตามและฆ่ากวางเพื่อจัดหา [Meat] ให้กับเผ่าของคุณ</desc>
 		</Hunter>
 		<Fisherman>
-			<name>คนหาปลา</name>
-			<langs.plural>คนหาปลา</langs.plural>
-			<desc>Fishermen provide fresh [Fish] for your clan. Their production is not affected by winter.</desc>
+			<name>ชาวประมง</name>
+			<langs.plural>ชาวประมง</langs.plural>
+			<desc>ชาวประมงจะจัดหา [Fish] สำหรับเผ่าของคุณ, การผลิตของพวกเขาไม่ได้รับผลกระทบจากฤดูหนาว</desc>
 		</Fisherman>
 		<Merchant>
 			<name>พ่อค้า</name>
 			<langs.plural>พ่อค้า</langs.plural>
-			<desc>Maintaining buildings and recruiting a Warband costs [Money]. Merchants generate steady income for your clan.</desc>
+			<desc>การบำรุงรักษาอาคารและการสรรหากลุ่มนักรบมีค่าใช้จ่าย [Money], พ่อค้าจะสร้างรายได้ที่มั่นคงให้กับเผ่าของคุณ</desc>
 		</Merchant>
 		<Sailor>
-			<name>Sailor</name>
-			<desc>Sailors will raid nearby coasts and bring [Money] and [Fame] or [Lore] to your clan.</desc>
-			<props.noFameDesc>Sailors will raid nearby coasts and bring [Money] and [Lore] to your clan.</props.noFameDesc>
+			<name>กะลาสี</name>
+			<desc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Fame] หรือ [Lore] มาที่เผ่าของคุณ</desc>
+			<props.noFameDesc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Lore] มาที่เผ่าของคุณ</props.noFameDesc>
 		</Sailor>
 		<RuneMaster>
-			<name>Loremaster</name>
-			<desc>Masters of ancient [Lore], they can study runestones, increasing your Knowledge.</desc>
-			<flavor>Basically a Viking nerd.</flavor>
+			<name>ปรมาจารย์</name>
+			<desc>จ้าวแห่งตำนาน [Lore], พวกเขาสามารถศึกษาเพชรพลอยเพิ่มพูนความรู้ของคุณ</desc>
+			<flavor>โดยทั่วไปแล้วพวกไวกิ้งช่างเนิร์ด</flavor>
 		</RuneMaster>
 		<InnKeeper>
 			<name>คนต้มเบียร์</name>
+			<langs.plural>คนต้มเบียร์</langs.plural>
 			<desc>A good Brewer provides a steady supply of ale and improves your clan's [Happy].</desc>
 		</InnKeeper>
 		<Skald>
@@ -158,6 +159,7 @@
 		</Skald>
 		<Miner>
 			<name>คนขุดแร่</name>
+			<langs.plural>คนขุดแร่</langs.plural>
 			<desc>Miners extract [Stone] and [Iron] from the area until the deposits are depleted.</desc>
 			<flavor>What's yours is mine!</flavor>
 		</Miner>
@@ -176,6 +178,7 @@
 		</Mender>
 		<Smith>
 			<name>ช่างตีเหล็ก</name>
+			<langs.plural>ช่างตีเหล็ก</langs.plural>
 			<desc>Smiths can forge improved tools or weapons, powerful relics and the legendary Sword of Odin.</desc>
 		</Smith>
 		<Scholar>
@@ -184,6 +187,7 @@
 		</Scholar>
 		<Slave>
 			<name>ข้ารับใช้</name>
+			<langs.plural>ข้ารับใช้</langs.plural>
 			<desc>[Slave]s do not count towards your population and do not require housing.&lt;br/&gt;They also consume less [Food] and [Wood] and are less efficient when gathering resources.&lt;br/&gt;You can buy more [Slave]s from your [Port].</desc>
 			<flavor>Tough times...</flavor>
 		</Slave>
