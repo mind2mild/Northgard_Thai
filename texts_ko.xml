@@ -250,7 +250,7 @@
 	<g id="ui">
 		<g id="menu">
 			<t id="save">บันทึกเกม</t>
-			<t id="play">กลับบสู่เกม</t>
+			<t id="play">กลับสู่เกม</t>
 			<t id="return_map">ออก</t>
 			<t id="options">ตัวเลือก</t>
 			<t id="return_title">ออกไปหน้าแรก</t>
