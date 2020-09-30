@@ -151,7 +151,7 @@
 		<InnKeeper>
 			<name>คนต้มเบียร์</name>
 			<langs.plural>คนต้มเบียร์</langs.plural>
-			<desc>A good Brewer provides a steady supply of ale and improves your clan's [Happy].</desc>
+			<desc>คนต้มเบียร์จะสำรองเบียร์ในคลังเสบียงส่งผลให้ค่า [Happy] เพิ่มให้กับเผ่าของคุณ</desc>
 		</InnKeeper>
 		<Skald>
 			<name>Skald</name>
