@@ -108,28 +108,33 @@
 	<sheet name="unit">
 		<Villager>
 			<name>ชาวบ้าน</name>
+			<langs.plural>ชาวบ้าน</langs.plural>
 			<desc>Villagers gather [Food] in the wild. Stock up so that your clan doesn't starve during winter.</desc>
 			<flavor>Ready to work!</flavor>
 		</Villager>
 		<Woodcutter>
 			<name>คนตัดไม้</name>
+			<langs.plural>คนตัดไม้</langs.plural>
 			<desc>Specialized in harvesting [Wood], Woodcutters are necessary to improve your clan's settlement.</desc>
 		</Woodcutter>
 		<Farmer>
 			<name>ชาวนา</name>
+			<langs.plural>ชาวนา</langs.plural>
 			<desc>Experienced in growing crops, Farmers produce [Food] in larger quantities during summer.</desc>
 		</Farmer>
 		<Hunter>
 			<name>นักล่าสัตว์</name>
+			<langs.plural>นักล่าสัตว์</langs.plural>
 			<desc>Skilled Hunters will track and kill deer to provide [Meat] for your clan.</desc>
 		</Hunter>
 		<Fisherman>
 			<name>คนหาปลา</name>
-			<langs.plural>Fishermen</langs.plural>
+			<langs.plural>คนหาปลา</langs.plural>
 			<desc>Fishermen provide fresh [Fish] for your clan. Their production is not affected by winter.</desc>
 		</Fisherman>
 		<Merchant>
 			<name>พ่อค้า</name>
+			<langs.plural>พ่อค้า</langs.plural>
 			<desc>Maintaining buildings and recruiting a Warband costs [Money]. Merchants generate steady income for your clan.</desc>
 		</Merchant>
 		<Sailor>
