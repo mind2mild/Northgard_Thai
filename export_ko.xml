@@ -1224,7 +1224,7 @@
 		</Recruit>
 		<Medecine>
 			<name>Medicine</name>
-			<desc>Increases your [Healer]s' healing speed by ::percent::.</desc>
+			<desc>เพิ่มความเร็วในการรักษาของ [Healer] ขึ้น ::percent::.</desc>
 		</Medecine>
 		<MilitaryStrategy>
 			<name>Military Strategy</name>
