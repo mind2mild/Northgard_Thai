@@ -19,7 +19,7 @@
 		</Building>
 		<Happy>
 			<name>ความสุข</name>
-			<desc>[Happy]จะดึงดูดชาวบ้านใหม่มาที่ศาลากลางของคุณ เพิ่มความสุขของคุณเพื่อเร่งกระบวนการนี้</desc>
+			<desc>[Happy] จะดึงดูดชาวบ้านใหม่มาที่ศาลากลางของคุณ เพิ่มความสุขของคุณเพื่อเร่งกระบวนการนี้</desc>
 		</Happy>
 		<Population>
 			<name>ประชากร</name>
@@ -1212,15 +1212,15 @@
 		</Defense>
 		<Drakkars>
 			<name>Shipbuilding</name>
-			<desc>Increases [Sailor]s' resource production by ::percent::.</desc>
+			<desc>เพิ่มการผลิตทรัพยากรของ [Sailor] ขึ้น ::percent::</desc>
 		</Drakkars>
 		<Coinage>
 			<name>Coinage</name>
-			<desc>Your [Merchant]s will produce ::percent:: more [Money].</desc>
+			<desc>[Merchant] ของคุณจะผลิต [Money] มากขึ้น ::percent::</desc>
 		</Coinage>
 		<Recruit>
 			<name>Recruitment</name>
-			<desc>Permanently increases population growth speed by ::percent0::. You gain an additional ::percent_value1:: during ::value2:: months for each unit from your clan killed by an enemy clan or sacrified (max ::percent_value3::).</desc>
+			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, You gain an additional ::percent_value1:: during ::value2:: months for each unit from your clan killed by an enemy clan or sacrified (สูงสุด ::percent_value3::).</desc>
 		</Recruit>
 		<Medecine>
 			<name>Medicine</name>
