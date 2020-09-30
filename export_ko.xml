@@ -1224,7 +1224,7 @@
 		</Recruit>
 		<Medecine>
 			<name>Medicine</name>
-			<desc>เพิ่มความเร็วในการรักษาของ [Healer] ขึ้น ::percent::.</desc>
+			<desc>เพิ่มความเร็วในการรักษาของ [Healer] ขึ้น ::percent::</desc>
 		</Medecine>
 		<MilitaryStrategy>
 			<name>Military Strategy</name>
@@ -1241,7 +1241,7 @@
 		</Knowledge>
 		<Upgrades>
 			<name>Carpentry Mastery</name>
-			<desc>Reduces your buildings' upgrade costs by ::inv_percent::.</desc>
+			<desc>ลดค่าอัพเกรดสิ่งปลูกสร้างของคุณลง ::inv_percent::</desc>
 		</Upgrades>
 		<HeartStone>
 			<name>Hearthstone</name>
@@ -1249,11 +1249,11 @@
 		</HeartStone>
 		<SlotGrowth>
 			<name>Shiny Happy People</name>
-			<desc>-::inv_percent:: required happiness based on your population.</desc>
+			<desc>-::inv_percent:: ความต้องการความสุขตามจำนวนประชากรของคุณ</desc>
 		</SlotGrowth>
 		<Heroes>
 			<name>Legendary Heroes</name>
-			<desc>Improves your [Hero01]'s attack and defense by ::percent::.</desc>
+			<desc>เพิ่มการโจมตีและการป้องกันของ [Hero01] ของคุณขึ้น ::percent::</desc>
 		</Heroes>
 		<MonsterSlayer>
 			<name>Monster Slayer</name>
@@ -1269,11 +1269,11 @@
 		</SlotWealth>
 		<Ascetic>
 			<name>Field Rations</name>
-			<desc>Reduces your military units' [Food] consumption by ::inv_percent::.</desc>
+			<desc>ลดการบริโภค [Food] ของหน่วยทหารของคุณลง ::inv_percent::</desc>
 		</Ascetic>
 		<Pillage>
 			<name>Spoils of War</name>
-			<desc>Gain some [Money] for each enemy unit killed.</desc>
+			<desc>รับ [Money] สำหรับยูนิตศัตรูแต่ละตัวที่ถูกสังหาร</desc>
 		</Pillage>
 		<Plunder>
 			<name>Plunder</name>
