@@ -1261,11 +1261,11 @@
 		</MonsterSlayer>
 		<Negociate>
 			<name>Negotiation</name>
-			<desc>Reduces Marketplace prices by ::inv_percent:: and stock replenishment is ::percent1:: faster.</desc>
+			<desc>ลดราคาของใน Marketplace ลง ::inv_percent:: และเติมสินค้าเร็วขึ้น ::percent1::</desc>
 		</Negociate>
 		<SlotWealth>
 			<name>Trading Caravan</name>
-			<desc>Trading routes earn ::percent:: more [Money]. Relations with neutral factions improve ::percent1:: faster.</desc>
+			<desc>เส้นทางการซื้อขายจะได้รับ [Money] เพิ่มอีก ::percent:: , ความสัมพันธ์กับกลุ่ม neutral เพิ่มเร็วขึ้น ::percent1::</desc>
 		</SlotWealth>
 		<Ascetic>
 			<name>Field Rations</name>
