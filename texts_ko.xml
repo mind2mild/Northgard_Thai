@@ -62,7 +62,7 @@
 		</g>
 		<g id="fame">
 			<t id="title">Fame</t>
-			<t id="desc">มี [Territory] ที่มากพอ และเพิ่ม [Fame] ของคุณ เพื่อรับตำแหน่ง <font color="#R">ราชา/font>.</t>
+			<t id="desc">มี [Territory] ที่มากพอ และเพิ่ม [Fame] ของคุณ เพื่อรับตำแหน่ง <font color="#R">ราชา</font></t>
 		</g>
 		<g id="fameWithoutTerritory">
 			<t id="title">Fame</t>
