@@ -145,7 +145,7 @@
 		</Sailor>
 		<RuneMaster>
 			<name>นักวิชาการ</name>
-			<langs.plural>นักวิชาการ<</langs.plural>
+			<langs.plural>นักวิชาการ</langs.plural>
 			<desc>อาจารย์แห่ง[Lore], พวกเขาสามารถศึกษาเพชรพลอยเพิ่มพูนความรู้ของคุณ</desc>
 			<flavor>โดยทั่วไปแล้วพวกไวกิ้งช่างเนิร์ด</flavor>
 		</RuneMaster>
