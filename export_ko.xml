@@ -197,7 +197,7 @@
 			<desc>The Norns try to elucidate the will of the Kraken, bringing foresight and good fortune to the clan.</desc>
 		</Norn>
 		<Warden>
-			<name>Warden</name>
+			<name>นักดาบ</name>
 		</Warden>
 		<Warrior>
 			<name>นักรบ</name>
@@ -207,7 +207,7 @@
 		<ShieldBearer>
 			<name>พลทหารโล่</name>
 			<desc>พลทหารโล่เป็นหน่วยที่มีพลังป้องกันสูง และรับค่าความเสียหายน้อยลงเมื่อถูกโจมตีจากระยะไกล</desc>
-			<flavor>SHIELD WALL!</flavor>
+			<flavor>กำแพงโล่!</flavor>
 		</ShieldBearer>
 		<AxeWielder>
 			<name>นักปาขวาน</name>
@@ -216,7 +216,7 @@
 		<Skirmisher>
 			<name>นักต่อสู้</name>
 			<desc>นักต่อสู้เปรียบเสมือนพลทหารเบาที่นำค่าพลังป้องกันแลกกับการการเคลื่อนไหวที่รวดเร็วขึ้น นอกจากนั้นยังสามารถ [CanHide].</desc>
-			<flavor>อย่าปล่อยให้คาดสายตาเราไป เพราะบางทีมันอาจจะสายเกินไปแล้ว</flavor>
+			<flavor>คอยดูหลังเจ้าไว้ให้ดี อย่าหาว่าข้าไม่เตือนล่ะ!</flavor>
 		</Skirmisher>
 		<Dragonmen>
 			<name>นักรบมังกร</name>
@@ -244,22 +244,22 @@
 			<flavor>นักล่าไม่ใช่พรานนะจ้ะ</flavor>
 		</Tracker>
 		<Hero01>
-			<name>แม่ทัพ</name>
+			<name>แม่ทัพเผ่า</name>
 			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Goat]</editor.name>
 		</Hero01>
 		<Hero02>
-			<name>แม่ทัพ</name>
+			<name>แม่ทัพเผ่า</name>
 			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Raven]</editor.name>
 		</Hero02>
 		<Hero03>
-			<name>แม่ทัพ</name>
+			<name>แม่ทัพเผ่า</name>
 			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Stag]</editor.name>
 		</Hero03>
 		<Hero04>
-			<name>แม่ทัพ</name>
+			<name>แม่ทัพเผ่า</name>
 			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Boar]</editor.name>
 		</Hero04>
@@ -280,9 +280,9 @@
 			<editor.name>Warchief [Snake]</editor.name>
 		</WarchiefSnake>
 		<WarchiefDragon>
-			<name>Warchief </name>
-			<desc>Warchiefs are experienced units that bring their strength and leadership to bear in combat.</desc>
-			<editor.name>Warchief [Dragon]</editor.name>
+			<name>แม่ทัพเผ่า</name>
+			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<editor.name>แม่ทัพเผ่า [Dragon]</editor.name>
 		</WarchiefDragon>
 		<HorseMaiden>
 			<name>Eitria</name>
@@ -295,8 +295,8 @@
 			<editor.name>Warchief [Horse]</editor.name>
 		</HorseHero>
 		<KrakenMaiden>
-			<name>Warchief</name>
-			<desc>Warchiefs are experienced units that bring their strength and leadership to bear in combat.</desc>
+			<name>แม่ทัพเผ่า</name>
+			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
 			<editor.name>Warchief [Kraken]</editor.name>
 		</KrakenMaiden>
 		<OxHero>
@@ -536,15 +536,15 @@
 			<flavor>Vedrfolnir is a hawk usually sitting between the eyes of the giant eagle perched atop Yggdrasil.</flavor>
 		</Vedrfolnir>
 		<Deer>
-			<name>Deer</name>
-			<langs.plural>Deer</langs.plural>
+			<name>กวาง</name>
+			<langs.plural>กวาง</langs.plural>
 		</Deer>
 		<Fish>
-			<name>Fish</name>
-			<langs.plural>Fish</langs.plural>
+			<name>ปลา</name>
+			<langs.plural>ปลา</langs.plural>
 		</Fish>
 		<Crow>
-			<name>Crow</name>
+			<name>อีกา</name>
 		</Crow>
 		<Drakkar>
 			<name>Drakkar</name>
@@ -556,20 +556,20 @@
 			<name>Tentacle</name>
 		</Tentacle>
 		<Group>
-			<name>Group</name>
-			<desc>Click to select a specific job among the group:</desc>
+			<name>กลุ่ม</name>
+			<desc>เลือกกลุ่มที่มีอาชีพเฉพาะเจาะจงจากกลุ่มทั้งหมด</desc>
 		</Group>
 		<Warchief>
-			<name>Warchief</name>
+			<name>แม่ทัพเผ่า</name>
 		</Warchief>
 		<VillagerWoman>
-			<name>Villager</name>
+			<name>ชาวบ้าน(หญิง)</name>
 		</VillagerWoman>
 	</sheet>
 	<sheet name="building">
 		<House>
-			<name>House</name>
-			<desc>Provides shelter for more clan members.</desc>
+			<name>กระท่อม</name>
+			<desc>สถานที่พักอาศัยสำหรับผู้คนในเผ่า</desc>
 			<upgrades>
 				<0>
 					<desc>Can shelter ::value:: additional clan members and improve housing quality.</desc>
@@ -577,8 +577,8 @@
 			</upgrades>
 		</House>
 		<ScoutCamp>
-			<name>Scout Camp</name>
-			<desc>Assign your villagers to become [Scout]s who can explore new areas.</desc>
+			<name>ค่ายนักลาดตระเวน</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Scout] ผู้ที่สามารถทำให้คุณออกสำรวจอาณาเขตใหม่ๆได้</desc>
 			<flavor>Empty for the greater part of the year.</flavor>
 			<upgrades>
 				<0>
@@ -587,12 +587,12 @@
 			</upgrades>
 		</ScoutCamp>
 		<WoodLodge>
-			<name>Woodcutter's Lodge</name>
-			<desc>Assign your villagers to become [Woodcutter]s who can harvest Wood in this area.</desc>
+			<name>กระท่อมของคนตัดไม้</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Woodcutter] ผู้ที่สามารถหาทรัพยากร [Wood] ให้กับเผ่าของคุณ</desc>
 		</WoodLodge>
 		<HealerHut>
-			<name>Healer's Hut</name>
-			<desc>Assign your villagers to become [Healer]s who will heal your wounded or sick clan members in your territory. They gather [Food] while not healing.</desc>
+			<name>บ้านพักหมอยา</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Healer] ผู้ที่สามารถรักษาผู้คนที่บาดเจ็บหรือมีอาการป่วยในอาณาเขตของเรา พวกเขาจะหา [Food] เมื่อไม่มีคนให้พวกเขารักษา</desc>
 			<upgrades>
 				<0>
 					<desc>Heal your clan members ::percent:: faster.</desc>
@@ -600,8 +600,8 @@
 			</upgrades>
 		</HealerHut>
 		<MenderHut>
-			<name>Mender's Hut</name>
-			<desc>Assign your villagers to become [Mender]s who will heal your wounded clan members in your territory and gather [Lore] when not otherwise busy.</desc>
+			<name>บ้านพักช่างปรุงยา</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Mender] ผู้ที่สามารถรักษาผู้คนที่บาดเจ็บหรือมีอาการป่วยในอาณาเขตของเรา และเพิ่มค่า [Lore] เมื่อไม่มีคนให้พวกเขารักษา</desc>
 			<flavor>Smells faintly of cabbage.</flavor>
 			<upgrades>
 				<0>
@@ -610,17 +610,17 @@
 			</upgrades>
 		</MenderHut>
 		<FishermanHouse>
-			<name>Fisherman's Hut</name>
-			<desc>Assign your villagers to become [Fisherman]s who will produce [Food] even during winter.</desc>
+			<name>กระท่อมของนักล่าปลา</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 		</FishermanHouse>
 		<Fishery>
-			<name>Fishery</name>
-			<desc>Assign your villagers to become a [Fisherman]s who will produce [Food].</desc>
+			<name>กระท่อมของนักล่าปลา (เผ่าหมึก)</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 			<flavor>Not fresh? My fish?</flavor>
 		</Fishery>
 		<Fields>
-			<name>Fields</name>
-			<langs.plural>Fields</langs.plural>
+			<name>ทุ่งธัญพืช</name>
+			<langs.plural>ทุ่งธัญพืช</langs.plural>
 			<desc>Assign your villagers to become [Farmer]s who will produce [Food] in larger quantities during summer.</desc>
 		</Fields>
 		<HunterLodge>
