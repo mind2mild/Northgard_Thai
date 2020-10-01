@@ -31,11 +31,11 @@
 			<name>ทาส</name>
 		</SlavePop>
 		<Lore>
-			<name>ตำนาน</name>
+			<name>ความรู้โบราณ</name>
 			<desc>[Lore]ที่ค้นพบใน Northgard จะช่วยให้คุณ สามารถเพิ่มความรู้ของเผ่าได้</desc>
 		</Lore>
 		<Wheat>
-			<name>ข้าวสาลี</name>
+			<name>ธัญพืช</name>
 		</Wheat>
 		<Fame>
 			<name>ชื่อเสียง</name>
@@ -144,8 +144,9 @@
 			<props.noFameDesc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Lore] มาที่เผ่าของคุณ</props.noFameDesc>
 		</Sailor>
 		<RuneMaster>
-			<name>ปรมาจารย์</name>
-			<desc>จ้าวแห่งตำนาน [Lore], พวกเขาสามารถศึกษาเพชรพลอยเพิ่มพูนความรู้ของคุณ</desc>
+			<name>นักวิชาการ</name>
+			<langs.plural>นักวิชาการ<</langs.plural>
+			<desc>อาจารย์แห่ง[Lore], พวกเขาสามารถศึกษาเพชรพลอยเพิ่มพูนความรู้ของคุณ</desc>
 			<flavor>โดยทั่วไปแล้วพวกไวกิ้งช่างเนิร์ด</flavor>
 		</RuneMaster>
 		<InnKeeper>
@@ -154,7 +155,8 @@
 			<desc>คนต้มเบียร์จะสำรองเบียร์ในคลังเสบียงส่งผลให้ค่า [Happy] เพิ่มให้กับเผ่าของคุณ</desc>
 		</InnKeeper>
 		<Skald>
-			<name>Skald</name>
+			<name>กวี</name>
+			<langs.plural>กวี</langs.plural>
 			<desc>Skalds' tales of your clan's deeds will increase your [Fame] and [Happy].</desc>
 			<flavor>"Skald" literally means "poet." Skaldic poetry is one of the two main forms of Old Norse poetry, the other being Eddic poetry.</flavor>
 		</Skald>
@@ -165,16 +167,19 @@
 			<flavor>What's yours is mine!</flavor>
 		</Miner>
 		<Scout>
-			<name>Scout</name>
+			<name>นักลาดตระเวน</name>
+			<langs.plural>นักลาดตระเวน</langs.plural>
 			<desc>Scouts explore new areas, allowing you to expand your territory. They can also explore Ruins and Shipwrecks.</desc>
 		</Scout>
 		<Healer>
-			<name>Healer</name>
+			<name>หมอยา</name>
+			<langs.plural>หมอยา</langs.plural>
 			<desc>Healers gather medicinal herbs that your wounded will use to heal themselves. The wounded must be within your territory to heal. They also gather [Food] when not otherwise busy.</desc>
 			<flavor>Wolol...oh, sorry, wrong line.</flavor>
 		</Healer>
 		<Mender>
-			<name>Mender</name>
+			<name>ช่างปรุงยา</name>
+			<langs.plural>หมอยา</langs.plural>
 			<desc>Menders heal wounded Vikings within your territory and gather [Lore] when not otherwise busy.</desc>
 		</Mender>
 		<Smith>
@@ -193,7 +198,8 @@
 			<flavor>Tough times...</flavor>
 		</Slave>
 		<Norn>
-			<name>Norn</name>
+			<name>ร่างทรง</name>
+			<langs.plural>ร่างทรง</langs.plural>
 			<desc>The Norns try to elucidate the will of the Kraken, bringing foresight and good fortune to the clan.</desc>
 		</Norn>
 		<Warden>
@@ -206,11 +212,13 @@
 		</Warrior>
 		<ShieldBearer>
 			<name>พลทหารโล่</name>
+			<langs.plural>พลทหารโล่</langs.plural>
 			<desc>พลทหารโล่เป็นหน่วยที่มีพลังป้องกันสูง และรับค่าความเสียหายน้อยลงเมื่อถูกโจมตีจากระยะไกล</desc>
 			<flavor>กำแพงโล่!</flavor>
 		</ShieldBearer>
 		<AxeWielder>
 			<name>นักปาขวาน</name>
+			<langs.plural>นักปาขวาน</langs.plural>
 			<desc>นักปาขวานสามารถโจมตีระยะไกลได้ และมีพลังโจมตีที่มากกว่าทหารทั่วไป แต่จะมีค่าพลังชีวิตที่น้อยกว่า</desc>
 		</AxeWielder>
 		<Skirmisher>
