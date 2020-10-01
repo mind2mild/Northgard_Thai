@@ -7,7 +7,7 @@
 		</Food>
 		<Wood>
 			<name>ไม้</name>
-			<desc>[Wood]ใช้ในการสร้างอาคารและเป็นฟืนโดยเฉพาะในช่วงฤดูหนาว</desc>
+			<desc>[Wood]ใช้ในการสร้างอาคารและเป็น ไม้ฟืน โดยเฉพาะในช่วงฤดูหนาว</desc>
 			<langs.plural>Wood</langs.plural>
 		</Wood>
 		<Money>
@@ -1208,7 +1208,7 @@
 		</Coats>
 		<Defense>
 			<name>Defensive Strategy</name>
-			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers ของคุณขึ้น ::percent::</desc>
+			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers' ของคุณขึ้น ::percent::</desc>
 		</Defense>
 		<Drakkars>
 			<name>Shipbuilding</name>
@@ -1220,7 +1220,7 @@
 		</Coinage>
 		<Recruit>
 			<name>Recruitment</name>
-			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, You gain an additional ::percent_value1:: during ::value2:: months for each unit from your clan killed by an enemy clan or sacrified (สูงสุด ::percent_value3::).</desc>
+			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, คุณจะได้รับเพิ่มอีก ::percent_value1:: ในช่วงเดือน ::value2:: ต่อยูนิตจากเผ่าของคุณที่ถูกสังหารโดยศัตรูหรือถูกทำลาย (สูงสุด ::percent_value3::)</desc>
 		</Recruit>
 		<Medecine>
 			<name>Medicine</name>
@@ -1245,7 +1245,7 @@
 		</Upgrades>
 		<HeartStone>
 			<name>Hearthstone</name>
-			<desc>Reduces extra Firewood consumption during winter by ::inv_percent:: and reduces the winter food penalty by ::inv_percent1::.</desc>
+			<desc>ลดการใช้ ไม้ฟืน ในช่วงฤดูหนาวลง ::inv_percent:: และลดโทษของอาหารในช่วงฤดูหนาวลง ::inv_percent1::</desc>
 		</HeartStone>
 		<SlotGrowth>
 			<name>Shiny Happy People</name>
@@ -1277,11 +1277,11 @@
 		</Pillage>
 		<Plunder>
 			<name>Plunder</name>
-			<desc>When you decolonize an area, your units there gain +::percent:: health.</desc>
+			<desc>เมื่อคุณแย่งชิงอาณานิคมได้, ยูนิตของคุณที่อยู่ในพื้นที่นั้นจะได้รับพลังชีวิต +::percent::</desc>
 		</Plunder>
 		<Conqueror>
 			<name>Invader</name>
-			<desc>Increases your military power against Defense Towers by ::percent::, and makes decolonization twice as fast.</desc>
+			<desc>เพิ่มพลังกลุ่มนักรบของคุณกับ Defense Towers ขึ้น ::percent::, และทำให้การแย่งชิงอาณานิคมเร็วขึ้นเป็นสองเท่า</desc>
 		</Conqueror>
 		<Threats>
 			<name>Veiled Threats</name>
@@ -1289,7 +1289,7 @@
 		</Threats>
 		<MoreAssign>
 			<name>Industrious</name>
-			<desc>Upgraded Food-producing buildings can be assigned an additional villager.</desc>
+			<desc>อาคารผลิตอาหารที่ได้รับการอัพเกรด สามารถมอบหมายชาวบ้านเพิ่มเติมได้</desc>
 		</MoreAssign>
 		<FreeTools>
 			<name>Spare Tools</name>
@@ -1297,11 +1297,11 @@
 		</FreeTools>
 		<MoreBuildings>
 			<name>Amenities</name>
-			<desc>Costs ::inv_percent:: less to develop a zone.</desc>
+			<desc>เสียค่าใช้จ่ายน้อยลง ::inv_percent:: ในการพัฒนาโซน</desc>
 		</MoreBuildings>
 		<Barricades>
 			<name>Barricades</name>
-			<desc>Increases your civilians' resistance by ::percent:: per building in the area.</desc>
+			<desc>เพิ่มความต้านทานของพลเรือนของคุณ ::percent:: ต่อสิ่งปลูกสร้างในพื้นที่</desc>
 		</Barricades>
 		<FoodTrade>
 			<name>Food Trade</name>
@@ -1329,7 +1329,7 @@
 		</GloryClan>
 		<Rangers>
 			<name>Rangers</name>
-			<desc>Increases your scouting and exploration speed by ::percent::. Your Scouts no longer consume [Food] and cannot be hurt while exploring.</desc>
+			<desc>เพิ่มความเร็วในการสอดแนมและการสำรวจของคุณขึ้น ::percent::, หน่วยสอดแนมของคุณไม่กิน [Food] อีกต่อไป และจะไม่ได้รับบาดเจ็บขณะสำรวจ</desc>
 		</Rangers>
 		<MilitaryFunds>
 			<name>Gear Upgrade</name>
@@ -1337,7 +1337,7 @@
 		</MilitaryFunds>
 		<GreatExplorers>
 			<name>Journeymen</name>
-			<desc>Increases your [Happy] based on the areas you have explored.</desc>
+			<desc>เพิ่ม [Happy] ของคุณตามพื้นที่ที่คุณสำรวจ</desc>
 		</GreatExplorers>
 		<Wealth>
 			<name>Exotic Goods</name>
@@ -1345,7 +1345,7 @@
 		</Wealth>
 		<Negociators>
 			<name>Negotiators</name>
-			<desc>Gain +::value::[Money] production and ::percent1::[Prestige].</desc>
+			<desc>ได้รับการผลิต +::value::[Money] และ ::percent1::[Prestige]</desc>
 		</Negociators>
 		<Hibernate>
 			<name>Hibernation</name>

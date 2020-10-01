@@ -1026,7 +1026,7 @@ u						<t id="key1">W</t>
 		<t id="territory_money">Town Hall</t>
 		<t id="buildings_upkeep">Building Upkeep</t>
 		<t id="building_upkeep_year">Building upkeep per year</t>
-		<t id="wood_consumption">Firewood</t>
+		<t id="wood_consumption">ไม้ฟืน</t>
 		<t id="arrows_consumption">Arrows</t>
 
 		<t id="population_desc">This is your current clan size. You have enough [House]s for <font color="#R">::max::</font> people.</t>
