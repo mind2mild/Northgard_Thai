@@ -249,23 +249,23 @@
 
 	<g id="ui">
 		<g id="menu">
-			<t id="save">บันทึกเกม</t>
-			<t id="play">กลับไปที่เกม</t>
-			<t id="return_map">ออก</t>
-			<t id="options">ตัวเลือก</t>
-			<t id="return_title">ออกสู่เมนู</t>
-			<t id="concede">ยอมแพ้</t>
-			<t id="continue_game">เล่นต่อไป</t>
-			<t id="continue_campaign">ดำเนินการต่อ</t>
-			<t id="retry_campaign">ลองอีกครั้ง</t>
-			<t id="watch_game">ดูเกมต่อไป</t>
-			<t id="clan_select">เลือกเผ่า</t>
-			<t id="back">กลับ</t>
-			<t id="game_pause">หยุดเกมชั่วคราว</t>
-			<t id="game_unpause">กลับสู่เกม</t>
-			<t id="show_victory_conditions">ดูเงื่อนไขชัยชนะ</t>
-			<t id="campaign_lore">เล่นซ้ำ เนื้อเรื่อง</t>
-			<t id="campaign_load">โหลด</t>
+			<t id="save">Save Game</t>
+			<t id="play">Return to Game</t>
+			<t id="return_map">Quit</t>
+			<t id="options">Options</t>
+			<t id="return_title">Quit to Title</t>
+			<t id="concede">Concede Game</t>
+			<t id="continue_game">Keep Playing</t>
+			<t id="continue_campaign">Continue</t>
+			<t id="retry_campaign">Retry</t>
+			<t id="watch_game">Keep Watching Game</t>
+			<t id="clan_select">Select Clan</t>
+			<t id="back">Back</t>
+			<t id="game_pause">Pause Game</t>
+			<t id="game_unpause">Resume Game</t>
+			<t id="show_victory_conditions">View Victory Conditions</t>
+			<t id="campaign_lore">Replay Story</t>
+			<t id="campaign_load">Load</t>
 		</g>
 
 		<g id="profile">
@@ -436,7 +436,7 @@ u						<t id="key1">W</t>
 				<t id="enable_borderscroll">Enable Border Scrolling</t>
 				<t id="enable_softcursors">Enable Software Cursor</t>
 				<t id="enable_softcursors_tooltip">Render the cursor with the game engine instead of the operating system. Improves performance at the cost of response time.</t>
-				<t id="lang">ภาษา</t>
+				<t id="lang">Language</t>
 				<t id="use_campaign_hero">Use Story Mode Warchiefs</t>
 				<t id="use_conquest_townhall">Use unlocked Special Townhalls from Conquest Mode</t>
 			</g>
@@ -1654,12 +1654,12 @@ u						<t id="key1">W</t>
 	</g>
 
 	<g id="multi_menu">
-		<t id="new_game">สร้างเกม</t>
-		<t id="join">เข้าร่วมเกม</t>
-		<t id="leaderboard">ลีดเดอร์บอร์ด</t>
-		<t id="profile">จัดอันดับผู้เล่น</t>
-		<t id="back">กลับไปที่เมนู</t>
-		<t id="bad_leaver">คุณได้ออกจากเกมจัดอันดับ, รอ ::time:: เพื่อเล่น</t>
+		<t id="new_game">Create Game</t>
+		<t id="join">Join Game</t>
+		<t id="leaderboard">Leaderboard</t>
+		<t id="profile">Player Ranking</t>
+		<t id="back">Back to menu</t>
+		<t id="bad_leaver">You have left a ranked game. Wait ::time:: to play.</t>
 
 		<g id="create_sub">
 			<g id="start_error">
@@ -1704,7 +1704,7 @@ u						<t id="key1">W</t>
 	</g>
 
 	<g id="campaign">
-		<t id="back">กลับไปที่เมนู</t>
+		<t id="back">Back to Menu</t>
 		<t id="chapter">CHAPTER ::x::</t>
 		<t id="act">Act ::x::</t>
 		<t id="cinematic_play">PLAY</t>
@@ -1726,12 +1726,12 @@ u						<t id="key1">W</t>
 
 	<g id="conquest">
 		<g id="menu">
-			<t id="continue_game">ดำเนินการต่อ</t>
+			<t id="continue_game">Continue</t>
 			<t id="load_conquest">Load a Conquest</t>
 			<t id="new_game">New Conquest</t>
 			<t id="invite">Invite a Friend</t>
 			<t id="leave">Leave Group</t>
-			<t id="back">กลับไปที่เมนู</t>
+			<t id="back">Back to Menu</t>
 			<t id="joined">You have joined ::playerName::.</t>
 			<t id="friend_joined">::playerName:: has accepted your invite.</t>
 			<t id="friend_left">::playerName:: has left.</t>
@@ -1772,7 +1772,7 @@ u						<t id="key1">W</t>
 			<t id="victory_conditions">Victory conditions</t>
 			<t id="bonuses">Bonuses</t>
 			<t id="start">Start</t>
-			<t id="continueBattle">ดำเนินการต่อ</t>
+			<t id="continueBattle">Continue</t>
 			<t id="button_start_locked_tip">Complete one of the previous missions first.</t>
 			<t id="button_start_select_reward_tip">You need to select a bonus.</t>
 			<t id="button_start_completed_tip">You have already completed this mission.</t>
