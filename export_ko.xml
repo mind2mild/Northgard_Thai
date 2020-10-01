@@ -7,7 +7,7 @@
 		</Food>
 		<Wood>
 			<name>ไม้</name>
-			<desc>[Wood]ใช้ในการสร้างอาคารและเป็น ไม้ฟืน โดยเฉพาะในช่วงฤดูหนาว</desc>
+			<desc>[Wood] ใช้ในการสร้างอาคารและเป็นไม้ฟืน โดยเฉพาะในช่วงฤดูหนาว</desc>
 			<langs.plural>Wood</langs.plural>
 		</Wood>
 		<Money>

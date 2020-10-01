@@ -62,7 +62,7 @@
 		</g>
 		<g id="fame">
 			<t id="title">Fame</t>
-			<t id="desc">Gain enough [Territory] and raise your [Fame] to obtain the title of <font color="#R">King</font>.</t>
+			<t id="desc">มี [Territory] ที่มากพอ และเพิ่ม [Fame] ของคุณ เพื่อรับตำแหน่ง <font color="#R">ราชา/font>.</t>
 		</g>
 		<g id="fameWithoutTerritory">
 			<t id="title">Fame</t>
@@ -185,9 +185,9 @@
 	<g id="buttons">
 		<t id="build">สร้าง <font color="#T" opacity="0.5">[:: hotkey ::]</font> </t>
 		<t id="buy_drakkar">Build a Longship for <img src="/r/Wood"/>::cost::</t>
-		<t id="start_raid">เริ่มการตรวจค้น</t>
-		<t id="resume_raid">ทำการตรวจค้นต่อ</t>
-		<t id="stop_raid">หยุดการตรวจค้น</t>
+		<t id="start_raid">เริ่มกาปล้นสะดม</t>
+		<t id="resume_raid">ทำการปล้นสะดมต่อ</t>
+		<t id="stop_raid">หยุดการปล้นสะดม</t>
 		<t id="choose_trade_road">สร้างเส้นทางการค้า</t>
 		<t id="change_trade_road">เปลี่ยนเส้นทางการค้า</t>
 		<t id="upgrade_building">อัพเกรด</t>
