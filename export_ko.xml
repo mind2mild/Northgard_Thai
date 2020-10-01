@@ -1220,7 +1220,7 @@
 		</Coinage>
 		<Recruit>
 			<name>Recruitment</name>
-			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, คุณจะได้รับเพิ่มอีก ::percent_value1:: ในช่วงเดือน ::value2:: ต่อยูนิตจากเผ่าของคุณที่ถูกสังหารโดยศัตรูหรือถูกทำลาย (สูงสุด ::percent_value3::)</desc>
+			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, คุณจะได้รับเพิ่มอีก ::percent_value1:: ในช่วงเดือน ::value2:: ต่อหนึ่งยูนิตในเผ่าของคุณที่ถูกสังหาร โดยศัตรูหรือถูกทำลาย (สูงสุด ::percent_value3::)</desc>
 		</Recruit>
 		<Medecine>
 			<name>Medicine</name>
@@ -1228,16 +1228,16 @@
 		</Medecine>
 		<MilitaryStrategy>
 			<name>Military Strategy</name>
-			<desc>Military units gain +::percent_value:: attack for each type of friendly military unit in the area (max +::percent_value1::).</desc>
+			<desc>หน่วยทหารจะได้รับการโจมตี +::percent_value:: ต่อหน่วยทหารพันธมิตร แต่ละประเภทในพื้นที่ (สูงสุด +::percent_value1::)</desc>
 		</MilitaryStrategy>
 		<Security>
 			<name>Feeling Safe</name>
-			<desc>Gain +::value::[Happy] if you have a [Hero01] and +::value1::[Happy] per upgraded military camp.</desc>
-			<props.firstNameDesc>Gain +::value::[Happy] if you have [Hero01] and +::value1::[Happy] per upgraded military camp.</props.firstNameDesc>
+			<desc>ได้รับ +::value::[Happy] หากคุณมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</desc>
+			<props.firstNameDesc>ได้รับ +::value::[Happy] หากคุณมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</props.firstNameDesc>
 		</Security>
 		<Knowledge>
 			<name>Erudition</name>
-			<desc>Increases [RuneMaster] production by ::percent::. First [CarvedStone] is free.</desc>
+			<desc>เพิ่มการผลิตของ [RuneMaster] ขึ้น ::percent::, สร้าง [CarvedStone] อันแรกฟรี</desc>
 		</Knowledge>
 		<Upgrades>
 			<name>Carpentry Mastery</name>
@@ -1257,7 +1257,7 @@
 		</Heroes>
 		<MonsterSlayer>
 			<name>Monster Slayer</name>
-			<desc>Improves your military units' attack by ::percent:: against mystical creatures. Also increases  ::xp_type:: gains by ::percent_value1:: for each mystical creature killed.</desc>
+			<desc>เพิ่มการโจมตีของหน่วยทหารของคุณขึ้น ::percent:: ต่อหนึ่งสิ่งมีชีวิตลึกลับ, และยังได้รับ ::xp_type:: มากขึ้น ::percent_value1:: ต่อหนึ่งสิ่งมีชีวิตลึกลับที่ถูกฆ่า</desc>
 		</MonsterSlayer>
 		<Negociate>
 			<name>Negotiation</name>
@@ -1285,7 +1285,7 @@
 		</Conqueror>
 		<Threats>
 			<name>Veiled Threats</name>
-			<desc>Improves your Trade Routes' [Money] income by ::percent:: if you have a [Hero01] and by ::percent1:: with the [Hero01] in the same zone as the [TradingPost]. You can trade even when at war.</desc>
+			<desc>เพิ่มรายได้ของ Trade Routes' [Money] ขึ้น ::percent:: หากคุณมี [Hero01] และเพิ่มขึ้น ::percent1:: หาก [Hero01] อยู่ในโซนเดียวกับ [TradingPost], คุณสามารถซื้อขายได้แม้ในภาวะสงคราม</desc>
 		</Threats>
 		<MoreAssign>
 			<name>Industrious</name>
@@ -1293,7 +1293,7 @@
 		</MoreAssign>
 		<FreeTools>
 			<name>Spare Tools</name>
-			<desc>Tool improvement for [Farmer]s, [Hunter]s and [Fisherman]s costs no [Money] or [Iron], and forging time for those tools is divided by ::value::.</desc>
+			<desc>พัฒนาเครื่องมือสำหรับ [Farmer], [Hunter] และ [Fisherman] โดยไม่เสีย [Money] หรือ [Iron], และเวลาในการตีอัพเกรด เครื่องมือเหล่านั้นหารด้วย ::value::</desc>
 		</FreeTools>
 		<MoreBuildings>
 			<name>Amenities</name>
@@ -1301,15 +1301,15 @@
 		</MoreBuildings>
 		<Barricades>
 			<name>Barricades</name>
-			<desc>เพิ่มความต้านทานของพลเรือนของคุณ ::percent:: ต่อสิ่งปลูกสร้างในพื้นที่</desc>
+			<desc>เพิ่มความต้านทานของพลเรือนของคุณ ::percent:: ต่อหนึ่งสิ่งปลูกสร้างในพื้นที่</desc>
 		</Barricades>
 		<FoodTrade>
 			<name>Food Trade</name>
-			<desc>Trading food increases your Trade Routes' [Money] income by ::percent:: and by ::percent1:: on tiles with a natural food source. </desc>
+			<desc>การซื้อขาย [food] จะเพิ่มรายได้ [Trade Routes '] [Money] ของคุณขึ้น ::percent::, และ ::percent1:: หากการซื้อขายอยู่ใน ที่มีแหล่งอาหารจากธรรมชาติ</desc>
 		</FoodTrade>
 		<BuildingUpkeep>
 			<name>Food Preservation</name>
-			<desc>Increases [Food] production by +::value1:: and [Happy] by +::value2:: for each [FoodSilo] (+::value:: [Food] if upgraded).</desc>
+			<desc>เพิ่มการผลิต [Food] +::value1:: และ [Happy] +::value2:: ต่อหนึ่ง [FoodSilo] (+::value:: [Food] หากอัพเกรดแล้ว)</desc>
 		</BuildingUpkeep>
 		<HeroEmblem>
 			<name>Hero Emblem</name>
@@ -1341,7 +1341,7 @@
 		</GreatExplorers>
 		<Wealth>
 			<name>Exotic Goods</name>
-			<desc>ได้รับ +::value::[Happy] ต่อ Harbor, +::value1::[Happy] ถ้าอัพเกรด</desc>
+			<desc>ได้รับ +::value::[Happy] ต่อหนึ่ง Harbor, +::value1::[Happy] ถ้าอัพเกรดแล้ว</desc>
 		</Wealth>
 		<Negociators>
 			<name>Negotiators</name>
