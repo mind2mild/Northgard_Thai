@@ -1345,7 +1345,7 @@
 		</Wealth>
 		<Negociators>
 			<name>Negotiators</name>
-			<desc>ได้รับการผลิต +::value::[Money] และ ::percent1::[Prestige]</desc>
+			<desc>ได้รับการผลิต [Money] +::value:: และ +::percent1:: [Prestige]</desc>
 		</Negociators>
 		<Hibernate>
 			<name>Hibernation</name>
