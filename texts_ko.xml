@@ -8,12 +8,12 @@
 
 	<t id="flavor_quote">- "::text::"</t>
 	<t id="unknown_clan">Unknown</t>
-	<t id="random">Random</t>
+	<t id="random">สุ่ม</t>
 
 	<t id="months">มกราคม|February|March|April|May|June|July|August|September|October|November|December</t>
-	<t id="months_short">ม.ค.|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec</t>
+	<t id="months_short">Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec</t>
 
-	<t id="date">::year:: AD - ::month::</t>
+	<t id="date">ค.ศ. ::year:: เดือน ::month::</t>
 	<t id="dateCampaign">Year ::year:: - ::month::</t>
 
 	<g id="titles">
@@ -66,7 +66,7 @@
 		</g>
 		<g id="fameWithoutTerritory">
 			<t id="title">Fame</t>
-			<t id="desc">Raise your [Fame] to obtain the title of <font color="#R">King</font>.</t>
+			<t id="desc">เพิ่ม [Fame] ของคุณ เพื่อรับตำแหน่ง <font color="#R">ราชา</font>.</t>
 		</g>
 		<g id="loresword">
 			<t id="title">Gods' Wisdom</t>
@@ -74,7 +74,7 @@
 		</g>
 		<g id="odinsword">
 			<t id="title">Sword of Odin</t>
-			<t id="desc">Colonize the Anvil of Gods and forge Odin's legendary sword using [Iron].</t>
+			<t id="desc">ตั้งรกรากที่ Anvil of Gods และสร้างดาบในตำนานของ Odin โดยใช้ [Iron]</t>
 		</g>
 		<g id="campaign">
 			<t id="title">โหมดเนื้อเรื่อง</t>
@@ -129,7 +129,7 @@
 		</g>
 		<g id="famealt">
 			<t id="title">ชื่อเสียง</t>
-			<t id="desc">Raise your [Fame] to obtain the title of <font color="#R">King</font>.</t>
+			<t id="desc">เพิ่ม [Fame] ของคุณ เพื่อรับตำแหน่ง <font color="#R">ราชา</font></t>
 		</g>
 
 		<t id="progress"><font color="::color::">::v::/::max::</font></t>

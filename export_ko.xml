@@ -45,7 +45,7 @@
 			<name>ปลา</name>
 		</Fish>
 		<Meat>
-			<name>เนื้อสด</name>
+			<name>เนื้อสัตว์</name>
 		</Meat>
 		<Sailors>
 			<name>กะลาสีเรือ</name>
@@ -81,7 +81,7 @@
 			<desc>[Prestige] can be earned by exploiting Great Trade Routes via a [Lighthouse].</desc>
 		</Prestige>
 		<RimeSteel>
-			<name>Rimesteel</name>
+			<name>แร่ลึกลับ</name>
 			<desc>[RimeSteel] ใช้ในการสร้าง Wurmslayer อันยิ่งใหญ่</desc>
 		</RimeSteel>
 		<Gemstone>
