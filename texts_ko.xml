@@ -1655,7 +1655,7 @@ u						<t id="key1">W</t>
 		<t id="join">Join Game</t>
 		<t id="leaderboard">Leaderboard</t>
 		<t id="profile">Player Ranking</t>
-		<t id="back">Back to menu</t>
+		<t id="back">กลับไปที่เมนู</t>
 		<t id="bad_leaver">You have left a ranked game. Wait ::time:: to play.</t>
 
 		<g id="create_sub">
@@ -1701,7 +1701,7 @@ u						<t id="key1">W</t>
 	</g>
 
 	<g id="campaign">
-		<t id="back">Back to Menu</t>
+		<t id="back">กลับไปที่เมนู</t>
 		<t id="chapter">CHAPTER ::x::</t>
 		<t id="act">Act ::x::</t>
 		<t id="cinematic_play">PLAY</t>
