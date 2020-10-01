@@ -42,11 +42,11 @@
 
 		<g id="military">
 			<t id="title">การปกครอง</t>
-			<t id="desc">ทำลาย <font color="#R">Town Halls</font> ผู้เล่นอื่น และกลายเป็นเจ้าแห่งนอร์ทการ์ด </t>
+			<t id="desc">ทำลาย <font color="#R">Town Halls</font> ผู้เล่นอื่น และกลายเป็นเจ้าแห่ง Northgard</t>
 		</g>
 		<g id="lore">
 			<t id="title">ภูมิปัญญา</t>
-			<t id="desc">ค้นพบความรู้โบราณและกลายเป็น <font color="#R">ผู้นำเผ่าที่ฉลาดที่สุด</font>ในนอร์ทการ์ด</t>
+			<t id="desc">ค้นพบความรู้โบราณและกลายเป็น <font color="#R">ผู้นำเผ่าที่ฉลาดที่สุด</font>ใน Northgard</t>
 		</g>
 		<g id="yggdrasil">
 			<t id="title">Yggdrasil</t>
@@ -58,7 +58,7 @@
 		</g>
 		<g id="money">
 			<t id="title">การค้า</t>
-			<t id="desc">สะสมความร่ำรวยให้กลายเป็น <font color="#R">พ่อค้าที่ยิ่งใหญ่ที่สุด</font>ในนอร์ทการ์ด</t>
+			<t id="desc">สะสมความร่ำรวยให้กลายเป็น <font color="#R">พ่อค้าที่ยิ่งใหญ่ที่สุด</font>ใน Northgard</t>
 		</g>
 		<g id="fame">
 			<t id="title">ชื่อเสียง</t>
@@ -1093,7 +1093,7 @@ u						<t id="key1">W</t>
 
 		<t id="tech_unlock_trading">Unlocks Trading Routes at the [TradingPost].</t>
 		<t id="tech_unlock_trading_neutral">Unlock trading routes with neutral factions at the [TradingPost].</t>
-		<t id="tech_unlock_great_route">Unlocks the [Lighthouse].</t>
+		<t id="tech_unlock_great_route">ปลดล็อก [Lighthouse].</t>
 
 		<t id="cooldown">Cooldown: ::value:: months</t>
 		<t id="passive">Passive</t>

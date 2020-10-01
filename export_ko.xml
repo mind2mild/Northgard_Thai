@@ -32,7 +32,7 @@
 		</SlavePop>
 		<Lore>
 			<name>ตำนาน</name>
-			<desc>[Lore]ที่ค้นพบในนอร์ทการ์ดจะช่วยให้คุณสามารถเพิ่มความรู้ของเผ่าได้</desc>
+			<desc>[Lore]ที่ค้นพบใน Northgard จะช่วยให้คุณ สามารถเพิ่มความรู้ของเผ่าได้</desc>
 		</Lore>
 		<Wheat>
 			<name>ข้าวสาลี</name>
@@ -1341,7 +1341,7 @@
 		</GreatExplorers>
 		<Wealth>
 			<name>Exotic Goods</name>
-			<desc>Gain +::value::[Happy] per Harbor, +::value1::[Happy] if upgraded.</desc>
+			<desc>ได้รับ +::value::[Happy] ต่อ Harbor, +::value1::[Happy] ถ้าอัพเกรด</desc>
 		</Wealth>
 		<Negociators>
 			<name>Negotiators</name>
