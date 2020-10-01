@@ -8,3 +8,44 @@
 <p>5.ชื่อคน/สัตว์/มอนสเตอร์/Skill ให้คงไว้ซึ่งภาษาอังกฤษ เช่น  Arvid Asger Audun</p>
 <p>6.คำที่ใช้ Google Translate ในการแปล ควรเรียบเรียงให้สละสลวยก่อน</p>
 <p>7.ชื่อตำแหน่งหรืออาชีพ ให้ทำการแปล เช่น ชาวประมง นักรบ</p>
+
+คำแปลที่มีการกำหนดให้เหมือนกัน - (temporarily)
+Food - อาหาร
+Wood - ไม้
+Kröwns - ทอง
+Lore - ความรู้โบราณ
+Fame - ชื่อเสียง
+Fish - ปลา
+Meat - เนื้อสัตว์
+Wheat - ธัญพืช
+Stone - หิน / Iron - เหล็ก
+Prestige - อิทธิพลทางการค้า
+------------------------------
+Villager - ชาวบ้าน
+Woodcutter - คนตัดไม้
+Farmer - เกษตรกร
+Hunter - พราน
+Fisherman - ชาวประมง
+Merchant - พ่อค้า
+Sailor - กะลาสี
+Runemaster - นักวิชาการ
+Innkeeper - คนต้มเบียร์
+Skald - กวี
+Scout - นักลาดตระเวน
+Healer - หมอยา
+Mender - ช่างปรุงยา
+Smither - ช่างเหล็ก
+Slave - ทาส
+Norn - ร่างทรง
+---------------------------
+Warrior - นักรบ
+Shield Bearer - พลทหารโล่
+Axe Thrower - นักปาขวาน
+Skirmisher - พลหอกเบา
+Dragonkin - นักรบมังกร
+Mercenary - ทหารรับจ้าง
+Militia - ทหารชาวบ้าน
+Bodyguard - ผู้ปกป้อง
+Tracker - นักล่า
+Warchief - ผู้นำทัพ
+Valkyrie - วัลคีรี่
