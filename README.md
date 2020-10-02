@@ -47,5 +47,5 @@ Mercenary - ทหารรับจ้าง
 Militia - ทหารชาวบ้าน
 Bodyguard - ผู้ปกป้อง
 Tracker - นักล่า
-Warchief - ผู้นำทัพ
+Warchief - หัวหน้าเผ่า
 Valkyrie - วัลคีรี่

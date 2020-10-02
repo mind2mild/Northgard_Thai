@@ -185,15 +185,15 @@
 		<Smith>
 			<name>ช่างตีเหล็ก</name>
 			<langs.plural>ช่างตีเหล็ก</langs.plural>
-			<desc>Smiths can forge improved tools or weapons, powerful relics and the legendary Sword of Odin.</desc>
+			<desc>ช่างตีเหล็กสามารถเพิ่มประสิทธิภาพให้กับอุปกรณ์ต่างๆและอาวุธ สถาปัตยกรรมหิน และดาบที่สืบทอดจากเทพโอดีน</desc>
 		</Smith>
 		<Scholar>
-			<name>Herald</name>
-			<desc>Heralds study politics, legends, and epic stories. They also like to alter a lot of it.</desc>
+			<name>นักการเมือง</name>
+			<desc>นักการเมืองผู้ชื่นชอบเรียนรู้ในวิชาการปกครอง การเมือง และเรื่องกล่าวขานตำนานมากมาย</desc>
 		</Scholar>
 		<Slave>
-			<name>ข้ารับใช้</name>
-			<langs.plural>ข้ารับใช้</langs.plural>
+			<name>ทาส</name>
+			<langs.plural>ทาส</langs.plural>
 			<desc>[Slave]s do not count towards your population and do not require housing.&lt;br/&gt;They also consume less [Food] and [Wood] and are less efficient when gathering resources.&lt;br/&gt;You can buy more [Slave]s from your [Port].</desc>
 			<flavor>Tough times...</flavor>
 		</Slave>
@@ -208,7 +208,7 @@
 		<Warrior>
 			<name>นักรบ</name>
 			<desc>นักรบเป็นยูนิตพื้นฐานที่สุดใน [Warband] . พวกเขามีความเชี่ยวชาญในการสู้รบและได้เปรียบกับคู่ต่อสู้ที่ใช้โล่ป้องกัน</desc>
-			<flavor>Fun fact: Viking warriors did not wear horned helmets. This depiction originates from the 1876 rendition of Wagner's Der Ring des Nibelungen.</flavor>
+			<flavor></flavor>
 		</Warrior>
 		<ShieldBearer>
 			<name>พลทหารโล่</name>
@@ -235,7 +235,7 @@
 			<name>ทหารรับจ้าง</name>
 			<langs.plural>ทหารรับจ้าง</langs.plural>
 			<desc>จ้างพวกเขาด้วย [Money] ทหารรับจ้างเชื่อถือไม่ได้เสมอไป แต่พวกเขาจะออกปล้น และก่อความวุ่นวายให้กับเหยื่อของพวกเขาแน่นอน</desc>
-			<flavor>Nothing personal.</flavor>
+			<flavor>ข้าปล้นเพื่ออยู่ ไม่มีใครหน้าไหนหยุดข้าได้!</flavor>
 		</Mercenary>
 		<Militia>
 			<name>ทหารชาวบ้าน</name>
@@ -252,23 +252,23 @@
 			<flavor>นักล่าไม่ใช่พรานนะจ้ะ</flavor>
 		</Tracker>
 		<Hero01>
-			<name>แม่ทัพเผ่า</name>
-			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<name>หัวหน้าเผ่า</name>
+			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Goat]</editor.name>
 		</Hero01>
 		<Hero02>
-			<name>แม่ทัพเผ่า</name>
-			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<name>หัวหน้าเผ่า</name>
+			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Raven]</editor.name>
 		</Hero02>
 		<Hero03>
-			<name>แม่ทัพเผ่า</name>
-			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<name>หัวหน้าเผ่า</name>
+			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Stag]</editor.name>
 		</Hero03>
 		<Hero04>
-			<name>แม่ทัพเผ่า</name>
-			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<name>หัวหน้าเผ่า</name>
+			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพ [Boar]</editor.name>
 		</Hero04>
 		<Berserker>
@@ -288,8 +288,8 @@
 			<editor.name>Warchief [Snake]</editor.name>
 		</WarchiefSnake>
 		<WarchiefDragon>
-			<name>แม่ทัพเผ่า</name>
-			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<name>หัวหน้าเผ่า</name>
+			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
 			<editor.name>แม่ทัพเผ่า [Dragon]</editor.name>
 		</WarchiefDragon>
 		<HorseMaiden>
@@ -303,8 +303,8 @@
 			<editor.name>Warchief [Horse]</editor.name>
 		</HorseHero>
 		<KrakenMaiden>
-			<name>แม่ทัพเผ่า</name>
-			<desc>แม่ทัพเป็นผู้นำเผ่าที่มีประสบการณ์และความเชี่ยวชาญในการต่อสู้เป็นอย่างมาก</desc>
+			<name>หัวหน้าเผ่า</name>
+			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
 			<editor.name>Warchief [Kraken]</editor.name>
 		</KrakenMaiden>
 		<OxHero>
@@ -355,8 +355,8 @@
 			<editor.name>Bannerman [Boar]</editor.name>
 		</Hero08>
 		<NornArmor>
-			<name>Valkyrie</name>
-			<desc>Wielding divine power, the Valkyries are the most powerful members of the Kraken's army.</desc>
+			<name>วัลคีรี่</name>
+			<desc>พวกเธอเหวี่ยงอาวุธที่ตีมาจากช่างชั้นดี, พวกเธอเป็นยูนิตทหารที่แข็งแกร่งที่สุดในกองทัพคราเคน</desc>
 		</NornArmor>
 		<OxShadow>
 			<name>Torfin's Shadow</name>
