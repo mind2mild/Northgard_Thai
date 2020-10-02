@@ -7,11 +7,11 @@
 	<t id="soon">เร็วๆนี้ ...</t>
 
 	<t id="flavor_quote">- "::text::"</t>
-	<t id="unknown_clan">Unknown</t>
+	<t id="unknown_clan">เผ่าที่ยังไม่ทราบชื่อ</t>
 	<t id="random">สุ่ม</t>
 
-	<t id="months">มกราคม|February|March|April|May|June|July|August|September|October|November|December</t>
-	<t id="months_short">Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec</t>
+	<t id="months">มกราคม|กุมภาพันธ์|มีนาคม|เมษายน|พฤษภาคม|มิถุนายน|กรกฎาคม|สิงหาคม|กันยายน|ตุลาคม|พฤศจิกายน|ธันวาคม</t>
+	<t id="months_short">ม.ค.|ก.พ.|มี.ค.|เม.ย.|พ.ค.|มิ.ย.|ก.ค.|ส.ค.|ก.ย.|ต.ค.|พ.ย.|ธ.ค.</t>
 
 	<t id="date">ค.ศ. ::year:: เดือน ::month::</t>
 	<t id="dateCampaign">Year ::year:: - ::month::</t>
@@ -20,7 +20,7 @@
 		<t id="population">ประชากร</t>
 		<t id="civilians">พลเรือน</t>
 		<t id="slaves">ทาส</t>
-		<t id="warband">กลุ่มนักรบ</t>
+		<t id="warband">กองทหาร</t>
 		<t id="allies">พันธมิตร</t>
 		<t id="buildings">สิ่งปลูกสร้าง</t>
 		<t id="standard">อาคารมาตรฐาน</t>
@@ -184,7 +184,7 @@
 
 	<g id="buttons">
 		<t id="build">สร้าง <font color="#T" opacity="0.5">[:: hotkey ::]</font> </t>
-		<t id="buy_drakkar">Build a Longship for <img src="/r/Wood"/>::cost::</t>
+		<t id="buy_drakkar">สร้างท่าเรือสำหรับ <img src="/r/Wood"/>::cost::</t>
 		<t id="start_raid">เริ่มกาปล้นสะดม</t>
 		<t id="resume_raid">ทำการปล้นสะดมต่อ</t>
 		<t id="stop_raid">หยุดการปล้นสะดม</t>
@@ -193,34 +193,34 @@
 		<t id="upgrade_building">อัพเกรด</t>
 		<t id="reset_building">รีเซ็ต</t>
 		<t id="unlock_great_route">Unlock Great Routes</t>
-		<t id="colonize">Colonize for <img src="/r/::r::"/><font color="::color::">::cost::</font>::extra::</t>
-		<t id="cantColonize">Can't colonize</t>
-		<t id="cancel_colonize">Cancel Colonization</t>
-		<t id="trigger_trap">Activate Trap</t>
-		<t id="improve_tools"><img src="/r/Iron"/>Improve Tools</t>
-		<t id="forge_start"><img src="/r/Forge"/>Forge</t>
-		<t id="sacrifice">Slaughter</t>
-		<t id="organize_feast">Organize a Feast</t>
-		<t id="feasting">Currently feasting...</t>
-		<t id="ally_feasting">You ally is currently feasting...</t>
-		<t id="retreat"><img src="/i/Retreat"/>Retreat</t>
+		<t id="colonize">ขยายดินแดน <img src="/r/::r::"/><font color="::color::">::cost::</font>::extra::</t>
+		<t id="cantColonize">ไม่สามารถขยายดินแดนได้</t>
+		<t id="cancel_colonize">ยกเลิกการขยายดินแดน</t>
+		<t id="trigger_trap">กับดักทำงาน</t>
+		<t id="improve_tools"><img src="/r/Iron"/>เพิ่มประสิทธิภาพ</t>
+		<t id="forge_start"><img src="/r/Forge"/>หลอม</t>
+		<t id="sacrifice">เชือด</t>
+		<t id="organize_feast">จัดงานเทศกาล</t>
+		<t id="feasting">กำลังมีงานเทศกาล. . .</t>
+		<t id="ally_feasting">เรากำลังเริ่มงานเทศกาล. . .</t>
+		<t id="retreat"><img src="/i/Retreat"/>ถอยทัพ</t>
 		<t id="manage_port"><img src="/r/Sailors"/>Manage Harbor</t>
-		<t id="transfer_zone"><img src="/i/TransferZone"/>Transfer Area</t>
-		<t id="claim_zone"><img src="/i/ClaimZone"/>Request Area</t>
-		<t id="defense_on">Defend</t>
-		<t id="defense_off">Auto</t>
-		<t id="upgrade_zone">Develop Area</t>
-		<t id="upgrade_free_zone"><font color="#G">Develop Area (::numFree::)</font></t>
-		<t id="rally_warchief">Rallying</t>
-		<t id="spawn_bear">Summon</t>
-		<t id="show_statistics">Show Statistics</t>
+		<t id="transfer_zone"><img src="/i/TransferZone"/>แลกเปลี่ยนอาณาเขต</t>
+		<t id="claim_zone"><img src="/i/ClaimZone"/>ร้องขออาณาเขต</t>
+		<t id="defense_on">ป้องกัน</t>
+		<t id="defense_off">อัตโนมัติ</t>
+		<t id="upgrade_zone">ปรับปรุงพื้นที่</t>
+		<t id="upgrade_free_zone"><font color="#G">ปรับปรุงพื้นที (::numFree::)</font></t>
+		<t id="rally_warchief">เรียกรวมพล</t>
+		<t id="spawn_bear">เรียก</t>
+		<t id="show_statistics">แสดงสถิติ</t>
 	</g>
 
 	<g id="help">
-		<t id="zone_to_explore">This area has not been explored yet. Send a [Scout] in first.</t>
-		<t id="ruins_explored">These Ruins have already been explored.</t>
-		<t id="wreck_scavenged">This Shipwreck has already been scavenged.</t>
-		<t id="brokenHouse_visited">This [BrokenHouse] has already been visited.</t>
+		<t id="zone_to_explore">พื้นที่นี้ยังไม่มีการตรวจพบ ต้องส่ง [Scout] เพื่อไปตรวจสอบ</t>
+		<t id="ruins_explored">ซากปรักหักพังนี้ถูกสำรวจแล้ว</t>
+		<t id="wreck_scavenged">ซากเรือนี้ถูกสำรวจแล้ว</t>
+		<t id="brokenHouse_visited">[BrokenHouse] นี้ถูกสำรวจแล้ว</t>
 		<t id="win_res_faction">Eradicate this faction to gain ::resList::.</t>
 		<t id="win_res">Colonize this area to gain ::resList::.</t>
 		<t id="kill_fame">Kill the Wyvern and gain ::resList::.</t>
@@ -259,12 +259,12 @@
 			<t id="continue_campaign">ดำเนินการต่อ</t>
 			<t id="retry_campaign">ลองอีกครั้ง</t>
 			<t id="watch_game">ดูเกมต่อไป</t>
-			<t id="clan_select">เลือก Clan</t>
+			<t id="clan_select">เลือกเผ่า</t>
 			<t id="back">กลับ</t>
 			<t id="game_pause">หยุดเกม</t>
-			<t id="game_unpause">กลับสู่เกม</t>
+			<t id="game_unpause">เริ่มเกมต่อ</t>
 			<t id="show_victory_conditions">ดูเงื่อนไขชัยชนะ</t>
-			<t id="campaign_lore">Replay Story</t>
+			<t id="campaign_lore">บันทึกย้อนหลัง</t>
 			<t id="campaign_load">โหลด</t>
 		</g>
 
@@ -1400,11 +1400,11 @@ u						<t id="key1">W</t>
 		<t id="already_stilted">This zone is already stilted</t>
 
 		<g id="no_scouting_reason">
-			<t id="discovered">Already discovered</t>
-			<t id="cant_reach">Can't reach Area</t>
-			<t id="require_scout">Requires a [Scout]</t>
-			<t id="require_scoutcamp">Requires a [ScoutCamp]</t>
-			<t id="require_upgraded_scoutcamp">Requires an upgraded [ScoutCamp]</t>
+			<t id="discovered">ตรวจพบทุกพื้นที่แล้ว</t>
+			<t id="cant_reach">ไม่สามารถเข้าถึงพื้นที่ได้</t>
+			<t id="require_scout">ต้องการ [Scout]</t>
+			<t id="require_scoutcamp">ต้องการ [ScoutCamp]</t>
+			<t id="require_upgraded_scoutcamp">จำเป็นต้องอัพเกรด [ScoutCamp]</t>
 		</g>
 
 		<g id="no_colonize_reason">
@@ -1424,9 +1424,9 @@ u						<t id="key1">W</t>
 		<t id="unknown_player">An Unknown Clan</t>
 
 		<g id="low">
-			<t id="food">Your clan is starving! You need to produce and store more [Food]!</t>
-			<t id="wood">Your clan is freezing! You need to produce and store more [Wood]!</t>
-			<t id="happy">Your clan is unhappy! You need to increase your [Happy] by recruiting [Innkeeper]s!</t>
+			<t id="food">เราหิวเหลือเกิน!! เราต้องผลิตหรือกักตุน [Food] ให้มากขึ้นก่อนที่พวกเราจะอดตาย!</t>
+			<t id="wood">เราหนาวเหลือเกิน!! เราต้องผลิตหรือกักตุน [Wood] ให้มากขึ้นก่อนที่พวกเราจะหนาวตาย!</t>
+			<t id="happy">พวกเราไม่มีความสุขเลย!! สามารถเพิ่มค่า [Happy] จากการจ้างวาน [Innkeeper]!</t>
 			<t id="money">You can't pay your <img src="/r/Money"/><font color="#B">building upkeep!</font> One of your <font color="#G">::name::</font> has been damaged. Repair it or it will burn!</t>
 		</g>
 

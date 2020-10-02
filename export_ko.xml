@@ -558,7 +558,7 @@
 			<name>Drakkar</name>
 		</Drakkar>
 		<Kraken>
-			<name>Kraken</name>
+			<name>คราเคน</name>
 		</Kraken>
 		<Tentacle>
 			<name>Tentacle</name>
@@ -577,7 +577,7 @@
 	<sheet name="building">
 		<House>
 			<name>กระท่อม</name>
-			<desc>สถานที่พักอาศัยสำหรับผู้คนในเผ่า</desc>
+			<desc>สถานที่พักอาศัยสำหรับคนในเผ่า</desc>
 			<upgrades>
 				<0>
 					<desc>Can shelter ::value:: additional clan members and improve housing quality.</desc>
@@ -622,18 +622,18 @@
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 		</FishermanHouse>
 		<Fishery>
-			<name>กระท่อมของนักล่าปลา (เผ่าหมึก)</name>
+			<name>กระท่อมของนักล่าปลา</name>
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 			<flavor>Not fresh? My fish?</flavor>
 		</Fishery>
 		<Fields>
 			<name>ทุ่งธัญพืช</name>
 			<langs.plural>ทุ่งธัญพืช</langs.plural>
-			<desc>Assign your villagers to become [Farmer]s who will produce [Food] in larger quantities during summer.</desc>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Farmer] ผู้ที่สามารถหาทรัพยากร [Food] ได้จำนวนมากในช่วงฤดูร้อน</desc>
 		</Fields>
 		<HunterLodge>
-			<name>Hunter's Lodge</name>
-			<desc>Assign your villagers to become [Hunter]s who will track and kill deer.</desc>
+			<name>บ้านพักนายพราน</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Hunter] ผู้ล่ากวางในบริเวณนั้นเพื่อเป็น [Food]</desc>
 		</HunterLodge>
 		<FoodSilo>
 			<name>คลังอาหาร</name>
@@ -645,17 +645,17 @@
 			</upgrades>
 		</FoodSilo>
 		<TradingPost>
-			<name>Trading Post</name>
-			<desc>Assign your villagers to become [Merchant]s who will earn [Money]s.</desc>
+			<name>ศูนย์แลกเปลี่ยน</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Merchant] สามารถส่งออกทรัพยากรของเราไปยังเผ่าอื่นๆเพื่อแลกกับ [Money]</desc>
 		</TradingPost>
 		<MarketPlace>
-			<name>Marketplace</name>
-			<desc>Assign your villagers to become [Merchant]s and spend [Money] to buy various resources.</desc>
+			<name>ตลาด</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Merchant] เราสามารถนำ [Money] มาแลกกับทรัพยากรได้</desc>
 			<flavor>No credit given.</flavor>
 		</MarketPlace>
 		<RavenPort>
-			<name>Harbor</name>
-			<desc>Sailors loot [Money] and [Lore] or [Fame] while raiding. You can scout shores and hire [Mercenary]s. Add a [Lighthouse] to exploit Great Trade Routes.</desc>
+			<name>ท่าเรือ</name>
+			<desc>ลูกเรือของเราสามารถหา [Money] และ [Lore] หรือ [Fame] ขณะออกเรือเราสามารถสำรวจพื้นที่หรือจ้างวาน [Mercenary] หรือสร้าง [Lighthouse] สำหรับการติดต่อซื้อขาย</desc>
 		</RavenPort>
 		<Port>
 			<name>Longship Dock</name>
@@ -663,9 +663,9 @@
 			<props.noFameDesc>Sailors loot [Money] and [Lore] while raiding. Add a [Lighthouse] to exploit Great Trade Routes.</props.noFameDesc>
 		</Port>
 		<HallOfPoetry>
-			<name>Hall of Skalds</name>
-			<langs.plural>Halls of Skalds</langs.plural>
-			<desc>Assign your villagers to become [Skald]s who will increase your clan's [Fame] and [Happy].</desc>
+			<name>เวทีของนักกวี</name>
+			<langs.plural>เวทีของนักกวี</langs.plural>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Skald] ผู้ที่สามารถเพิ่มค่า [Fame] และ [Happy] ในเวลาเดียวกัน</desc>
 		</HallOfPoetry>
 		<Horgr>
 			<name>Hörgr</name>
