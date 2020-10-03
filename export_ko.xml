@@ -1321,11 +1321,11 @@
 		</BuildingUpkeep>
 		<HeroEmblem>
 			<name>Hero Emblem</name>
-			<desc>[Stone] cost to build an [Temple] is reduced to ::value2::. It gives +::value:: [Happy] and produces [Fame].</desc>
+			<desc>[Stone] ที่ใช้สร้าง [Temple] ลดลงเหลือ ::value2::, และให้ [Happy] กับ [Fame] +::value::</desc>
 		</HeroEmblem>
 		<ProudStag>
 			<name>Young and Proud</name>
-			<desc>Increases your military units' attack power by ::percent_value:: for every positive [Happy] you have (currently ::nb::% - 25% max).</desc>
+			<desc>เพิ่มพลังโจมตีของหน่วยทหารของคุณขึ้น ::percent_value:: สำหรับทุก [Happy] ที่คุณมี (ปัจจุบัน ::nb::% - สูงสุด 25%)</desc>
 		</ProudStag>
 		<GreatDeeds>
 			<name>The Value of Great Deeds</name>
