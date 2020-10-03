@@ -13,7 +13,7 @@
 	<t id="months">มกราคม|กุมภาพันธ์|มีนาคม|เมษายน|พฤษภาคม|มิถุนายน|กรกฎาคม|สิงหาคม|กันยายน|ตุลาคม|พฤศจิกายน|ธันวาคม</t>
 	<t id="months_short">ม.ค.|ก.พ.|มี.ค.|เม.ย.|พ.ค.|มิ.ย.|ก.ค.|ส.ค.|ก.ย.|ต.ค.|พ.ย.|ธ.ค.</t>
 
-	<t id="date">::year:: AD - ::month::</t>
+	<t id="date">เดือน ::month:: - ค.ศ. ::year::</t>
 	<t id="dateCampaign">Year ::year:: - ::month::</t>
 
 	<g id="titles">
@@ -1021,7 +1021,7 @@ u						<t id="key1">W</t>
 		<t id="sheep_production">Sheepfold</t>
 		<t id="feast_bonus">Feast Bonus</t>
 		<t id="temple_bonus">Altar of Kings</t>
-		<t id="food_consumption">การบริโภค</t>
+		<t id="food_consumption">>การบริโภค</t>
 
 		<t id="territory_money">Town Hall</t>
 		<t id="buildings_upkeep">Building Upkeep</t>
@@ -1654,7 +1654,7 @@ u						<t id="key1">W</t>
 		<t id="new_game">สร้างเกม</t>
 		<t id="join">เข้าร่วมเกม</t>
 		<t id="leaderboard">กระดานผู้นำ</t>
-		<t id="profile">จัดอันดับผู้เล่น/t>
+		<t id="profile">จัดอันดับผู้เล่น</t>
 		<t id="back">กลับไปที่เมนู</t>
 		<t id="bad_leaver">คุณออกจากเกมจัดอันดับ, รอ ::time:: เพื่อเล่น</t>
 
