@@ -1651,12 +1651,12 @@ u						<t id="key1">W</t>
 	</g>
 
 	<g id="multi_menu">
-		<t id="new_game">Create Game</t>
-		<t id="join">Join Game</t>
-		<t id="leaderboard">Leaderboard</t>
-		<t id="profile">Player Ranking</t>
+		<t id="new_game">สร้างเกม</t>
+		<t id="join">เข้าร่วมเกม</t>
+		<t id="leaderboard">กระดานผู้นำ</t>
+		<t id="profile">จัดอันดับผู้เล่น/t>
 		<t id="back">กลับไปที่เมนู</t>
-		<t id="bad_leaver">You have left a ranked game. Wait ::time:: to play.</t>
+		<t id="bad_leaver">คุณออกจากเกมจัดอันดับ, รอ ::time:: เพื่อเล่น</t>
 
 		<g id="create_sub">
 			<g id="start_error">
