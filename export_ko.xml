@@ -93,9 +93,9 @@
 			<desc>คุณจะได้รับ [MilitaryXP] จากการฆ่ายูนิตศัตรู หรือสูญเสียยูนิตของคุณเองในการต่อสู้</desc>
 		</MilitaryXP>
 		<HuntTrophy>
-			<name>Hunting Trophy</name>
+			<name>ถ้วยรางวัลล่าสัตว์</name>
 			<desc>You earn [HuntTrophy]s by killing animals and their mythical counterparts. </desc>
-			<langs.plural>Hunting Trophies</langs.plural>
+			<langs.plural>ถ้วยรางวัลล่าสัตว์</langs.plural>
 		</HuntTrophy>
 		<LoreBifrost>
 			<name>Bifrost's Lore</name>
@@ -606,7 +606,7 @@
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Healer] ผู้ที่สามารถรักษาผู้คนที่บาดเจ็บหรือมีอาการป่วยในอาณาเขตของเรา พวกเขาจะหา [Food] เมื่อไม่มีคนให้พวกเขารักษา</desc>
 			<upgrades>
 				<0>
-					<desc>Heal your clan members ::percent:: faster.</desc>
+					<desc>ฮีลสมาชิกเผ่าของคุณเร็วขึ้น ::percent::</desc>
 				</0>
 			</upgrades>
 		</HealerHut>
@@ -616,16 +616,16 @@
 			<flavor>Smells faintly of cabbage.</flavor>
 			<upgrades>
 				<0>
-					<desc>Heal your clan members ::percent:: faster.</desc>
+					<desc>ฮีลสมาชิกเผ่าของคุณเร็วขึ้น ::percent::</desc>
 				</0>
 			</upgrades>
 		</MenderHut>
 		<FishermanHouse>
-			<name>กระท่อมนักล่าปลา</name>
+			<name>กระท่อมชาวประมง</name>
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 		</FishermanHouse>
 		<Fishery>
-			<name>กระท่อมนักล่าปลา</name>
+			<name>กระท่อมชาวประมง</name>
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 			<flavor>Not fresh? My fish?</flavor>
 		</Fishery>
@@ -640,10 +640,10 @@
 		</HunterLodge>
 		<FoodSilo>
 			<name>คลังอาหาร</name>
-			<desc>Improves [Food] produced by specialized workers in this area by ::percent::. Increases your maximum food storage.</desc>
+			<desc>เพิ่มการผลิต [Food] ของคนงานเฉพาะทางในพื้นที่นี้ ::percent::, เพิ่มการจัดเก็บอาหารสูงสุดของคุณ</desc>
 			<upgrades>
 				<0>
-					<desc>Improves [Food] produced in this area by ::percent::.</desc>
+					<desc>เพิ่มการผลิต [Food] ในพื้นที่นี้ขึ้น ::percent::</desc>
 				</0>
 			</upgrades>
 		</FoodSilo>
@@ -661,9 +661,9 @@
 			<desc>ลูกเรือของเราสามารถหา [Money] และ [Lore] หรือ [Fame] ขณะออกเรือเราสามารถสำรวจพื้นที่หรือจ้างวาน [Mercenary] หรือสร้าง [Lighthouse] สำหรับการติดต่อซื้อขาย</desc>
 		</RavenPort>
 		<Port>
-			<name>Longship Dock</name>
-			<desc>Sailors loot [Money] and [Lore] or [Fame] while raiding. Add a [Lighthouse] to exploit Great Trade Routes.</desc>
-			<props.noFameDesc>Sailors loot [Money] and [Lore] while raiding. Add a [Lighthouse] to exploit Great Trade Routes.</props.noFameDesc>
+			<name>ท่าเรือไวกิ้ง</name>
+			<desc>กะลาสีเรือจะปล้น [Money] และ [Lore] หรือ [Fame] ขณะบุกจู่โจม, เพิ่ม [Lighthouse] เพื่อใช้ประโยชน์จาก Great Trade Routes</desc>
+			<props.noFameDesc>กะลาสีเรือจะปล้น [Money] และ [Lore] ขณะบุกจู่โจม, เพิ่ม [Lighthouse] เพื่อใช้ประโยชน์จาก Great Trade Routes</props.noFameDesc>
 		</Port>
 		<HallOfPoetry>
 			<name>เวทีของนักกวี</name>
@@ -676,38 +676,38 @@
 			<desc>Assign your female [VillagerWoman]s to become [Norn]s. They will increase your clan's [Happy] and your [Prescience].</desc>
 		</Horgr>
 		<Tavern>
-			<name>Brewery</name>
-			<langs.plural>Breweries</langs.plural>
-			<desc>Assign your villagers to become [InnKeeper]s who will increase your clan's [Happy].</desc>
+			<name>โรงเบียร์</name>
+			<langs.plural>โรงเบียร์</langs.plural>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [InnKeeper] ซึ่งจะเพิ่ม [Happy] ให้กับเผ่าของคุณ</desc>
 			<flavor>Bring your own cup!</flavor>
 		</Tavern>
 		<AllMines>
-			<name>Mine</name>
-			<desc>Assign your villagers to become [Miner]s to extract [Stone], [Iron], [RimeSteel] or [Gemstone] ores from deposits.</desc>
+			<name>เหมือง</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone], [Iron], [RimeSteel] หรือ [Gemstone] จากการทับทม</desc>
 		</AllMines>
 		<Mine>
 			<name>Quarry</name>
 			<langs.plural>Quarries</langs.plural>
-			<desc>Assign your villagers to become [Miner]s who will quarry [Stone].</desc>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone]</desc>
 		</Mine>
 		<IronMine>
 			<name>Iron Mine</name>
-			<desc>Assign your villagers to become [Miner]s who will extract [Iron] ore.</desc>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Iron]</desc>
 		</IronMine>
 		<RimeSteelMine>
 			<name>Rimesteel Mine</name>
-			<desc>Assign your villagers to become [Miner]s who will extract [RimeSteel] ore.</desc>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [RimeSteel]</desc>
 		</RimeSteelMine>
 		<GemStonesMine>
 			<name>Gemstone Mine</name>
-			<desc>Assign your villagers to become [Miner]s who will extract [Gemstone] ore.</desc>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Gemstone]</desc>
 		</GemStonesMine>
 		<Forge>
 			<name>Forge</name>
-			<desc>Assign your villagers to become [Smith]s. Allows you to forge better tools, weapons and legendary relics.</desc>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Smith], ช่วยให้คุณสามารถพัฒนาเครื่องมือ, อาวุธ และวัตถุโบราณในตำนาน ให้ดีขึ้น</desc>
 			<upgrades>
 				<0>
-					<desc>Increases forge speed by ::percent:: in the zone.</desc>
+					<desc>เพิ่มความเร็วในการตีขึ้น ::percent::</desc>
 				</0>
 			</upgrades>
 		</Forge>
@@ -716,17 +716,17 @@
 			<desc>Allows you to forge better tools, weapons and legendary relics with your warchiefs.</desc>
 			<upgrades>
 				<0>
-					<desc>Increases forge speed by ::percent:: in the zone.</desc>
+					<desc>เพิ่มความเร็วในการตีขึ้น ::percent::</desc>
 				</0>
 			</upgrades>
 		</ForgeHorse>
 		<CarvedStone>
-			<name>Carved Stone</name>
-			<desc>Assign a villager to become a [RuneMaster] who will produce [Lore].</desc>
-			<flavor>Quite a bit heavier than a book.</flavor>
+			<name>ศิลาจารึก</name>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [RuneMaster] เพื่อศึกษา [Lore]</desc>
+			<flavor>ค่อนข้างหนักกว่าหนังสือ</flavor>
 		</CarvedStone>
 		<Sheepfold>
-			<name>Sheepfold</name>
+			<name>ฝูงแกะ</name>
 			<desc>Allows you to enclose your [Sheep] to produce [Food].</desc>
 			<flavor>Better than slaughtering the poor things, right?</flavor>
 			<upgrades>
@@ -736,16 +736,16 @@
 			</upgrades>
 		</Sheepfold>
 		<TrainingCamp>
-			<name>Training Camp</name>
-			<desc>Allows you to recruit military units and increases your [Warband] size by ::value::.</desc>
+			<name>ค่ายฝึก</name>
+			<desc>ให้คุณรับสมัครหน่วยทหาร และเพิ่มขนาด [Warband] ของคุณขึ้น ::value::</desc>
 			<upgrades>
 				<0>
-					<desc>Increases your [Warrior]s' attack by ::percent_value1::. You also gain +::value::[Warband].</desc>
+					<desc>เพิ่มพลังโจมตีของ [Warrior] ขึ้น ::percent_value1::, และ [Warband] ของคุณ +::value::</desc>
 				</0>
 			</upgrades>
 		</TrainingCamp>
 		<SkirmishCenter>
-			<name>Skirmisher Camp</name>
+			<name>ค่ายฝึกพลหอก</name>
 			<desc>Allows you to recruit [Skirmisher]s and increases your [Warband] size by ::value::.</desc>
 			<upgrades>
 				<0>
@@ -754,7 +754,7 @@
 			</upgrades>
 		</SkirmishCenter>
 		<AxeCenter>
-			<name>Axe Thrower Camp</name>
+			<name>ค่ายฝึกนักปาขวาน</name>
 			<desc>Allows you to recruit [AxeWielder]s, powerful ranged units, and increases your [Warband] size by ::value::.</desc>
 			<upgrades>
 				<0>
@@ -763,7 +763,7 @@
 			</upgrades>
 		</AxeCenter>
 		<ShieldCenter>
-			<name>Shield Bearer Camp</name>
+			<name>ค่ายฝึกพลทหารโล่</name>
 			<desc>Allows you to recruit [ShieldBearer]s, which are well protected against ranged units and towers, and increases your [Warband] size by ::value::.</desc>
 			<upgrades>
 				<0>
@@ -791,16 +791,16 @@
 			</upgrades>
 		</DragonmenCamp>
 		<WatchTower>
-			<name>Defense Tower</name>
-			<desc>Protects this area from enemies by shooting at them.</desc>
+			<name>หอคอย</name>
+			<desc>ปกป้องพื้นที่นี้จากศัตรู โดยการยิงใส่พวกมัน</desc>
 			<upgrades>
 				<0>
-					<desc>Increases the tower's attack and resistance by ::percent::.</desc>
+					<desc>เพิ่มการโจมตีและความต้านทานของหอคอย ::percent::</desc>
 				</0>
 			</upgrades>
 		</WatchTower>
 		<Totem>
-			<name>Carved Statue</name>
+			<name>รูปปั้นแกะสลัก</name>
 			<desc>This carving displays your prowess to all Vikings of the land!</desc>
 		</Totem>
 		<Temple>
