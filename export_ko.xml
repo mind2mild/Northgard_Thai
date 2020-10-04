@@ -167,9 +167,9 @@
 			<flavor>What's yours is mine!</flavor>
 		</Miner>
 		<Scout>
-			<name>นักลาดตระเวน</name>
-			<langs.plural>นักลาดตระเวน</langs.plural>
-			<desc>นักลาดตระเวนจะสำรวจพื้นที่ใหม่, ช่วยให้คุณขยายอาณาเขตของคุณ นอกจากนี้ยังสามารถสำรวจซากปรักหักพังและซากเรืออับปาง</desc>
+			<name>นักสำรวจ</name>
+			<langs.plural>นักสำรวจ</langs.plural>
+			<desc>นักสำรวจจะสำรวจพื้นที่ใหม่, ช่วยให้คุณขยายอาณาเขตของคุณ นอกจากนี้ยังสามารถสำรวจซากปรักหักพังและซากเรืออับปาง</desc>
 		</Scout>
 		<Healer>
 			<name>หมอยา</name>
@@ -588,7 +588,7 @@
 			</upgrades>
 		</House>
 		<ScoutCamp>
-			<name>ค่ายนักลาดตระเวน</name>
+			<name>ค่ายนักสำรวจ</name>
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Scout] ผู้ที่สามารถทำให้คุณออกสำรวจอาณาเขตใหม่ๆได้</desc>
 			<flavor>Empty for the greater part of the year.</flavor>
 			<upgrades>
@@ -598,7 +598,7 @@
 			</upgrades>
 		</ScoutCamp>
 		<WoodLodge>
-			<name>กระท่อมของคนตัดไม้</name>
+			<name>กระท่อมคนตัดไม้</name>
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Woodcutter] ผู้ที่สามารถหาทรัพยากร [Wood] ให้กับเผ่าของคุณ</desc>
 		</WoodLodge>
 		<HealerHut>
@@ -621,11 +621,11 @@
 			</upgrades>
 		</MenderHut>
 		<FishermanHouse>
-			<name>กระท่อมของนักล่าปลา</name>
+			<name>กระท่อมนักล่าปลา</name>
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 		</FishermanHouse>
 		<Fishery>
-			<name>กระท่อมของนักล่าปลา</name>
+			<name>กระท่อมนักล่าปลา</name>
 			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 			<flavor>Not fresh? My fish?</flavor>
 		</Fishery>
