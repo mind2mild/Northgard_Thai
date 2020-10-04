@@ -2,16 +2,16 @@
 	<sheet name="resource">
 		<Food>
 			<name>อาหาร</name>
-			<desc>[Food] is necessary to feed your clan. Stock up on food before winter. Avoid starvation at all costs.</desc>
-			<langs.plural>Food</langs.plural>
+			<desc>[Food]เป็นสิ่งจำเป็นในการเลี้ยงดูเผ่าของคุณ, ตุนอาหารก่อนฤดูหนาว, หลีกเลี่ยงความอดอยากโดยเสียค่าใช้จ่ายทั้งหมด</desc>
+			<langs.plural>อาหาร</langs.plural>
 		</Food>
 		<Wood>
 			<name>ไม้</name>
 			<desc>[Wood] ใช้ในการสร้างอาคารและเป็นไม้ฟืน โดยเฉพาะในช่วงฤดูหนาว</desc>
-			<langs.plural>Wood</langs.plural>
+			<langs.plural>ไม้</langs.plural>
 		</Wood>
 		<Money>
-			<name>Kröwns</name>
+			<name>ทอง</name>
 			<desc>[Money]ใช้เพื่อรับสมัครนักรบของคุณและสำหรับค่าบำรุงรักษาอาคาร</desc>
 		</Money>
 		<Building>
@@ -39,7 +39,7 @@
 		</Wheat>
 		<Fame>
 			<name>ชื่อเสียง</name>
-			<desc>เพิ่ม [Fame] ของคุณและได้รับการประกาศเป็นราชาแห่งนอร์ธการ์ด!</desc>
+			<desc>เพิ่ม [Fame] ของคุณและได้รับการประกาศเป็นราชาแห่ง Northgard!</desc>
 		</Fame>
 		<Fish>
 			<name>ปลา</name>
@@ -90,7 +90,7 @@
 		</Gemstone>
 		<MilitaryXP>
 			<name>ประสบการณ์ทางทหาร</name>
-			<desc>You earn [MilitaryXP] by killing enemy units or losing your own in battle.</desc>
+			<desc>คุณจะได้รับ [MilitaryXP] จากการฆ่ายูนิตศัตรู หรือสูญเสียยูนิตของคุณเองในการต่อสู้</desc>
 		</MilitaryXP>
 		<HuntTrophy>
 			<name>Hunting Trophy</name>
@@ -169,7 +169,7 @@
 		<Scout>
 			<name>นักลาดตระเวน</name>
 			<langs.plural>นักลาดตระเวน</langs.plural>
-			<desc>Scouts explore new areas, allowing you to expand your territory. They can also explore Ruins and Shipwrecks.</desc>
+			<desc>นักลาดตระเวนจะสำรวจพื้นที่ใหม่, ช่วยให้คุณขยายอาณาเขตของคุณ นอกจากนี้ยังสามารถสำรวจซากปรักหักพังและซากเรืออับปาง</desc>
 		</Scout>
 		<Healer>
 			<name>หมอยา</name>
@@ -863,8 +863,8 @@
 			<flavor>A little gift from Gefjon, the goddess of plowing.</flavor>
 		</Fertility>
 		<Stones>
-			<name>Stone Deposit</name>
-			<desc>You can build a mine here to extract [Stone].</desc>
+			<name>การทับถมของหิน</name>
+			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [Stone]</desc>
 		</Stones>
 		<Wreck>
 			<name>Wreck</name>
@@ -874,56 +874,56 @@
 			<desc>This area is empty.</desc>
 		</Empty>
 		<DeathCamp>
-			<name>Draugr Tombs</name>
-			<langs.plural>Draugr Tombs</langs.plural>
+			<name>สุสาน Draugr</name>
+			<langs.plural>สุสาน Draugr</langs.plural>
 			<desc>[Death]s will rise from this place until you take control of it.</desc>
 		</DeathCamp>
 		<Ruins>
-			<name>Ruins</name>
-			<langs.plural>Ruins</langs.plural>
+			<name>ซากปรักหักพัง</name>
+			<langs.plural>ซากปรักหักพัง</langs.plural>
 			<desc>Treasure is waiting to be found here, but only [Scout]s will have the courage to venture within. Colonize first to explore.</desc>
 		</Ruins>
 		<IronDeposit>
-			<name>Iron Deposit</name>
-			<desc>You can build an Iron Mine here to extract [Iron] ore.</desc>
+			<name>การทับถมของเหล็ก</name>
+			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [Iron]</desc>
 		</IronDeposit>
 		<RimeSteelDeposit>
-			<name>Rimesteel Deposit</name>
-			<desc>You can build a Mine here to extract [RimeSteel] ore.</desc>
+			<name>การทับถมของแร่ลึกลับ</name>
+			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [RimeSteel]</desc>
 			<flavor>A mysterious metal found only in the coldest environments. Said to be the only material that can pierce an [IceWorm]'s shell.</flavor>
 		</RimeSteelDeposit>
 		<GemstoneDeposit>
-			<name>Gemstone Deposit</name>
-			<desc>You can build a [Mine] here to extract [Gemstone]s.</desc>
+			<name>การทับถมของพลอย</name>
+			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [Gemstone]</desc>
 		</GemstoneDeposit>
 		<WolvesCave>
-			<name>Wolf Den</name>
-			<desc>[Wolf]s will spawn in this area until you claim it.</desc>
+			<name>ถ้ำหมาป่า</name>
+			<desc>[Wolf] จะเกิดที่นี้ จนกว่าคุณจะครอบครอง</desc>
 		</WolvesCave>
 		<Shoal>
-			<name>Fish</name>
-			<langs.plural>Fish</langs.plural>
+			<name>บ่อปลา</name>
+			<langs.plural>บ่อปลา</langs.plural>
 		</Shoal>
 		<Lake>
-			<name>Lake</name>
-			<desc>A great fishing spot.</desc>
+			<name>ทะเลสาบ</name>
+			<desc>จุดตกปลาที่ยอดเยี่ยม</desc>
 		</Lake>
 		<Grove>
-			<name>Forest</name>
-			<desc>Improves [Wood] production in this area by ::percent::.</desc>
+			<name>ป่า</name>
+			<desc>เพิ่มการผลิต [Wood] ในพื้นที่นี้ขึ้น ::percent::</desc>
 			<flavor>At Yule, Vikings would traditionally decorate large evergreen trees with carvings, gifts and food, urging spring to return faster.</flavor>
 		</Grove>
 		<DeerSpawner>
-			<name>Deer</name>
-			<desc>This area is full of deer, making it a great place to hunt.</desc>
+			<name>ฝูงกวาง</name>
+			<desc>บริเวณนี้เต็มไปด้วยกวาง ทำให้เป็นสถานที่ที่ดีในการล่า</desc>
 		</DeerSpawner>
 		<MarshBuilding>
-			<name>Swamp</name>
-			<desc>Unstable ground makes it harder to build in this area.</desc>
+			<name>หนองน้ำ</name>
+			<desc>พื้นดินที่ไม่มั่นคง ทำให้ยากต่อการสร้างในพื้นที่นี้</desc>
 		</MarshBuilding>
 		<BrokenShores>
-			<name>Shipwreck</name>
-			<desc>Colonize and use your [Scout]s to explore this wreck, where you will find [Money] and [Wood].</desc>
+			<name>ซากเรืออับปาง</name>
+			<desc>ตั้งรกรากและใช้ [Scout] สำรวจซากเรือนี้ คุณจะพบ [Money] และ [Wood]</desc>
 		</BrokenShores>
 		<GiantCamp>
 			<name>Jötunn Camp</name>
