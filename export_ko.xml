@@ -7,7 +7,7 @@
 		</Food>
 		<Wood>
 			<name>ไม้</name>
-			<desc>[Wood] ใช้ในการสร้างอาคารและเป็นไม้ฟืน โดยเฉพาะในช่วงฤดูหนาว</desc>
+			<desc>[Wood]ใช้ในการสร้างอาคารและเป็นไม้ฟืน โดยเฉพาะในช่วงฤดูหนาว</desc>
 			<langs.plural>ไม้</langs.plural>
 		</Wood>
 		<Money>
@@ -19,7 +19,7 @@
 		</Building>
 		<Happy>
 			<name>ความสุข</name>
-			<desc>[Happy] จะดึงดูดชาวบ้านใหม่มาที่ Town Hall ของท่าน เพิ่มความสุขของท่านเพื่อเร่งกระบวนการนี้</desc>
+			<desc>[Happy]จะดึงดูดชาวบ้านใหม่มาที่ ศาลากลางของท่าน เพิ่มความสุขของท่านเพื่อเร่งกระบวนการนี้</desc>
 		</Happy>
 		<Population>
 			<name>ประชากร</name>
@@ -39,7 +39,7 @@
 		</Wheat>
 		<Fame>
 			<name>ชื่อเสียง</name>
-			<desc>เพิ่ม [Fame] ของท่านและได้รับการประกาศเป็นราชาแห่ง Northgard!</desc>
+			<desc>เพิ่ม[Fame]ของท่าน และได้รับการประกาศเป็นราชาแห่ง Northgard!</desc>
 		</Fame>
 		<Fish>
 			<name>ปลา</name>
@@ -135,7 +135,7 @@
 		<Merchant>
 			<name>พ่อค้า</name>
 			<langs.plural>พ่อค้า</langs.plural>
-			<desc>การบำรุงรักษาอาคารและการสรรหากลุ่มนักรบมีค่าใช้จ่าย [Money], พ่อค้าจะสร้างรายได้ที่มั่นคงให้กับเผ่าของท่าน</desc>
+			<desc>การบำรุงรักษาอาคาร และการสรรหากลุ่มนักรบมีค่าใช้จ่าย[Money], พ่อค้าจะสร้างรายได้ที่มั่นคงให้กับเผ่าของท่าน</desc>
 		</Merchant>
 		<Sailor>
 			<name>กะลาสี</name>
@@ -164,7 +164,7 @@
 			<name>คนขุดแร่</name>
 			<langs.plural>คนขุดแร่</langs.plural>
 			<desc>คนขุดแร่จะขุด [Stone] และ [Iron] ออกจากพื้นที่จนกว่าการทับถมจะหมดลง</desc>
-			<flavor>What's yours is mine!</flavor>
+			<flavor>ไหนล่ะ เหมืองของคุณ!</flavor>
 		</Miner>
 		<Scout>
 			<name>นักสำรวจ</name>
@@ -174,13 +174,13 @@
 		<Healer>
 			<name>หมอยา</name>
 			<langs.plural>หมอยา</langs.plural>
-			<desc>หมอยาจะรวบรวมสมุนไพรที่ใช้ในการรักษา จะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของท่าน และพวกเขายังรวบรวม [Food] เมื่อว่าง</desc>
-			<flavor>Wolol...oh, sorry, wrong line.</flavor>
+			<desc>หมอยาจะรวบรวมสมุนไพรที่ใช้ในการรักษา จะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของท่าน และพวกเขายังรวบรวม[Food]เมื่อว่าง</desc>
+			<flavor>ว้าว ฮ่า ๆ ... โอ้ขอโทษผิดเส้น/flavor>
 		</Healer>
 		<Mender>
 			<name>หมอผี</name>
 			<langs.plural>หมอผี</langs.plural>
-			<desc>หมอผีจะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของท่าน และจะรวบรวม [Lore] เมื่อว่าง</desc>
+			<desc>หมอผีจะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของท่าน และจะรวบรวม[Lore]เมื่อว่าง</desc>
 		</Mender>
 		<Smith>
 			<name>ช่างตีเหล็ก</name>
@@ -277,19 +277,19 @@
 		</Hero04>
 		<Berserker>
 			<name>Berserker</name>
-			<desc>A powerful and reckless warrior, feared by all enemies of the Wolf Clan.</desc>
+			<desc>นักรบที่ทรงพลังและบ้าบิ่น ศัตรูทั้งหมดของเผ่า Wolf ต้องหวาดกลัว</desc>
 			<editor.name>แม่ทัพ [Wolf]</editor.name>
 		</Berserker>
 		<Maiden>
 			<name>Shield Maiden</name>
-			<desc>Stalwart defender of her people, she is the reason the Bear Clan will never falter.</desc>
-			<editor.name>Warchief [Bear]</editor.name>
+			<desc>ผู้พิทักษ์ผู้แข็งแกร่งของเผ่า เธอคือเหตุผลที่เผ่าหมีจะไม่หวั่นไหว</desc>
+			<editor.name>แม่ทัพ [Bear]</editor.name>
 		</Maiden>
 		<WarchiefSnake>
 			<name>Signy</name>
-			<desc>A shadowy leader with no regard for morals, Signy will stop at nothing to make a mark on Northgard.</desc>
+			<desc>ผู้นำที่ไร้เงา ไร้ศีลธรรม, Signy จะไม่หยุดที่จะทำ Northgard เป็นรอยร้าว</desc>
 			<flavor>The Snake will soon sink its fangs in Northgard!</flavor>
-			<editor.name>Warchief [Snake]</editor.name>
+			<editor.name>แม่ทัพ [Snake]</editor.name>
 		</WarchiefSnake>
 		<WarchiefDragon>
 			<name>หัวหน้าเผ่า</name>
@@ -298,35 +298,35 @@
 		</WarchiefDragon>
 		<HorseMaiden>
 			<name>Eitria</name>
-			<desc>A gifted artisan, Eitria focuses more on clan leadership and only picks up the pickaxe to let off steam.</desc>
-			<editor.name>Warchief [Horse]</editor.name>
+			<desc>ช่างฝีมือที่มีพรสวรรค์, Eitria มุ่งเน้นไปที่ความเป็นผู้นำของเผ่ามาก</desc>
+			<editor.name>แม่ทัพ [Horse]</editor.name>
 		</HorseMaiden>
 		<HorseHero>
 			<name>Brok</name>
-			<desc>Strong and wise, Brok is happy to focus on his craft and leave politics to his sister.</desc>
-			<editor.name>Warchief [Horse]</editor.name>
+			<desc>เข้มแข็งและฉลาด, Brok มีความสุขที่ได้มุ่งเน้นไปที่งานช่าง และฝากเรื่องการปกครองไว้ที่พี่สาว</desc>
+			<editor.name>แม่ทัพ [Horse]</editor.name>
 		</HorseHero>
 		<KrakenMaiden>
 			<name>หัวหน้าเผ่า</name>
 			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
-			<editor.name>หัวหน้าเผ่า[Kraken]</editor.name>
+			<editor.name>แม่ทัพ [Kraken]</editor.name>
 		</KrakenMaiden>
 		<OxHero>
 			<name>Torfin</name>
-			<desc>Head of the clan of the Ox, [OxHero] is a Hero both feared and respected by all across Northgard.</desc>
-			<editor.name>หัวหน้าเผ่า[Ox]</editor.name>
+			<desc>หัวหน้าเผ่า Ox, [OxHero] เป็นฮีโร่ที่ทั้งคนกลัว และเคารพนับถือจากทุกคนใน Northgard</desc>
+			<editor.name>แม่ทัพ [Ox]</editor.name>
 		</OxHero>
 		<LynxHero>
 			<name>Mielikki</name>
 			<desc>Fierce huntress in her youth, Mielikki is known as the Beastmaster. She now rules on Northgard wildlife as she sees through [LynxBrown] and [LynxWhite]’s eyes.</desc>
-			<flavor>Not your average cat lady.</flavor>
-			<editor.name>Warchief [Lynx]</editor.name>
+			<flavor>ข้าไม่ใช่แมวสาวทั่วไปของท่าน</flavor>
+			<editor.name>แม่ทัพ [Lynx]</editor.name>
 		</LynxHero>
 		<Berserker03>
 			<name>Egil</name>
 			<desc>A ruthless and impetuous young berserker, Egil, bannerman of the Wolf Clan, is in it mostly for the mayhem.</desc>
-			<flavor>Plunder time, boys!</flavor>
-			<editor.name>Bannerman [Wolf]</editor.name>
+			<flavor>ได้เวลาปล้นแล้วว หนุ่มๆ!</flavor>
+			<editor.name>ผู้เชิญธง [Wolf]</editor.name>
 		</Berserker03>
 		<Maiden02>
 			<name>Borgild</name>
@@ -633,7 +633,7 @@
 		<Fields>
 			<name>ทุ่งธัญพืช</name>
 			<langs.plural>ทุ่งธัญพืช</langs.plural>
-			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Farmer] ผู้ที่สามารถหาทรัพยากร [Food] ได้จำนวนมากในช่วงฤดูร้อน</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น[Farmer] ผู้ที่สามารถหา[Food]ได้จำนวนมากในช่วงฤดูร้อน</desc>
 		</Fields>
 		<HunterLodge>
 			<name>บ้านพักนายพราน</name>
@@ -840,27 +840,27 @@
 			<name>Drakkar</name>
 		</Drakkar>
 		<TownHall>
-			<name>Town Hall</name>
-			<desc>Spawns new [Villager]s when you have enough [Happy].</desc>
+			<name>ศาลากลาง</name>
+			<desc>จุดกำเนิด [Villager] ใหม่ เมื่อท่านมี [Happy] เพียงพอ</desc>
 			<upgrades>
 				<0>
-					<desc>Allows you to upgrade other buildings. Increases maximum [Population] by ::value:: and population growth by ::percent1::.</desc>
+					<desc>ช่วยให้ท่านสามารถอัพเกรดสิ่งปลูกสร้างอื่นๆได้, เพิ่มจำนวน[Population]สูงสุด ::value::  และเพิ่มการเติบโตของประชากรขึ้น ::percent1::</desc>
 				</0>
 			</upgrades>
 		</TownHall>
 		<RuneStone>
-			<name>Runestone</name>
-			<desc>Assign a villager to become a [RuneMaster] who will produce [Lore].</desc>
+			<name>หินที่มีอักษรโบราณ</name>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น[RuneMaster] เพื่อศึกษา[Lore]</desc>
 		</RuneStone>
 		<CircleStone>
-			<name>Circle of Stones</name>
-			<langs.plural>Circles of Stones</langs.plural>
-			<desc>Assign your villagers to become [RuneMaster]s. All Loremasters in this area will produce ::percent:: more [Lore].</desc>
+			<name>กลุ่มหินพิศวง</name>
+			<langs.plural>กลุ่มหินพิศวง</langs.plural>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น[RuneMaster], นักวิชาการทั้งหมดในพื้นที่นี้ จะศึกษา [Lore] ได้มากขึ้น ::percent::</desc>
 			<flavor>Spoiler alert: Odin dies.</flavor>
 		</CircleStone>
 		<Fertility>
-			<name>Fertile Land</name>
-			<desc>You can build [Fields] here and recruit [Farmer]s.</desc>
+			<name>ที่ดินอุดมสมบูรณ์</name>
+			<desc>คุณสามารถสร้าง[Fields]ได้ที่นี่ และรับสมัคร[Farmer]</desc>
 			<flavor>A little gift from Gefjon, the goddess of plowing.</flavor>
 		</Fertility>
 		<Stones>
