@@ -2,7 +2,7 @@
 	<sheet name="resource">
 		<Food>
 			<name>อาหาร</name>
-			<desc>[Food]เป็นสิ่งจำเป็นในการเลี้ยงดูเผ่าของคุณ, ตุนอาหารก่อนฤดูหนาว, หลีกเลี่ยงความอดอยากโดยเสียค่าใช้จ่ายทั้งหมด</desc>
+			<desc>[Food]เป็นสิ่งจำเป็นในการเลี้ยงดูเผ่าของท่าน, ตุนอาหารก่อนฤดูหนาว, หลีกเลี่ยงความอดอยากโดยเสียค่าใช้จ่ายทั้งหมด</desc>
 			<langs.plural>อาหาร</langs.plural>
 		</Food>
 		<Wood>
@@ -12,14 +12,14 @@
 		</Wood>
 		<Money>
 			<name>ทอง</name>
-			<desc>[Money]ใช้เพื่อรับสมัครนักรบของคุณและสำหรับค่าบำรุงรักษาอาคาร</desc>
+			<desc>[Money]ใช้เพื่อรับสมัครนักรบของท่านและสำหรับค่าบำรุงรักษาอาคาร</desc>
 		</Money>
 		<Building>
 			<name>อาคาร</name>
 		</Building>
 		<Happy>
 			<name>ความสุข</name>
-			<desc>[Happy] จะดึงดูดชาวบ้านใหม่มาที่ Town Hall ของคุณ เพิ่มความสุขของคุณเพื่อเร่งกระบวนการนี้</desc>
+			<desc>[Happy] จะดึงดูดชาวบ้านใหม่มาที่ Town Hall ของท่าน เพิ่มความสุขของท่านเพื่อเร่งกระบวนการนี้</desc>
 		</Happy>
 		<Population>
 			<name>ประชากร</name>
@@ -32,14 +32,14 @@
 		</SlavePop>
 		<Lore>
 			<name>ความรู้โบราณ</name>
-			<desc>[Lore]ที่ค้นพบใน Northgard จะช่วยให้คุณ สามารถเพิ่มความรู้ของเผ่าได้</desc>
+			<desc>[Lore]ที่ค้นพบใน Northgard จะช่วยให้ท่าน สามารถเพิ่มความรู้ของเผ่าได้</desc>
 		</Lore>
 		<Wheat>
 			<name>ธัญพืช</name>
 		</Wheat>
 		<Fame>
 			<name>ชื่อเสียง</name>
-			<desc>เพิ่ม [Fame] ของคุณและได้รับการประกาศเป็นราชาแห่ง Northgard!</desc>
+			<desc>เพิ่ม [Fame] ของท่านและได้รับการประกาศเป็นราชาแห่ง Northgard!</desc>
 		</Fame>
 		<Fish>
 			<name>ปลา</name>
@@ -70,7 +70,7 @@
 		</Prescience>
 		<Stone>
 			<name>หิน</name>
-			<desc>[Stone] สามารถใช้เพื่ออัพเกรดสิ่งปลูกสร้างเผ่าของคุณ</desc>
+			<desc>[Stone] สามารถใช้เพื่ออัพเกรดสิ่งปลูกสร้างเผ่าของท่าน</desc>
 		</Stone>
 		<Iron>
 			<name>เหล็ก</name>
@@ -90,7 +90,7 @@
 		</Gemstone>
 		<MilitaryXP>
 			<name>ประสบการณ์ทางทหาร</name>
-			<desc>คุณจะได้รับ [MilitaryXP] จากการฆ่ายูนิตศัตรู หรือสูญเสียยูนิตของคุณเองในการต่อสู้</desc>
+			<desc>ท่านจะได้รับ [MilitaryXP] จากการฆ่ายูนิตศัตรู หรือสูญเสียยูนิตของท่านเองในการต่อสู้</desc>
 		</MilitaryXP>
 		<HuntTrophy>
 			<name>ถ้วยรางวัลล่าสัตว์</name>
@@ -99,7 +99,7 @@
 		</HuntTrophy>
 		<LoreBifrost>
 			<name>Bifrost's Lore</name>
-			<desc>[Lore] ช่วยให้คุณเปิดใช้งาน [BifrostLore]</desc>
+			<desc>[Lore] ช่วยให้ท่านเปิดใช้งาน [BifrostLore]</desc>
 		</LoreBifrost>
 		<Artifact>
 			<name>Ancestral Equipment</name>
@@ -109,13 +109,13 @@
 		<Villager>
 			<name>ชาวบ้าน</name>
 			<langs.plural>ชาวบ้าน</langs.plural>
-			<desc>ชาวบ้านจะรวบรวม [Food] ในป่า, ตุนเพื่อให้เผ่าของคุณไม่อดอยากในช่วงฤดูหนาว</desc>
+			<desc>ชาวบ้านจะรวบรวม [Food] ในป่า, ตุนเพื่อให้เผ่าของท่านไม่อดอยากในช่วงฤดูหนาว</desc>
 			<flavor>พร้อมที่จะทำงาน!</flavor>
 		</Villager>
 		<Woodcutter>
 			<name>คนตัดไม้</name>
 			<langs.plural>คนตัดไม้</langs.plural>
-			<desc>ผู้เชี่ยวชาญในการเก็บเกี่ยว [Wood], คนตัดไม้จำเป็นต่อการปรับปรุงการตั้งถิ่นฐานของเผ่าคุณ</desc>
+			<desc>ผู้เชี่ยวชาญในการเก็บเกี่ยว [Wood], คนตัดไม้จำเป็นต่อการปรับปรุงการตั้งถิ่นฐานของเผ่าท่าน</desc>
 		</Woodcutter>
 		<Farmer>
 			<name>เกษตรกร</name>
@@ -125,39 +125,39 @@
 		<Hunter>
 			<name>นักล่าสัตว์</name>
 			<langs.plural>นักล่าสัตว์</langs.plural>
-			<desc>นักล่าที่มีทักษะจะติดตามและฆ่ากวางเพื่อจัดหา [Meat] ให้กับเผ่าของคุณ</desc>
+			<desc>นักล่าที่มีทักษะจะติดตามและฆ่ากวางเพื่อจัดหา [Meat] ให้กับเผ่าของท่าน</desc>
 		</Hunter>
 		<Fisherman>
 			<name>ชาวประมง</name>
 			<langs.plural>ชาวประมง</langs.plural>
-			<desc>ชาวประมงจะจัดหา [Fish] สำหรับเผ่าของคุณ, การผลิตของพวกเขาไม่ได้รับผลกระทบจากฤดูหนาว</desc>
+			<desc>ชาวประมงจะจัดหา [Fish] สำหรับเผ่าของท่าน, การผลิตของพวกเขาไม่ได้รับผลกระทบจากฤดูหนาว</desc>
 		</Fisherman>
 		<Merchant>
 			<name>พ่อค้า</name>
 			<langs.plural>พ่อค้า</langs.plural>
-			<desc>การบำรุงรักษาอาคารและการสรรหากลุ่มนักรบมีค่าใช้จ่าย [Money], พ่อค้าจะสร้างรายได้ที่มั่นคงให้กับเผ่าของคุณ</desc>
+			<desc>การบำรุงรักษาอาคารและการสรรหากลุ่มนักรบมีค่าใช้จ่าย [Money], พ่อค้าจะสร้างรายได้ที่มั่นคงให้กับเผ่าของท่าน</desc>
 		</Merchant>
 		<Sailor>
 			<name>กะลาสี</name>
 			<langs.plural>กะลาสี</langs.plural>
-			<desc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Fame] หรือ [Lore] มาที่เผ่าของคุณ</desc>
-			<props.noFameDesc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Lore] มาที่เผ่าของคุณ</props.noFameDesc>
+			<desc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Fame] หรือ [Lore] มาที่เผ่าของท่าน</desc>
+			<props.noFameDesc>กะลาสีเรือจะบุกโจมตีชายฝั่งใกล้ๆและนำ [Money] และ [Lore] มาที่เผ่าของท่าน</props.noFameDesc>
 		</Sailor>
 		<RuneMaster>
 			<name>นักวิชาการ</name>
 			<langs.plural>นักวิชาการ</langs.plural>
-			<desc>อาจารย์แห่ง[Lore], พวกเขาสามารถศึกษาเพชรพลอยเพิ่มพูนความรู้ของคุณ</desc>
+			<desc>อาจารย์แห่ง[Lore], พวกเขาสามารถศึกษาเพชรพลอยเพิ่มพูนความรู้ของท่าน</desc>
 			<flavor>โดยทั่วไปแล้วพวกไวกิ้งช่างเนิร์ด</flavor>
 		</RuneMaster>
 		<InnKeeper>
 			<name>คนต้มเบียร์</name>
 			<langs.plural>คนต้มเบียร์</langs.plural>
-			<desc>คนต้มเบียร์จะสำรองเบียร์ในคลังเสบียงส่งผลให้ค่า [Happy] เพิ่มให้กับเผ่าของคุณ</desc>
+			<desc>คนต้มเบียร์จะสำรองเบียร์ในคลังเสบียงส่งผลให้ค่า [Happy] เพิ่มให้กับเผ่าของท่าน</desc>
 		</InnKeeper>
 		<Skald>
 			<name>กวี</name>
 			<langs.plural>กวี</langs.plural>
-			<desc>กวีจะเล่าเรื่องราว เกี่ยวกับการกระทำของเผ่าคุณ และจะเพิ่ม [Fame] และ [Happy] ของคุณ</desc>
+			<desc>กวีจะเล่าเรื่องราว เกี่ยวกับการกระทำของเผ่าท่าน และจะเพิ่ม [Fame] และ [Happy] ของท่าน</desc>
 			<flavor>"Skald" literally means "poet." Skaldic poetry is one of the two main forms of Old Norse poetry, the other being Eddic poetry.</flavor>
 		</Skald>
 		<Miner>
@@ -169,18 +169,18 @@
 		<Scout>
 			<name>นักสำรวจ</name>
 			<langs.plural>นักสำรวจ</langs.plural>
-			<desc>นักสำรวจจะสำรวจพื้นที่ใหม่, ช่วยให้คุณขยายอาณาเขตของคุณ นอกจากนี้ยังสามารถสำรวจซากปรักหักพังและซากเรืออับปาง</desc>
+			<desc>นักสำรวจจะสำรวจพื้นที่ใหม่, ช่วยให้ท่านขยายอาณาเขตของท่าน นอกจากนี้ยังสามารถสำรวจซากปรักหักพังและซากเรืออับปาง</desc>
 		</Scout>
 		<Healer>
 			<name>หมอยา</name>
 			<langs.plural>หมอยา</langs.plural>
-			<desc>หมอยาจะรวบรวมสมุนไพรที่ใช้ในการรักษา จะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของคุณ และพวกเขายังรวบรวม [Food] เมื่อว่าง</desc>
+			<desc>หมอยาจะรวบรวมสมุนไพรที่ใช้ในการรักษา จะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของท่าน และพวกเขายังรวบรวม [Food] เมื่อว่าง</desc>
 			<flavor>Wolol...oh, sorry, wrong line.</flavor>
 		</Healer>
 		<Mender>
 			<name>หมอผี</name>
 			<langs.plural>หมอผี</langs.plural>
-			<desc>หมอผีจะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของคุณ และจะรวบรวม [Lore] เมื่อว่าง</desc>
+			<desc>หมอผีจะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของท่าน และจะรวบรวม [Lore] เมื่อว่าง</desc>
 		</Mender>
 		<Smith>
 			<name>ช่างตีเหล็ก</name>
@@ -429,27 +429,27 @@
 			<desc>[Kobold]s can be a great trade partner, but also an annoyance when they take valuable land.</desc>
 		</Kobold>
 		<Wolf>
-			<name>Wolf</name>
-			<langs.plural>Wolves</langs.plural>
-			<desc>Vicious giant wolves roam the lands of Northgard. They will not hesitate to attack humans.</desc>
-			<flavor>Never corner a hungry wolf.</flavor>
+			<name>หมาป่า</name>
+			<langs.plural>หมาป่า</langs.plural>
+			<desc>หมาป่ายักษ์ดุร้ายท่องไปในดินแดน Northgard พวกเขาจะไม่ลังเลที่จะโจมตีมนุษย์</desc>
+			<flavor>อย่าให้หมาป่าหิวจนตรอก!</flavor>
 		</Wolf>
 		<WhiteWolf>
-			<name>White Wolf</name>
-			<langs.plural>White Wolves</langs.plural>
-			<desc>White wolves are more powerful than standard wolves. They also have the ability [CanHide]</desc>
-			<flavor>Avatars of the Wargs, they look for pieces of the sun and the moon lost in the world.</flavor>
+			<name>หมาป่าขาว</name>
+			<langs.plural>หมาป่าขาว</langs.plural>
+			<desc>หมาป่าขาวมีพลังมากกว่าหมาป่าธรรมดา แถมยังมีความสามารถ[CanHide]</desc>
+			<flavor>ร่างอวตารของ Wargs, พวกเขามองหาชิ้นส่วนของดวงอาทิตย์ และดวงจันทร์ที่หายไปในโลก</flavor>
 		</WhiteWolf>
 		<SacredWolf>
-			<name>Mythical Wolf</name>
-			<langs.plural>Mythical Wolves</langs.plural>
-			<desc>Mythical Wolves are the most dangerous of their kind. Beware of their [FerociousBite].</desc>
+			<name>หมาป่าในตำนาน</name>
+			<langs.plural>หมาป่าในตำนาน</langs.plural>
+			<desc>หมาป่าในตำนานเป็นสัตว์ที่อันตรายที่สุดในบรรดาหมาป่า ระวังการ[Ferocious Bite]ของพวกมัน</desc>
 		</SacredWolf>
 		<SpectralWolf>
-			<name>Wolf Spirit</name>
-			<langs.plural>Wolves Spirit</langs.plural>
-			<desc>The spirit of a Mythical Wolf comes back to unleash his rage one more time.</desc>
-			<flavor>Hunting you beyond death itself.</flavor>
+			<name>วิญญาณหมาป่า</name>
+			<langs.plural>วิญญาณหมาป่า</langs.plural>
+			<desc>วิญญาณของหมาป่าในตำนาน กลับมาปลดปล่อยความโกรธของมันอีกครั้ง</desc>
+			<flavor>จะตามล่าแกจนตาย!</flavor>
 		</SpectralWolf>
 		<Bear>
 			<name>Brown Bear</name>
@@ -590,7 +590,7 @@
 		</House>
 		<ScoutCamp>
 			<name>ค่ายนักสำรวจ</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Scout] ผู้ที่สามารถทำให้คุณออกสำรวจอาณาเขตใหม่ๆได้</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Scout] ผู้ที่สามารถทำให้ท่านออกสำรวจอาณาเขตใหม่ๆได้</desc>
 			<flavor>Empty for the greater part of the year.</flavor>
 			<upgrades>
 				<0>
@@ -600,48 +600,48 @@
 		</ScoutCamp>
 		<WoodLodge>
 			<name>กระท่อมคนตัดไม้</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Woodcutter] ผู้ที่สามารถหาทรัพยากร [Wood] ให้กับเผ่าของคุณ</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Woodcutter] ผู้ที่สามารถหาทรัพยากร [Wood] ให้กับเผ่าของท่าน</desc>
 		</WoodLodge>
 		<HealerHut>
 			<name>บ้านพักหมอยา</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Healer] ผู้ที่สามารถรักษาผู้คนที่บาดเจ็บหรือมีอาการป่วยในอาณาเขตของเรา พวกเขาจะหา [Food] เมื่อไม่มีคนให้พวกเขารักษา</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Healer] ผู้ที่สามารถรักษาผู้คนที่บาดเจ็บหรือมีอาการป่วยในอาณาเขตของเรา พวกเขาจะหา [Food] เมื่อไม่มีคนให้พวกเขารักษา</desc>
 			<upgrades>
 				<0>
-					<desc>ฮีลสมาชิกเผ่าของคุณเร็วขึ้น ::percent::</desc>
+					<desc>ฮีลสมาชิกเผ่าของท่านเร็วขึ้น ::percent::</desc>
 				</0>
 			</upgrades>
 		</HealerHut>
 		<MenderHut>
 			<name>บ้านพักช่างปรุงยา</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Mender] ผู้ที่สามารถรักษาผู้คนที่บาดเจ็บหรือมีอาการป่วยในอาณาเขตของเรา และเพิ่มค่า [Lore] เมื่อไม่มีคนให้พวกเขารักษา</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Mender] ผู้ที่สามารถรักษาผู้คนที่บาดเจ็บหรือมีอาการป่วยในอาณาเขตของเรา และเพิ่มค่า [Lore] เมื่อไม่มีคนให้พวกเขารักษา</desc>
 			<flavor>Smells faintly of cabbage.</flavor>
 			<upgrades>
 				<0>
-					<desc>ฮีลสมาชิกเผ่าของคุณเร็วขึ้น ::percent::</desc>
+					<desc>ฮีลสมาชิกเผ่าของท่านเร็วขึ้น ::percent::</desc>
 				</0>
 			</upgrades>
 		</MenderHut>
 		<FishermanHouse>
 			<name>กระท่อมชาวประมง</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 		</FishermanHouse>
 		<Fishery>
 			<name>กระท่อมชาวประมง</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Fisherman] ผู้ที่สามารถหาทรัพยากร [Food] ได้ดีแม้ว่าจะอยู่ในฤดูหนาว</desc>
 			<flavor>Not fresh? My fish?</flavor>
 		</Fishery>
 		<Fields>
 			<name>ทุ่งธัญพืช</name>
 			<langs.plural>ทุ่งธัญพืช</langs.plural>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Farmer] ผู้ที่สามารถหาทรัพยากร [Food] ได้จำนวนมากในช่วงฤดูร้อน</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Farmer] ผู้ที่สามารถหาทรัพยากร [Food] ได้จำนวนมากในช่วงฤดูร้อน</desc>
 		</Fields>
 		<HunterLodge>
 			<name>บ้านพักนายพราน</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Hunter] ผู้ล่ากวางในบริเวณนั้นเพื่อเป็น [Food]</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Hunter] ผู้ล่ากวางในบริเวณนั้นเพื่อเป็น [Food]</desc>
 		</HunterLodge>
 		<FoodSilo>
 			<name>คลังอาหาร</name>
-			<desc>เพิ่มการผลิต [Food] ของคนงานเฉพาะทางในพื้นที่นี้ ::percent::, เพิ่มการจัดเก็บอาหารสูงสุดของคุณ</desc>
+			<desc>เพิ่มการผลิต [Food] ของคนงานเฉพาะทางในพื้นที่นี้ ::percent::, เพิ่มการจัดเก็บอาหารสูงสุดของท่าน</desc>
 			<upgrades>
 				<0>
 					<desc>เพิ่มการผลิต [Food] ในพื้นที่นี้ขึ้น ::percent::</desc>
@@ -650,11 +650,11 @@
 		</FoodSilo>
 		<TradingPost>
 			<name>ศูนย์แลกเปลี่ยน</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Merchant] สามารถส่งออกทรัพยากรของเราไปยังเผ่าอื่นๆเพื่อแลกกับ [Money]</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Merchant] สามารถส่งออกทรัพยากรของเราไปยังเผ่าอื่นๆเพื่อแลกกับ [Money]</desc>
 		</TradingPost>
 		<MarketPlace>
 			<name>ตลาด</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Merchant] เราสามารถนำ [Money] มาแลกกับทรัพยากรได้</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Merchant] เราสามารถนำ [Money] มาแลกกับทรัพยากรได้</desc>
 			<flavor>No credit given.</flavor>
 		</MarketPlace>
 		<RavenPort>
@@ -669,7 +669,7 @@
 		<HallOfPoetry>
 			<name>เวทีของนักกวี</name>
 			<langs.plural>เวทีของนักกวี</langs.plural>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Skald] ผู้ที่สามารถเพิ่มค่า [Fame] และ [Happy] ในเวลาเดียวกัน</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Skald] ผู้ที่สามารถเพิ่มค่า [Fame] และ [Happy] ในเวลาเดียวกัน</desc>
 		</HallOfPoetry>
 		<Horgr>
 			<name>Hörgr</name>
@@ -679,33 +679,33 @@
 		<Tavern>
 			<name>โรงเบียร์</name>
 			<langs.plural>โรงเบียร์</langs.plural>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [InnKeeper] ซึ่งจะเพิ่ม [Happy] ให้กับเผ่าของคุณ</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [InnKeeper] ซึ่งจะเพิ่ม [Happy] ให้กับเผ่าของท่าน</desc>
 			<flavor>Bring your own cup!</flavor>
 		</Tavern>
 		<AllMines>
 			<name>เหมือง</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone], [Iron], [RimeSteel] หรือ [Gemstone] จากการทับถม</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone], [Iron], [RimeSteel] หรือ [Gemstone] จากการทับถม</desc>
 		</AllMines>
 		<Mine>
 			<name>Quarry</name>
 			<langs.plural>Quarries</langs.plural>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone]</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone]</desc>
 		</Mine>
 		<IronMine>
 			<name>Iron Mine</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Iron]</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Iron]</desc>
 		</IronMine>
 		<RimeSteelMine>
 			<name>Rimesteel Mine</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [RimeSteel]</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [RimeSteel]</desc>
 		</RimeSteelMine>
 		<GemStonesMine>
 			<name>Gemstone Mine</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Gemstone]</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Gemstone]</desc>
 		</GemStonesMine>
 		<Forge>
 			<name>Forge</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Smith], ช่วยให้คุณสามารถพัฒนาเครื่องมือ, อาวุธ และวัตถุโบราณในตำนาน ให้ดีขึ้น</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [Smith], ช่วยให้ท่านสามารถพัฒนาเครื่องมือ, อาวุธ และวัตถุโบราณในตำนาน ให้ดีขึ้น</desc>
 			<upgrades>
 				<0>
 					<desc>เพิ่มความเร็วในการตีขึ้น ::percent::</desc>
@@ -723,7 +723,7 @@
 		</ForgeHorse>
 		<CarvedStone>
 			<name>ศิลาจารึก</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [RuneMaster] เพื่อศึกษา [Lore]</desc>
+			<desc>นำชาวบ้านของท่านมาเปลี่ยนอาชีพเป็น [RuneMaster] เพื่อศึกษา [Lore]</desc>
 			<flavor>ค่อนข้างหนักกว่าหนังสือ</flavor>
 		</CarvedStone>
 		<Sheepfold>
@@ -738,10 +738,10 @@
 		</Sheepfold>
 		<TrainingCamp>
 			<name>ค่ายฝึก</name>
-			<desc>ให้คุณรับสมัครหน่วยทหาร และเพิ่มขนาด [Warband] ของคุณขึ้น ::value::</desc>
+			<desc>ให้ท่านรับสมัครหน่วยทหาร และเพิ่มขนาด [Warband] ของท่านขึ้น ::value::</desc>
 			<upgrades>
 				<0>
-					<desc>เพิ่มพลังโจมตีของ [Warrior] ขึ้น ::percent_value1::, และ [Warband] ของคุณ +::value::</desc>
+					<desc>เพิ่มพลังโจมตีของ [Warrior] ขึ้น ::percent_value1::, และ [Warband] ของท่าน +::value::</desc>
 				</0>
 			</upgrades>
 		</TrainingCamp>
@@ -865,7 +865,7 @@
 		</Fertility>
 		<Stones>
 			<name>การทับถมของหิน</name>
-			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [Stone]</desc>
+			<desc>ท่านสามารถสร้างเหมืองที่นี่เพื่อสกัด [Stone]</desc>
 		</Stones>
 		<Wreck>
 			<name>Wreck</name>
@@ -886,20 +886,20 @@
 		</Ruins>
 		<IronDeposit>
 			<name>การทับถมของเหล็ก</name>
-			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [Iron]</desc>
+			<desc>ท่านสามารถสร้างเหมืองที่นี่เพื่อสกัด [Iron]</desc>
 		</IronDeposit>
 		<RimeSteelDeposit>
 			<name>การทับถมของแร่ลึกลับ</name>
-			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [RimeSteel]</desc>
+			<desc>ท่านสามารถสร้างเหมืองที่นี่เพื่อสกัด [RimeSteel]</desc>
 			<flavor>A mysterious metal found only in the coldest environments. Said to be the only material that can pierce an [IceWorm]'s shell.</flavor>
 		</RimeSteelDeposit>
 		<GemstoneDeposit>
 			<name>การทับถมของพลอย</name>
-			<desc>คุณสามารถสร้างเหมืองที่นี่เพื่อสกัด [Gemstone]</desc>
+			<desc>ท่านสามารถสร้างเหมืองที่นี่เพื่อสกัด [Gemstone]</desc>
 		</GemstoneDeposit>
 		<WolvesCave>
 			<name>ถ้ำหมาป่า</name>
-			<desc>[Wolf] จะเกิดที่นี้ จนกว่าคุณจะครอบครอง</desc>
+			<desc>[Wolf] จะเกิดที่นี้ จนกว่าท่านจะครอบครอง</desc>
 		</WolvesCave>
 		<Shoal>
 			<name>บ่อปลา</name>
@@ -924,7 +924,7 @@
 		</MarshBuilding>
 		<BrokenShores>
 			<name>ซากเรืออับปาง</name>
-			<desc>ตั้งรกรากและใช้ [Scout] สำรวจซากเรือนี้ คุณจะพบ [Money] และ [Wood]</desc>
+			<desc>ตั้งรกรากและใช้ [Scout] สำรวจซากเรือนี้ ท่านจะพบ [Money] และ [Wood]</desc>
 		</BrokenShores>
 		<GiantCamp>
 			<name>Jötunn Camp</name>
@@ -1200,7 +1200,7 @@
 		</Lumber>
 		<Weaponsmith>
 			<name>Weaponsmith</name>
-			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมด ของคุณขึ้น ::percent::</desc>
+			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมด ของท่านขึ้น ::percent::</desc>
 		</Weaponsmith>
 		<Mining>
 			<name>Mining Efficiency</name>
@@ -1216,11 +1216,11 @@
 		</BetterSilo>
 		<Coats>
 			<name>Fur Coats</name>
-			<desc>ยูนิตของคุณพลังไม่ลดลงในช่วงฤดูหนาวอีกต่อไป</desc>
+			<desc>ยูนิตของท่านพลังไม่ลดลงในช่วงฤดูหนาวอีกต่อไป</desc>
 		</Coats>
 		<Defense>
 			<name>Defensive Strategy</name>
-			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers' ของคุณขึ้น ::percent::</desc>
+			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers' ของท่านขึ้น ::percent::</desc>
 		</Defense>
 		<Drakkars>
 			<name>Shipbuilding</name>
@@ -1228,11 +1228,11 @@
 		</Drakkars>
 		<Coinage>
 			<name>Coinage</name>
-			<desc>[Merchant] ของคุณจะผลิต [Money] มากขึ้น ::percent::</desc>
+			<desc>[Merchant] ของท่านจะผลิต [Money] มากขึ้น ::percent::</desc>
 		</Coinage>
 		<Recruit>
 			<name>Recruitment</name>
-			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, คุณจะได้รับเพิ่มอีก ::percent_value1:: ในช่วงเดือน ::value2:: ต่อหนึ่งยูนิตในเผ่าของคุณที่ถูกสังหาร โดยศัตรูหรือถูกทำลาย (สูงสุด ::percent_value3::)</desc>
+			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, ท่านจะได้รับเพิ่มอีก ::percent_value1:: ในช่วงเดือน ::value2:: ต่อหนึ่งยูนิตในเผ่าของท่านที่ถูกสังหาร โดยศัตรูหรือถูกทำลาย (สูงสุด ::percent_value3::)</desc>
 		</Recruit>
 		<Medecine>
 			<name>Medicine</name>
@@ -1244,8 +1244,8 @@
 		</MilitaryStrategy>
 		<Security>
 			<name>Feeling Safe</name>
-			<desc>ได้รับ +::value::[Happy] หากคุณมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</desc>
-			<props.firstNameDesc>ได้รับ +::value::[Happy] หากคุณมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</props.firstNameDesc>
+			<desc>ได้รับ +::value::[Happy] หากท่านมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</desc>
+			<props.firstNameDesc>ได้รับ +::value::[Happy] หากท่านมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</props.firstNameDesc>
 		</Security>
 		<Knowledge>
 			<name>Erudition</name>
@@ -1253,7 +1253,7 @@
 		</Knowledge>
 		<Upgrades>
 			<name>Carpentry Mastery</name>
-			<desc>ลดค่าอัพเกรดสิ่งปลูกสร้างของคุณลง ::inv_percent::</desc>
+			<desc>ลดค่าอัพเกรดสิ่งปลูกสร้างของท่านลง ::inv_percent::</desc>
 		</Upgrades>
 		<HeartStone>
 			<name>Hearthstone</name>
@@ -1261,15 +1261,15 @@
 		</HeartStone>
 		<SlotGrowth>
 			<name>Shiny Happy People</name>
-			<desc>-::inv_percent:: ความต้องการความสุขตามจำนวนประชากรของคุณ</desc>
+			<desc>-::inv_percent:: ความต้องการความสุขตามจำนวนประชากรของท่าน</desc>
 		</SlotGrowth>
 		<Heroes>
 			<name>Legendary Heroes</name>
-			<desc>เพิ่มการโจมตีและการป้องกันของ [Hero01] ของคุณขึ้น ::percent::</desc>
+			<desc>เพิ่มการโจมตีและการป้องกันของ [Hero01] ของท่านขึ้น ::percent::</desc>
 		</Heroes>
 		<MonsterSlayer>
 			<name>Monster Slayer</name>
-			<desc>เพิ่มการโจมตีของหน่วยทหารของคุณขึ้น ::percent:: ต่อหนึ่งสิ่งมีชีวิตลึกลับ, และยังได้รับ ::xp_type:: มากขึ้น ::percent_value1:: ต่อหนึ่งสิ่งมีชีวิตลึกลับที่ถูกฆ่า</desc>
+			<desc>เพิ่มการโจมตีของหน่วยทหารของท่านขึ้น ::percent:: ต่อหนึ่งสิ่งมีชีวิตลึกลับ, และยังได้รับ ::xp_type:: มากขึ้น ::percent_value1:: ต่อหนึ่งสิ่งมีชีวิตลึกลับที่ถูกฆ่า</desc>
 		</MonsterSlayer>
 		<Negociate>
 			<name>Negotiation</name>
@@ -1281,7 +1281,7 @@
 		</SlotWealth>
 		<Ascetic>
 			<name>Field Rations</name>
-			<desc>ลดการบริโภค [Food] ของหน่วยทหารของคุณลง ::inv_percent::</desc>
+			<desc>ลดการบริโภค [Food] ของหน่วยทหารของท่านลง ::inv_percent::</desc>
 		</Ascetic>
 		<Pillage>
 			<name>Spoils of War</name>
@@ -1289,15 +1289,15 @@
 		</Pillage>
 		<Plunder>
 			<name>Plunder</name>
-			<desc>เมื่อคุณแย่งชิงอาณานิคมได้, ยูนิตของคุณที่อยู่ในพื้นที่นั้นจะได้รับพลังชีวิต +::percent::</desc>
+			<desc>เมื่อท่านแย่งชิงอาณานิคมได้, ยูนิตของท่านที่อยู่ในพื้นที่นั้นจะได้รับพลังชีวิต +::percent::</desc>
 		</Plunder>
 		<Conqueror>
 			<name>Invader</name>
-			<desc>เพิ่มพลังกลุ่มนักรบของคุณกับ Defense Towers ขึ้น ::percent::, และทำให้การแย่งชิงอาณานิคมเร็วขึ้นเป็นสองเท่า</desc>
+			<desc>เพิ่มพลังกลุ่มนักรบของท่านกับ Defense Towers ขึ้น ::percent::, และทำให้การแย่งชิงอาณานิคมเร็วขึ้นเป็นสองเท่า</desc>
 		</Conqueror>
 		<Threats>
 			<name>Veiled Threats</name>
-			<desc>เพิ่มรายได้ของ Trade Routes' [Money] ขึ้น ::percent:: หากคุณมี [Hero01] และเพิ่มขึ้น ::percent1:: หาก [Hero01] อยู่ในโซนเดียวกับ [TradingPost], คุณสามารถซื้อขายได้แม้ในภาวะสงคราม</desc>
+			<desc>เพิ่มรายได้ของ Trade Routes' [Money] ขึ้น ::percent:: หากท่านมี [Hero01] และเพิ่มขึ้น ::percent1:: หาก [Hero01] อยู่ในโซนเดียวกับ [TradingPost], ท่านสามารถซื้อขายได้แม้ในภาวะสงคราม</desc>
 		</Threats>
 		<MoreAssign>
 			<name>Industrious</name>
@@ -1313,11 +1313,11 @@
 		</MoreBuildings>
 		<Barricades>
 			<name>Barricades</name>
-			<desc>เพิ่มความต้านทานของพลเรือนของคุณ ::percent:: ต่อหนึ่งสิ่งปลูกสร้างในพื้นที่</desc>
+			<desc>เพิ่มความต้านทานของพลเรือนของท่าน ::percent:: ต่อหนึ่งสิ่งปลูกสร้างในพื้นที่</desc>
 		</Barricades>
 		<FoodTrade>
 			<name>Food Trade</name>
-			<desc>การซื้อขาย [food] จะเพิ่มรายได้ [Trade Routes '] [Money] ของคุณขึ้น ::percent::, และ ::percent1:: หากการซื้อขายอยู่ใน ที่มีแหล่งอาหารจากธรรมชาติ</desc>
+			<desc>การซื้อขาย [food] จะเพิ่มรายได้ [Trade Routes '] [Money] ของท่านขึ้น ::percent::, และ ::percent1:: หากการซื้อขายอยู่ใน ที่มีแหล่งอาหารจากธรรมชาติ</desc>
 		</FoodTrade>
 		<BuildingUpkeep>
 			<name>Food Preservation</name>
@@ -1329,7 +1329,7 @@
 		</HeroEmblem>
 		<ProudStag>
 			<name>Young and Proud</name>
-			<desc>เพิ่มพลังโจมตีของหน่วยทหารของคุณขึ้น ::percent_value:: สำหรับทุก [Happy] ที่คุณมี (ปัจจุบัน ::nb::% - สูงสุด 25%)</desc>
+			<desc>เพิ่มพลังโจมตีของหน่วยทหารของท่านขึ้น ::percent_value:: สำหรับทุก [Happy] ที่ท่านมี (ปัจจุบัน ::nb::% - สูงสุด 25%)</desc>
 		</ProudStag>
 		<GreatDeeds>
 			<name>The Value of Great Deeds</name>
@@ -1341,7 +1341,7 @@
 		</GloryClan>
 		<Rangers>
 			<name>Rangers</name>
-			<desc>เพิ่มความเร็วในการสอดแนมและการสำรวจของคุณขึ้น ::percent::, หน่วยสอดแนมของคุณไม่กิน [Food] อีกต่อไป และจะไม่ได้รับบาดเจ็บขณะสำรวจ</desc>
+			<desc>เพิ่มความเร็วในการสอดแนมและการสำรวจของท่านขึ้น ::percent::, หน่วยสอดแนมของท่านไม่กิน [Food] อีกต่อไป และจะไม่ได้รับบาดเจ็บขณะสำรวจ</desc>
 		</Rangers>
 		<MilitaryFunds>
 			<name>Gear Upgrade</name>
@@ -1349,7 +1349,7 @@
 		</MilitaryFunds>
 		<GreatExplorers>
 			<name>Journeymen</name>
-			<desc>เพิ่ม [Happy] ของคุณตามพื้นที่ที่คุณสำรวจ</desc>
+			<desc>เพิ่ม [Happy] ของท่านตามพื้นที่ที่ท่านสำรวจ</desc>
 		</GreatExplorers>
 		<Wealth>
 			<name>Exotic Goods</name>
@@ -6083,8 +6083,8 @@
 			<desc>Spirits called upon for the wild hunt cannot hold a physical form for too long. They lose health over time and can't be healed.</desc>
 		</WildHuntDecay>
 		<FerociousBite>
-			<name>Ferocious Bite</name>
-			<desc>Every third attack is a ferocious bite that deals +::percent:: damage.</desc>
+			<name>กัดอย่างรุนแรง</name>
+			<desc>ทุกการโจมตีครั้งที่สามเป็นการกัดที่ดุร้าย ซึ่งสร้างความเสียหายมากขึ้น +::percent::</desc>
 		</FerociousBite>
 		<BearStompAoE>
 			<name>Stomp</name>
