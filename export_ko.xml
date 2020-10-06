@@ -25,7 +25,7 @@
 			<name>ประชากร</name>
 		</Population>
 		<Warband>
-			<name>กลุ่มนักรบ</name>
+			<name>กองทหาร/name>
 		</Warband>
 		<SlavePop>
 			<name>ทาส</name>
@@ -135,7 +135,7 @@
 		<Merchant>
 			<name>พ่อค้า</name>
 			<langs.plural>พ่อค้า</langs.plural>
-			<desc>การบำรุงรักษาอาคาร และการสรรหากลุ่มนักรบมีค่าใช้จ่าย[Money], พ่อค้าจะสร้างรายได้ที่มั่นคงให้กับเผ่าของท่าน</desc>
+			<desc>การบำรุงรักษาอาคาร และการสรรหานักรบมีค่าใช้จ่าย[Money], พ่อค้าจะสร้างรายได้ที่มั่นคงให้กับเผ่าของท่าน</desc>
 		</Merchant>
 		<Sailor>
 			<name>กะลาสี</name>
@@ -1293,7 +1293,7 @@
 		</Plunder>
 		<Conqueror>
 			<name>Invader</name>
-			<desc>เพิ่มพลังกลุ่มนักรบของท่านกับ Defense Towers ขึ้น ::percent::, และทำให้การแย่งชิงอาณานิคมเร็วขึ้นเป็นสองเท่า</desc>
+			<desc>เพิ่มพลังกองทหารของท่านกับ Defense Towers ขึ้น ::percent::, และทำให้การแย่งชิงอาณานิคมเร็วขึ้นเป็นสองเท่า</desc>
 		</Conqueror>
 		<Threats>
 			<name>Veiled Threats</name>
