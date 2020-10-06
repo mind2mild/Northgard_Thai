@@ -57,7 +57,7 @@
 			<name>โรงฅีเหล็ก</name>
 		</Forge>
 		<Healing>
-			<name>Healing</name>
+			<name>การรักษา</name>
 		</Healing>
 		<SheepFood>
 			<name>อาหาร</name>
@@ -99,7 +99,7 @@
 		</HuntTrophy>
 		<LoreBifrost>
 			<name>Bifrost's Lore</name>
-			<desc>[Lore] allows you to activate [BifrostLore].</desc>
+			<desc>[Lore] ช่วยให้คุณเปิดใช้งาน [BifrostLore]</desc>
 		</LoreBifrost>
 		<Artifact>
 			<name>Ancestral Equipment</name>
@@ -157,13 +157,13 @@
 		<Skald>
 			<name>กวี</name>
 			<langs.plural>กวี</langs.plural>
-			<desc>Skalds' tales of your clan's deeds will increase your [Fame] and [Happy].</desc>
+			<desc>กวีจะเล่าเรื่องราว เกี่ยวกับการกระทำของเผ่าคุณ และจะเพิ่ม [Fame] และ [Happy] ของคุณ</desc>
 			<flavor>"Skald" literally means "poet." Skaldic poetry is one of the two main forms of Old Norse poetry, the other being Eddic poetry.</flavor>
 		</Skald>
 		<Miner>
 			<name>คนขุดแร่</name>
 			<langs.plural>คนขุดแร่</langs.plural>
-			<desc>Miners extract [Stone] and [Iron] from the area until the deposits are depleted.</desc>
+			<desc>คนขุดแร่จะขุด [Stone] และ [Iron] ออกจากพื้นที่จนกว่าการทับทมจะหมดลง</desc>
 			<flavor>What's yours is mine!</flavor>
 		</Miner>
 		<Scout>
@@ -174,13 +174,13 @@
 		<Healer>
 			<name>หมอยา</name>
 			<langs.plural>หมอยา</langs.plural>
-			<desc>Healers gather medicinal herbs that your wounded will use to heal themselves. The wounded must be within your territory to heal. They also gather [Food] when not otherwise busy.</desc>
+			<desc>หมอยาจะรวบรวมสมุนไพรที่ใช้ในการรักษา จะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของคุณ และพวกเขายังรวบรวม [Food] เมื่อว่าง</desc>
 			<flavor>Wolol...oh, sorry, wrong line.</flavor>
 		</Healer>
 		<Mender>
-			<name>ช่างปรุงยา</name>
-			<langs.plural>หมอยา</langs.plural>
-			<desc>Menders heal wounded Vikings within your territory and gather [Lore] when not otherwise busy.</desc>
+			<name>หมอผี</name>
+			<langs.plural>หมอผี</langs.plural>
+			<desc>หมอผีจะรักษาไวกิ้งที่บาดเจ็บภายในดินแดนของคุณ และจะรวบรวม [Lore] เมื่อว่าง</desc>
 		</Mender>
 		<Smith>
 			<name>ช่างตีเหล็ก</name>
@@ -200,14 +200,14 @@
 		<Norn>
 			<name>ร่างทรง</name>
 			<langs.plural>ร่างทรง</langs.plural>
-			<desc>The Norns try to elucidate the will of the Kraken, bringing foresight and good fortune to the clan.</desc>
+			<desc>พวกร่างทรงพยายามอธิบายเจตจำนงของคราเคน สามารถทำนายอนาคตและนำความโชคดีมาสู่เผ่า</desc>
 		</Norn>
 		<Warden>
 			<name>นักดาบ</name>
 		</Warden>
 		<Warrior>
 			<name>นักรบ</name>
-			<desc>นักรบเป็นยูนิตพื้นฐานที่สุดใน [Warband] . พวกเขามีความเชี่ยวชาญในการสู้รบและได้เปรียบกับคู่ต่อสู้ที่ใช้โล่ป้องกัน</desc>
+			<desc>นักรบเป็นยูนิตพื้นฐานที่สุดใน [Warband] พวกเขามีความเชี่ยวชาญในการสู้รบ และได้เปรียบกับคู่ต่อสู้ที่ใช้โล่ป้องกัน</desc>
 			<flavor></flavor>
 		</Warrior>
 		<ShieldBearer>
@@ -222,8 +222,9 @@
 			<desc>นักปาขวานสามารถโจมตีระยะไกลได้ และมีพลังโจมตีที่มากกว่าทหารทั่วไป แต่จะมีค่าพลังชีวิตที่น้อยกว่า</desc>
 		</AxeWielder>
 		<Skirmisher>
-			<name>นักต่อสู้</name>
-			<desc>นักต่อสู้เปรียบเสมือนพลทหารเบาที่นำค่าพลังป้องกันแลกกับการการเคลื่อนไหวที่รวดเร็วขึ้น นอกจากนั้นยังสามารถ [CanHide].</desc>
+			<name>พลหอก</name>
+			<langs.plural>พลหอก</langs.plural>
+			<desc>พลหอกเป็นพลทหารเบา ที่นำค่าพลังป้องกันแลกกับการการเคลื่อนไหวที่รวดเร็วขึ้น นอกจากนั้นยังสามารถ [CanHide]</desc>
 			<flavor>คอยดูหลังเจ้าไว้ให้ดี อย่าหาว่าข้าไม่เตือนล่ะ!</flavor>
 		</Skirmisher>
 		<Dragonmen>
@@ -5978,8 +5979,8 @@
 			<desc>[Dragonmen]s regenerate health.</desc>
 		</SacrificeRegen>
 		<CanHide>
-			<name>Cloaked</name>
-			<desc>Can hide from foes, unless war is declared in the zone.</desc>
+			<name>ซ่อนตัว</name>
+			<desc>สามารถซ่อนตัวจากศัตรู เว้นแต่ในเขตที่มีสงคราม</desc>
 		</CanHide>
 		<GiantCrowAoE>
 			<name>Bash</name>
