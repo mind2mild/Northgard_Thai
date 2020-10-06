@@ -5089,34 +5089,34 @@
 	</sheet>
 	<sheet name="biome">
 		<Meadow>
-			<name>ทุ่งหญ้า</name>
+			<name>Meadow</name>
 		</Meadow>
 		<Autumn>
-			<name>ฤดูใบไม้ร่วง</name>
+			<name>Autumn</name>
 		</Autumn>
 		<Christmas>
-			<name>เยือกแข็ง</name>
+			<name>Permafrost</name>
 		</Christmas>
 		<Foothills>
-			<name>เชิงเขา</name>
+			<name>Foothills</name>
 		</Foothills>
 		<Frosted>
-			<name>หนาวจัด</name>
+			<name>Frosted</name>
 		</Frosted>
 		<Ragnarok>
 			<name>Ragnarok</name>
 		</Ragnarok>
 		<Steppe>
-			<name>ที่ราบกว้างใหญ่</name>
+			<name>Steppe</name>
 		</Steppe>
 		<Taiga>
-			<name>ป่าหิมะ</name>
+			<name>Taiga</name>
 		</Taiga>
 		<Toundra>
-			<name>ที่ราบเยือกแข็ง</name>
+			<name>Tundra</name>
 		</Toundra>
 		<WildLands>
-			<name>ดินแดนป่า</name>
+			<name>Wild Lands</name>
 		</WildLands>
 	</sheet>
 	<sheet name="achievement">
