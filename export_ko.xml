@@ -163,7 +163,7 @@
 		<Miner>
 			<name>คนขุดแร่</name>
 			<langs.plural>คนขุดแร่</langs.plural>
-			<desc>คนขุดแร่จะขุด [Stone] และ [Iron] ออกจากพื้นที่จนกว่าการทับทมจะหมดลง</desc>
+			<desc>คนขุดแร่จะขุด [Stone] และ [Iron] ออกจากพื้นที่จนกว่าการทับถมจะหมดลง</desc>
 			<flavor>What's yours is mine!</flavor>
 		</Miner>
 		<Scout>
@@ -684,7 +684,7 @@
 		</Tavern>
 		<AllMines>
 			<name>เหมือง</name>
-			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone], [Iron], [RimeSteel] หรือ [Gemstone] จากการทับทม</desc>
+			<desc>นำชาวบ้านของคุณมาเปลี่ยนอาชีพเป็น [Miner] เพื่อขุด [Stone], [Iron], [RimeSteel] หรือ [Gemstone] จากการทับถม</desc>
 		</AllMines>
 		<Mine>
 			<name>Quarry</name>
