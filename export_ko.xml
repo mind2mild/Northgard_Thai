@@ -309,12 +309,12 @@
 		<KrakenMaiden>
 			<name>หัวหน้าเผ่า</name>
 			<desc>บุคคลผู้เป็นแกนนำของคนทั้งเผ่า หัวหน้าเผ่าเป็นผู้ที่ความเชี่ยวชาญในการสู้รบเป็นอย่างมาก</desc>
-			<editor.name>Warchief [Kraken]</editor.name>
+			<editor.name>หัวหน้าเผ่า[Kraken]</editor.name>
 		</KrakenMaiden>
 		<OxHero>
 			<name>Torfin</name>
 			<desc>Head of the clan of the Ox, [OxHero] is a Hero both feared and respected by all across Northgard.</desc>
-			<editor.name>Warchief [Ox]</editor.name>
+			<editor.name>หัวหน้าเผ่า[Ox]</editor.name>
 		</OxHero>
 		<LynxHero>
 			<name>Mielikki</name>
