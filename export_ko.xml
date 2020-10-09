@@ -773,7 +773,7 @@
 			</upgrades>
 		</ShieldCenter>
 		<Archery>
-			<name>Archery Range</name>
+			<name>ค่ายฝึกนักธนู</name>
 			<langs.plural>Archery Ranges</langs.plural>
 			<desc>Allows you to recruit [Tracker]s, choose their arrows, and increases your [Warband] size by ::value::.</desc>
 			<upgrades>
@@ -783,7 +783,7 @@
 			</upgrades>
 		</Archery>
 		<DragonmenCamp>
-			<name>Dragonkin Altar</name>
+			<name>แท่นบูชานักรบมังกร</name>
 			<desc>Permanently transforms your villagers into [Dragonmen]s by following forgotten rituals and increases your [Warband]s size by ::value::.</desc>
 			<upgrades>
 				<0>
@@ -811,11 +811,11 @@
 			<props.noFameDesc>The Altar of Kings provides +::value::$icon(Food) +::value2::$icon(Wood) +::value3::$icon(Money) +::value4::$icon(Lore) production as well as +::value1::$icon(Happy)</props.noFameDesc>
 		</Temple>
 		<Lighthouse>
-			<name>Lighthouse</name>
+			<name>ประภาคาร</name>
 			<desc>Allows you to create Great Routes. Must be built on a [Port]. This one is invulnerable to Kraken attack events.</desc>
 		</Lighthouse>
 		<RavenLighthouse>
-			<name>Lighthouse</name>
+			<name>ประภาคาร</name>
 			<desc>Allows you to create Great Routes. Must be built on a [RavenPort]. This one is invulnerable to Kraken attack events.</desc>
 		</RavenLighthouse>
 		<SacrificialPyre>
@@ -868,10 +868,10 @@
 			<desc>ท่านสามารถสร้างเหมืองที่นี่เพื่อสกัด [Stone]</desc>
 		</Stones>
 		<Wreck>
-			<name>Wreck</name>
+			<name>ซาก</name>
 		</Wreck>
 		<Empty>
-			<name>Plain</name>
+			<name>พื้นที่ว่างเปล่า</name>
 			<desc>This area is empty.</desc>
 		</Empty>
 		<DeathCamp>
@@ -1162,7 +1162,7 @@
 			<desc>The magma in this area can be used to craft very powerful weapons.</desc>
 		</MagmaFlow>
 		<Volcano>
-			<name>Volcano</name>
+			<name>ภูเขาไฟ</name>
 			<langs.plural>Volcanoes</langs.plural>
 			<desc>A dangerous active volcano. Watch out for flying [Meteor]s!</desc>
 		</Volcano>
@@ -1195,55 +1195,55 @@
 	</sheet>
 	<sheet name="tech">
 		<Lumber>
-			<name>Sharp Axes</name>
+			<name>ขวานตัดไม้ที่แหลมคม</name>
 			<desc>คนตัดไม้จะผลิตไม้มากขึ้น ::percent::</desc>
 		</Lumber>
 		<Weaponsmith>
-			<name>Weaponsmith</name>
+			<name>การหลอมอาวุธ</name>
 			<desc>เพิ่มพลังโจมตีของหน่วยทหารทั้งหมด ของท่านขึ้น ::percent::</desc>
 		</Weaponsmith>
 		<Mining>
-			<name>Mining Efficiency</name>
+			<name>ขุดแร่ที่มีประสิทธิภาพ</name>
 			<desc>[Miner] สกัดแร่เร็วขึ้น ::percent::</desc>
 		</Mining>
 		<Colonize>
-			<name>Colonization</name>
+			<name>การขยายดินแดน</name>
 			<desc>ลดจำนวน [Food] ที่จำเป็นในการตั้งรกรากพื้นที่หนึ่ง ::inv_percent::</desc>
 		</Colonize>
 		<BetterSilo>
-			<name>Eradication</name>
+			<name>ทักษะการเก็บเกี่ยว</name>
 			<desc>[FoodSilo] ได้รับโบนัสการผลิต [Food] ขึ้น ::percent:: และยังลดต้นทุนการอัพเกรด [FoodSilo] ::percent_value1::</desc>
 		</BetterSilo>
 		<Coats>
-			<name>Fur Coats</name>
+			<name>เสื้อขนสัตว์</name>
 			<desc>ยูนิตของท่านพลังไม่ลดลงในช่วงฤดูหนาวอีกต่อไป</desc>
 		</Coats>
 		<Defense>
-			<name>Defensive Strategy</name>
+			<name>ยุทธวิธีการป้องกัน</name>
 			<desc>เพิ่มการโจมตีของพลเรือนและความต้านทานของ Defense Towers' ของท่านขึ้น ::percent::</desc>
 		</Defense>
 		<Drakkars>
-			<name>Shipbuilding</name>
+			<name>การต่อเรือ</name>
 			<desc>เพิ่มการผลิตทรัพยากรของ [Sailor] ขึ้น ::percent::</desc>
 		</Drakkars>
 		<Coinage>
-			<name>Coinage</name>
+			<name>เงินกษาปณ์</name>
 			<desc>[Merchant] ของท่านจะผลิต [Money] มากขึ้น ::percent::</desc>
 		</Coinage>
 		<Recruit>
-			<name>Recruitment</name>
+			<name>การเติบโตประชากร</name>
 			<desc>เพิ่มความเร็วในการเติบโตของประชากรขึ้น ::percent0:: อย่างถาวร, ท่านจะได้รับเพิ่มอีก ::percent_value1:: ในช่วงเดือน ::value2:: ต่อหนึ่งยูนิตในเผ่าของท่านที่ถูกสังหาร โดยศัตรูหรือถูกทำลาย (สูงสุด ::percent_value3::)</desc>
 		</Recruit>
 		<Medecine>
-			<name>Medicine</name>
+			<name>ยารักษาโรค</name>
 			<desc>เพิ่มความเร็วในการรักษาของ [Healer] ขึ้น ::percent::</desc>
 		</Medecine>
 		<MilitaryStrategy>
-			<name>Military Strategy</name>
+			<name>ยุทธวิธีการทหาร</name>
 			<desc>หน่วยทหารจะได้รับการโจมตี +::percent_value:: ต่อหน่วยทหารพันธมิตร แต่ละประเภทในพื้นที่ (สูงสุด +::percent_value1::)</desc>
 		</MilitaryStrategy>
 		<Security>
-			<name>Feeling Safe</name>
+			<name>ความรู้สึกปลอดภัย</name>
 			<desc>ได้รับ +::value::[Happy] หากท่านมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</desc>
 			<props.firstNameDesc>ได้รับ +::value::[Happy] หากท่านมี [Hero01] และ +::value1::[Happy] ต่อหนึ่งค่ายทหารที่อัพเกรดแล้ว</props.firstNameDesc>
 		</Security>
@@ -1252,11 +1252,11 @@
 			<desc>เพิ่มการผลิตของ [RuneMaster] ขึ้น ::percent::, สร้าง [CarvedStone] อันแรกฟรี</desc>
 		</Knowledge>
 		<Upgrades>
-			<name>Carpentry Mastery</name>
+			<name>ช่างตัดไม้มืออาชีพ</name>
 			<desc>ลดค่าอัพเกรดสิ่งปลูกสร้างของท่านลง ::inv_percent::</desc>
 		</Upgrades>
 		<HeartStone>
-			<name>Hearthstone</name>
+			<name>แผ่นหินเตาเผา</name>
 			<desc>ลดการใช้ ไม้ฟืน ในช่วงฤดูหนาวลง ::inv_percent:: และลดโทษของอาหารในช่วงฤดูหนาวลง ::inv_percent1::</desc>
 		</HeartStone>
 		<SlotGrowth>
@@ -1264,15 +1264,15 @@
 			<desc>-::inv_percent:: ความต้องการความสุขตามจำนวนประชากรของท่าน</desc>
 		</SlotGrowth>
 		<Heroes>
-			<name>Legendary Heroes</name>
+			<name>ฮีโร่ในตำนาน</name>
 			<desc>เพิ่มการโจมตีและการป้องกันของ [Hero01] ของท่านขึ้น ::percent::</desc>
 		</Heroes>
 		<MonsterSlayer>
-			<name>Monster Slayer</name>
+			<name>นักล่ามอนสเตอร์</name>
 			<desc>เพิ่มการโจมตีของหน่วยทหารของท่านขึ้น ::percent:: ต่อหนึ่งสิ่งมีชีวิตลึกลับ, และยังได้รับ ::xp_type:: มากขึ้น ::percent_value1:: ต่อหนึ่งสิ่งมีชีวิตลึกลับที่ถูกฆ่า</desc>
 		</MonsterSlayer>
 		<Negociate>
-			<name>Negotiation</name>
+			<name>ทักษะต่อรอง</name>
 			<desc>ลดราคาของใน Marketplace ลง ::inv_percent:: และเติมสินค้าเร็วขึ้น ::percent1::</desc>
 		</Negociate>
 		<SlotWealth>
@@ -1280,7 +1280,7 @@
 			<desc>เส้นทางการซื้อขายจะได้รับ [Money] เพิ่มอีก ::percent:: , ความสัมพันธ์กับกลุ่ม neutral เพิ่มเร็วขึ้น ::percent1::</desc>
 		</SlotWealth>
 		<Ascetic>
-			<name>Field Rations</name>
+			<name>อาหารภาคสนาม</name>
 			<desc>ลดการบริโภค [Food] ของหน่วยทหารของท่านลง ::inv_percent::</desc>
 		</Ascetic>
 		<Pillage>
